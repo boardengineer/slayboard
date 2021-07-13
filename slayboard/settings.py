@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-amrat59@s8n$$yj(t+9l4&^*x&arhthwfvl&i4-19kn8=mdlm4
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '54.221.53.86'
+    '54.221.53.86',
+    '127.0.0.1',
 ]
 
 
@@ -40,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
