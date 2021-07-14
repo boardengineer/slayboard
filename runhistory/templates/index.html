@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+.content {
+  display: none;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+</style>
+</head>
+<body>
+
+<h2>Recent Run History</h2>
+
+{% if run_list %}
+
+
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+       <th>Victory</th>
+       <th>Points</th>
+    </tr>
+    {% for run in run_list %}
+    <tr class="collapsible">
+       <td>{{ run.victory }}</td>
+       <td>{{ run.score }}</td>
+    </tr>
+    <tr class="content">
+        <td colspan="2">
+            <table>
+                <tr>
+                    <th>Screen Name</th>
+                    <th>Total Votes</th>
+                </tr>
+                {% for player in run.stsrunplayer_set.all %}
+                <tr>
+                    <td>{{ player.screen_name }}</td>
+                    <td>{{ player.votes }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </td>
+    </tr>
+    
+
+    {% endfor %}
+
+  </table>
+</div>
+{% else %}
+    <p>No runs are available.</p>
+{% endif %}
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "table-row") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "table-row";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
