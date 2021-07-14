@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 runhistory/migrations/0001_initial.py
 runhistory/migrations/0002_stsrunplayer.py
+runhistory/migrations/0003_alter_stsrunplayer_run.py
