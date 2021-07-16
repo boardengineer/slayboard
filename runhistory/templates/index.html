@@ -61,7 +61,7 @@ tr:nth-child(even){background-color: #f2f2f2}
                     <th>Screen Name</th>
                     <th>Total Votes</th>
                 </tr>
-                {% for player in run.stsrunplayer_set.all %}
+                {% for player in run.players.all %}
                 <tr>
                     <td>{{ player.screen_name }}</td>
                     <td>{{ player.votes }}</td>
