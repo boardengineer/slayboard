@@ -58,6 +58,16 @@ tr:nth-child(even){background-color: #f2f2f2}
             </table>
             <table>
                 <tr>
+                    <th>Relics</th>
+                </tr>
+                {% for relic in run.relics.all %}
+                <tr>
+                    <td>{{relic.relic_id}}</td>
+                </tr>
+		{% endfor %}
+            </table>
+            <table>
+                <tr>
                     <th>Screen Name</th>
                     <th>Total Votes</th>
                 </tr>
