@@ -34,14 +34,28 @@ tr:nth-child(even){background-color: #f2f2f2}
     <tr>
        <th>Victory</th>
        <th>Points</th>
+       <th>Ascension</th>
+       <th>Class</th>
     </tr>
     {% for run in run_list %}
     <tr class="collapsible">
        <td>{{ run.victory }}</td>
        <td>{{ run.score }}</td>
+       <td>{{ run.ascension }}</td>
+       <td>{{ run.character_class }}</td>
     </tr>
     <tr class="content">
-        <td colspan="2">
+        <td colspan="4">
+            <table>
+                <tr>
+                    <th>Decklist</th>
+                </tr>
+                {% for card in run.deck.all %}
+                <tr>
+                    <td>{{card.card_id}}</td>
+                </tr>
+		{% endfor %}
+            </table>
             <table>
                 <tr>
                     <th>Screen Name</th>
