@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import STSRun, STSRunPlayer, Card, Relic
+from .models import STSRun, STSRunPlayer, Card, Relic, FloorResult, Battle
 
 class STSRunPlayerSerializer(serializers.ModelSerializer):
 	
@@ -27,7 +27,7 @@ class STSRunSerializer(serializers.ModelSerializer):
 
 	class Meta:
 		model = STSRun
-		fields = ['victory', 'score', 'character_class', 'ascension', 'players', 'deck', 'relics']
+		fields = ['id','victory', 'score', 'character_class', 'ascension', 'players', 'deck', 'relics']
 
 	def create(self, validated_data):
 		player_data = validated_data.pop('players')
@@ -45,3 +45,30 @@ class STSRunSerializer(serializers.ModelSerializer):
 			Relic.objects.create(run=run, **relic)
 
 		return run
+
+	def update(self, instance, validated_data):
+		instance.score = validated_data.get('score', instance.score)
+		instance.save()
+		return instance
+
+
+class FloorResultSerializer(serializers.ModelSerializer):
+	class Meta:
+		model = FloorResult
+		fields = ['run', 'floor_num', 'hp_change']
+
+	def create(self, validated_data):
+		run = validated_data.pop('run')
+		floor_result = FloorResult.objects.create(run=run, **validated_data)
+		return floor_result
+
+
+class BattleSerializer(serializers.ModelSerializer):
+	class Meta:
+		model = Battle
+		fields = ['run', 'start_state']
+
+	def create(self, validated_data):
+		run = validated_data.pop('run')
+		battle = Battle.objects.create(run=run, **validated_data)
+		return battle

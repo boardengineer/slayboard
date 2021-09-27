@@ -5,6 +5,8 @@ from . import views
 
 router = routers.DefaultRouter()
 router.register(r'runs', views.RunHistoryViewSet)
+router.register(r'floor_results', views.FloorResultsViewSet)
+router.register(r'battles', views.BattlesViewSet)
 
 urlpatterns = [
     path('', views.index, name='index'),

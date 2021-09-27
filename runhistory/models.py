@@ -4,6 +4,9 @@ from django.db import models
 
 # Contains the results of a single fun.
 class STSRun(models.Model):
+	id = models.AutoField(primary_key=True)
+	created_at = models.DateTimeField(auto_now_add=True)
+	updated_at = models.DateTimeField(auto_now=True)
 	victory = models.BooleanField(default=False)
 	score = models.IntegerField(default=0)
 	character_class = models.CharField(max_length=64, default='')
@@ -24,3 +27,14 @@ class Card(models.Model):
 class Relic(models.Model):
 	run = models.ForeignKey(STSRun, related_name='relics', on_delete=models.CASCADE)
 	relic_id = models.CharField(max_length=64, default='')
+
+
+class FloorResult(models.Model):
+	run = models.ForeignKey(STSRun, related_name='floor_results', on_delete=models.CASCADE)
+	floor_num = models.IntegerField(default=0)
+	hp_change = models.IntegerField(default=0)
+
+
+class Battle(models.Model):
+	run = models.ForeignKey(STSRun, related_name='battles', on_delete=models.CASCADE)
+	start_state = models.TextField()
