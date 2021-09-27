@@ -6,7 +6,7 @@ from .serializers import STSRunSerializer, FloorResultSerializer, BattleSerializ
 from .models import STSRun, FloorResult, Battle
 
 def index(request):
-    run_list = STSRun.objects.all().order_by('-created_at')
+    run_list = STSRun.objects.order_by('-id')[:10]
     template = loader.get_template('index.html')
     context = {
         'run_list': run_list,
