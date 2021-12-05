@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import STSRun, STSRunPlayer, Card, Relic, FloorResult, Battle
+from .models import STSRun, STSRunPlayer, Card, Relic, FloorResult, Battle, BattleCommand, VoteResult
 
 class STSRunPlayerSerializer(serializers.ModelSerializer):
 	
@@ -27,7 +27,7 @@ class STSRunSerializer(serializers.ModelSerializer):
 
 	class Meta:
 		model = STSRun
-		fields = ['id','victory', 'score', 'character_class', 'ascension', 'players', 'deck', 'relics']
+		fields = ['id','victory', 'score', 'character_class', 'ascension', 'players', 'deck', 'relics', 'seed_string']
 
 	def create(self, validated_data):
 		player_data = validated_data.pop('players')
@@ -35,7 +35,7 @@ class STSRunSerializer(serializers.ModelSerializer):
 		relic_data = validated_data.pop('relics')
 		run = STSRun.objects.create(**validated_data)
 
-		for player in player_data:
+		for player in player_data: 	
 			STSRunPlayer.objects.create(run=run, **player)
 
 		for card in deck_data:
@@ -48,14 +48,19 @@ class STSRunSerializer(serializers.ModelSerializer):
 
 	def update(self, instance, validated_data):
 		instance.score = validated_data.get('score', instance.score)
+		instance.seed_string = validated_data.get('seed_string', instance.seed_string)
+		instance.ascension = validated_data.get('ascension', instance.ascension)
+		instance.character_class = validated_data.get('character_class', instance.character_class)
+
 		instance.save()
+
 		return instance
 
 
 class FloorResultSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = FloorResult
-		fields = ['run', 'floor_num', 'hp_change']
+		fields = ['id', 'run', 'floor_num', 'hp_change']
 
 	def create(self, validated_data):
 		run = validated_data.pop('run')
@@ -72,3 +77,25 @@ class BattleSerializer(serializers.ModelSerializer):
 		run = validated_data.pop('run')
 		battle = Battle.objects.create(run=run, **validated_data)
 		return battle
+
+
+class BattleCommandSerializer(serializers.ModelSerializer):
+	class Meta:
+		model = BattleCommand
+		fields = ['floor_result', 'command_string', 'index']
+
+	def create(self, validated_data):
+		floor_result = validated_data.pop('floor_result')
+		command = BattleCommand.objects.create(floor_result=floor_result, **validated_data)
+		return command
+
+
+class VoteResultSerializer(serializers.ModelSerializer):
+	class Meta:
+		model = VoteResult
+		fields = ['run', 'floor_num', 'index', 'winning_vote']
+
+	def create(self, validated_data):
+		run = validated_data.pop('run')
+		vote_result = VoteResult.objects.create(run=run, **validated_data)
+		return vote_result
