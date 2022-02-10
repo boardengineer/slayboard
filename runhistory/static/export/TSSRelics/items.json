@@ -1,0 +1,191 @@
+{
+  "mod": {
+    "name": "Twitch Slays Spire Relics",
+    "version": "1.0.0",
+    "authors": ["Board Engineer"],
+    "credits": "",
+    "description": "${project.description}",
+    "mts_version": "3.18.1",
+    "sts_version": "11-30-2020",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+    {
+      "name": "Preserved Amber",
+      "tier": "Common",
+      "pool": "",
+      "description": "Enemies in Elite rooms lose 2 Strength at the start of combat.",
+      "flavorText": "Poor bug never saw it coming."
+    },
+    {
+      "name": "Venomous Scales",
+      "tier": "Common",
+      "pool": "Green",
+      "description": "When attacked, apply 2 Poison to the attacker.",
+      "flavorText": "Eww, what's that smell?"
+    },
+    {
+      "name": "Yin",
+      "tier": "Common",
+      "pool": "Purple",
+      "description": "Whenever you play a Skill, gain 1 temporary Strength.",
+      "flavorText": "Needed for true duality"
+    },
+    {
+      "name": "Cleric's Golden Helm",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Whenever you add a card to your deck, heal 5 HP.",
+      "flavorText": "It's very shiny, that's how you know its important. Suggested by Galvior."
+    },
+    {
+      "name": "Filiform Needle",
+      "tier": "Uncommon",
+      "pool": "Purple",
+      "description": "At the start of each turn, apply 1 Mark to all enemies. ALL enemies lose HP equal to their Mark.",
+      "flavorText": "Don't worry, I'm a professional."
+    },
+    {
+      "name": "Jade Mystic Knot",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Whenever you obtain a relic, gain 2 Max HP.",
+      "flavorText": "Round and round and round it goes."
+    },
+    {
+      "name": "Paper Bomb",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Every time you play 3 Attacks in a single turn, deal 4 damage to ALL enemies.",
+      "flavorText": "It goes boom. Suggested by Galvior."
+    },
+    {
+      "name": "Ship's Sail",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "At the start of your 4th turn, gain 22 Block.",
+      "flavorText": "Catches the wind. Suggested by bobjoejuan."
+    },
+    {
+      "name": "Solid State Drive",
+      "tier": "Uncommon",
+      "pool": "Blue",
+      "description": "Whenever you evoke an orb, gain 1 Strength.",
+      "flavorText": "For the quickest boot times."
+    },
+    {
+      "name": "Tactical Harness",
+      "tier": "Uncommon",
+      "pool": "Green",
+      "description": "Whenever a card, power, or relic would add Shivs to the hand, create 1 additional Shiv.",
+      "flavorText": "I always wondered where she hid those knives."
+    },
+    {
+      "name": "Achilles Heel Guard",
+      "tier": "Rare",
+      "pool": "",
+      "description": "If you haven't taken damage this combat, gain [E] at the start of your turn.",
+      "flavorText": "It's fragile, don't let it crack."
+    },
+    {
+      "name": "Blighted Snail",
+      "tier": "Rare",
+      "pool": "",
+      "description": "At the end of each turn deal damage that increases each turn by the Fibonacci sequence (0,1,1,2,3,5,8,...).",
+      "flavorText": "You get lost in those smooth curves."
+    },
+    {
+      "name": "Business Contract",
+      "tier": "Rare",
+      "pool": "",
+      "description": "The Merchant's removal service can be used any number of times.",
+      "flavorText": "Gotta read the fine print."
+    },
+    {
+      "name": "Festivus Pole",
+      "tier": "Rare",
+      "pool": "",
+      "description": "You can now transform a card and upgrade it at rest sites.",
+      "flavorText": "Great strength to weight ratio."
+    },
+    {
+      "name": "Horn Of Plenty",
+      "tier": "Rare",
+      "pool": "",
+      "description": "The first rare card you play each combat is free.",
+      "flavorText": "The rich just keep getting richer."
+    },
+    {
+      "name": "Snecko Charm",
+      "tier": "Rare",
+      "pool": "",
+      "description": "? rooms can now contain Elites or Rest Sites.",
+      "flavorText": "Well, good luck..."
+    },
+    {
+      "name": "Snecko Skin Boots",
+      "tier": "Rare",
+      "pool": "",
+      "description": "At the start of each turn, gain 2 Strength, 2 Dexterity, -1 Strength, or -1 Dexterity, chosen at random.",
+      "flavorText": "Poor confusing creature, now losing its skin. suggested by coledot_."
+    },
+    {
+      "name": "Vampire Fang",
+      "tier": "Rare",
+      "pool": "Red",
+      "description": "Whenever you play a Strike, heal 1 HP.",
+      "flavorText": "Sure they're fake teeth but the monsters won't know the difference."
+    },
+    {
+      "name": "Happy Flower Bed",
+      "tier": "Boss",
+      "pool": "",
+      "description": "You can now plant Happy Flowers at rest sites, counters will stagger.\nUpon pickup, obtain one Happy Flower per defeated boss.",
+      "flavorText": "They all just keep on smiling."
+    },
+    {
+      "name": "Relic Compass",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn.\nAll Elites gain an [additional] emerald (flaming) buff.",
+      "flavorText": "All the elites are on fire? Everything is fine."
+    },
+    {
+      "name": "Runic Replicator",
+      "tier": "Boss",
+      "pool": "",
+      "description": "At start of combat, choose a card in hand. Add a copy of that card to your hand, it costs 0 this turn.",
+      "flavorText": "A lot of things are great when they're free."
+    },
+    {
+      "name": "Comic Book",
+      "tier": "Shop",
+      "pool": "",
+      "description": "The first colorless card you play each combat is played twice.",
+      "flavorText": "It's collectible."
+    },
+    {
+      "name": "Dice Of Fate",
+      "tier": "Shop",
+      "pool": "",
+      "description": "You can reroll the shop's contents once per shop.",
+      "flavorText": "Roll them bones."
+    },
+    {
+      "name": "Fresh Water",
+      "tier": "Shop",
+      "pool": "",
+      "description": "Upon pickup, heal 50 HP.",
+      "flavorText": "Always Hydrate Properly. Suggested by ezLo2."
+    }
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

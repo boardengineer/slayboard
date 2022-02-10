@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Communication Mod",
+    "version": "1.1.0",
+    "authors": ["Forgotten Arbiter"],
+    "credits": "",
+    "description": "Used to help external programs communicate with Slay the Spire",
+    "mts_version": "3.18.1",
+    "sts_version": "11-30-2020",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

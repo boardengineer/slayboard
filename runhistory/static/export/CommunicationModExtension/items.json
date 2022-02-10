@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "CommunicationModExtension",
+    "version": "1.0.0",
+    "authors": ["Board Engineer"],
+    "credits": "",
+    "description": "${project.description}",
+    "mts_version": "3.18.1",
+    "sts_version": "12-22-2020",
+    "dependencies": ["basemod","SaveStateMod","CommunicationMod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

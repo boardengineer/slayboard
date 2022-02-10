@@ -1,0 +1,1392 @@
+{
+  "mod": {
+    "name": "The Vacant",
+    "version": "0.18.0",
+    "authors": ["Laugic"],
+    "credits": "",
+    "description": "A lost soul, bound to an artifact, is doomed to climb the Spire.",
+    "mts_version": "3.18.2",
+    "sts_version": "12-22-2020",
+    "dependencies": ["basemod","stslib"],
+    "optional_dependencies": []
+  },
+  "cards": [
+    {
+      "name": "Corporeate",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mill 5.\nthevacant:Return 1."
+    },
+    {
+      "name": "Corporeate+",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thevacant:Mill 5.\nthevacant:Return 1."
+    },
+    {
+      "name": "Defend",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block."
+    },
+    {
+      "name": "Defend+",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block."
+    },
+    {
+      "name": "Soul Bash",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 3 damage.\nGain 3 Vigor."
+    },
+    {
+      "name": "Soul Bash+",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 4 damage.\nGain 4 Vigor."
+    },
+    {
+      "name": "Strike",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage."
+    },
+    {
+      "name": "Strike+",
+      "color": "Vacant_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage."
+    },
+    {
+      "name": "Back in the Mine",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nthevacant:Chip your next thevacant:Gem."
+    },
+    {
+      "name": "Back in the Mine+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nthevacant:Chip your next thevacant:Gem."
+    },
+    {
+      "name": "Battle Scars",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Vigor.\nthevacant:Wounded: Gain 2 Strength.\nExhaust."
+    },
+    {
+      "name": "Battle Scars+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain [#00FF33]6[] Vigor.\nthevacant:Wounded: Gain 3 Strength.\nExhaust."
+    },
+    {
+      "name": "Cower",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nthevacant:Wounded: Gain 6 Block again."
+    },
+    {
+      "name": "Cower+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nthevacant:Wounded: Gain 8 Block again."
+    },
+    {
+      "name": "Cursed Blast",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Unnate.\nDeal 10 damage to ALL enemies."
+    },
+    {
+      "name": "Cursed Blast+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Unnate.\nDeal 14 damage to ALL enemies."
+    },
+    {
+      "name": "Dig",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nthevacant:Mill 3."
+    },
+    {
+      "name": "Dig+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nthevacant:Mill 5."
+    },
+    {
+      "name": "Eye Poke",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 2 damage 2 times.\nApply 1 Weak."
+    },
+    {
+      "name": "Eye Poke+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 2 damage 2 times.\nApply 2 Weak."
+    },
+    {
+      "name": "Fling",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nthevacant:Mill 4."
+    },
+    {
+      "name": "Fling+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage.\nthevacant:Mill 4."
+    },
+    {
+      "name": "Frantic Blow",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nthevacant:Wounded: Deal 12 damage again."
+    },
+    {
+      "name": "Frantic Blow+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 16 damage.\nthevacant:Wounded: Deal 16 damage again."
+    },
+    {
+      "name": "Grave Digger",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Rebound.\nDeal damage equal to the number of cards in your discard pile."
+    },
+    {
+      "name": "Grave Digger+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Rebound.\nDeal damage equal to the number of cards in your discard pile +3."
+    },
+    {
+      "name": "Grave Wave",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nthevacant:Wounded: Apply 2 Weak and 2 Vulnerable."
+    },
+    {
+      "name": "Grave Wave+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nthevacant:Wounded: Apply 2 Weak and 2 Vulnerable."
+    },
+    {
+      "name": "Jab",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 6 damage.\nShuffle this card into your draw pile."
+    },
+    {
+      "name": "Jab+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 8 damage.\nShuffle this card into your draw pile."
+    },
+    {
+      "name": "Ruby Rage",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine two size 3 thevacant:Rubies."
+    },
+    {
+      "name": "Ruby Rage+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine two size 4 thevacant:Rubies."
+    },
+    {
+      "name": "Sapphire Strike",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage. thevacant:Mine a size 3 thevacant:Sapphire."
+    },
+    {
+      "name": "Sapphire Strike+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. thevacant:Mine a size 4 thevacant:Sapphire."
+    },
+    {
+      "name": "Shrieking Blast",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 2 damage to ALL enemies 3 times."
+    },
+    {
+      "name": "Shrieking Blast+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 3 damage to ALL enemies 3 times."
+    },
+    {
+      "name": "Thoughtseize",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nthevacant:Return 1 card."
+    },
+    {
+      "name": "Thoughtseize+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nthevacant:Return 2 cards."
+    },
+    {
+      "name": "Treasure",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thevacant:Mine a size 1 thevacant:Emerald and a size 1 thevacant:Opal.\nExhaust."
+    },
+    {
+      "name": "Treasure+",
+      "color": "Vacant_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thevacant:Mine a size 2 thevacant:Emerald and a size 1 thevacant:Opal.\nExhaust."
+    },
+    {
+      "name": "Absorb Amethyst",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine a size 4 thevacant:Amethyst and thevacant:Chip it."
+    },
+    {
+      "name": "Absorb Amethyst+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine a size 6 thevacant:Amethyst and thevacant:Chip it."
+    },
+    {
+      "name": "Acceptance",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 2 Artifact."
+    },
+    {
+      "name": "Acceptance+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 3 Artifact."
+    },
+    {
+      "name": "Aw Man",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 4 HP.\nthevacant:Chip ALL your thevacant:Gems. Exhaust."
+    },
+    {
+      "name": "Aw Man+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 2 HP.\nthevacant:Chip ALL your thevacant:Gems. Exhaust."
+    },
+    {
+      "name": "Brass Magnet",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 14 damage. Whenever you draw this card, discard it."
+    },
+    {
+      "name": "Brass Magnet+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nDeal 18 damage. Whenever you draw this card, discard it."
+    },
+    {
+      "name": "Burden Break",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you take damage, gain 3 Vigor."
+    },
+    {
+      "name": "Burden Break+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you take damage, gain 4 Vigor."
+    },
+    {
+      "name": "Cleanse Soul",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you thevacant:Mill a Status or Curse, Exhaust it."
+    },
+    {
+      "name": "Cleanse Soul+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nWhenever you thevacant:Mill a Status or Curse, Exhaust it."
+    },
+    {
+      "name": "Embrace Darkness",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 6 thevacant:Shroud.\nApply 2 thevacant:Doom to EVERYONE.\nExhaust."
+    },
+    {
+      "name": "Embrace Darkness+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 9 thevacant:Shroud.\nApply 2 thevacant:Doom to EVERYONE.\nExhaust."
+    },
+    {
+      "name": "Emerald Splash",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage to ALL enemies.\nthevacant:Mine a size 2 thevacant:Emerald."
+    },
+    {
+      "name": "Emerald Splash+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage to ALL enemies.\nthevacant:Mine a size 3 thevacant:Emerald."
+    },
+    {
+      "name": "Enchant",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat."
+    },
+    {
+      "name": "Enchant+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat."
+    },
+    {
+      "name": "Expand",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 2 Max HP.\nLose 6 HP.\nExhaust."
+    },
+    {
+      "name": "Expand+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Max HP.\nLose 6 HP.\nExhaust."
+    },
+    {
+      "name": "Fortify",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 10 Block.\nthevacant:Wounded: Prevent the next time you would lose HP.\nExhaust."
+    },
+    {
+      "name": "Fortify+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 18 Block.\nthevacant:Wounded: Prevent the next time you would lose HP.\nExhaust."
+    },
+    {
+      "name": "Gloom",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "thevacant:Mill 3 at the start of your turn."
+    },
+    {
+      "name": "Gloom+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "thevacant:Mill 5 at the start of your turn."
+    },
+    {
+      "name": "Got Our Pickaxe",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, thevacant:Chip your next thevacant:Gem."
+    },
+    {
+      "name": "Got Our Pickaxe+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, thevacant:Chip your next thevacant:Gem 2 times."
+    },
+    {
+      "name": "Hex",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 thevacant:Doom.\nExhaust."
+    },
+    {
+      "name": "Hex+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 4 thevacant:Doom.\nExhaust."
+    },
+    {
+      "name": "Immaterialize",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "The next 3 cards you play that Exhaust return to your draw pile 2 turns later."
+    },
+    {
+      "name": "Immaterialize+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "The next 4 cards you play that Exhaust return to your draw pile 2 turns later."
+    },
+    {
+      "name": "Into the Abyss",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "2",
+      "description": "Gain 6 thevacant:Shroud.\nAt the start of your turn, apply 2 thevacant:Doom to EVERYONE."
+    },
+    {
+      "name": "Into the Abyss+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "2",
+      "description": "Gain 9 thevacant:Shroud.\nAt the start of your turn, apply 2 thevacant:Doom to EVERYONE."
+    },
+    {
+      "name": "Lash Out",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to your missing HP.\nExhaust."
+    },
+    {
+      "name": "Lash Out+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal damage equal to your missing HP.\nExhaust."
+    },
+    {
+      "name": "On Second Thought",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nthevacant:Return 1 card.\nExhaust."
+    },
+    {
+      "name": "On Second Thought+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thevacant:Rebound.\nthevacant:Return 2 cards.\nExhaust."
+    },
+    {
+      "name": "Onyx Blaster",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nthevacant:Mine a size 2 thevacant:Onyx.\nExhaust."
+    },
+    {
+      "name": "Onyx Blaster+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 14 damage.\nthevacant:Mine a size 3 thevacant:Onyx.\nExhaust."
+    },
+    {
+      "name": "Opal Fracture",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 16 damage.\nthevacant:Mine a size 2 thevacant:Opal."
+    },
+    {
+      "name": "Opal Fracture+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 22 damage.\nthevacant:Mine a size 3 thevacant:Opal."
+    },
+    {
+      "name": "Opal Shine",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine a size 3 thevacant:Opal."
+    },
+    {
+      "name": "Opal Shine+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "thevacant:Mine a size 4 thevacant:Opal."
+    },
+    {
+      "name": "Reaper Blast",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 2 thevacant:Reap and 2 Weak to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Reaper Blast+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 3 thevacant:Reap, 3 Vulnerable, and 3 Weak to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Reaper Strike",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Apply 2 thevacant:Reap and deal 14 damage to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Reaper Strike+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Apply 3 thevacant:Reap and deal 18 damage to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Recover",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of battle, if you are thevacant:Wounded, heal 10 HP."
+    },
+    {
+      "name": "Recover+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of battle, if you are thevacant:Wounded, heal 14 HP."
+    },
+    {
+      "name": "Reflection",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Block each time you thevacant:Mill a card."
+    },
+    {
+      "name": "Reflection+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Gain 1 Block each time you thevacant:Mill a card."
+    },
+    {
+      "name": "Sneeze",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Retain.\nthevacant:Mill 4. When Retained, increase this card's thevacant:Mill by 2.\nExhaust."
+    },
+    {
+      "name": "Sneeze+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Innate. Retain.\nthevacant:Mill 4. When Retained, increase this card's thevacant:Mill by 2.\nExhaust."
+    },
+    {
+      "name": "Snowball",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Rebound.\nDeal 4 damage.\nWhen this card is thevacant:Milled, double its damage this combat."
+    },
+    {
+      "name": "Snowball+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "thevacant:Rebound.\nthevacant:Unnate. thevacant:Heavy.\nDeal 5 damage.\nWhen this card is thevacant:Milled, double its damage this combat."
+    },
+    {
+      "name": "Soul Barrage",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 3 times. Can be upgraded any number of times."
+    },
+    {
+      "name": "Soul Barrage+1",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 4 times. Can be upgraded any number of times."
+    },
+    {
+      "name": "Spelunk",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\nChoose a random thevacant:Gem to thevacant:Mine out of 3."
+    },
+    {
+      "name": "Spelunk+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nChoose a random thevacant:Gem to thevacant:Mine out of 4."
+    },
+    {
+      "name": "Spinshield",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 3 Block 3 times."
+    },
+    {
+      "name": "Spinshield+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 5 Block 3 times."
+    },
+    {
+      "name": "Surprise Attack",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Unnate. thevacant:Rebound.\nDeal 14 damage.\nExhaust."
+    },
+    {
+      "name": "Surprise Attack+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "thevacant:Unnate. thevacant:Rebound.\nDeal 18 damage.\nExhaust."
+    },
+    {
+      "name": "Threaten",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 0 damage 5 times.\nExhaust."
+    },
+    {
+      "name": "Threaten+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 0 damage 7 times.\nExhaust."
+    },
+    {
+      "name": "Topaz Frenzy",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 3 damage 3 times.\nthevacant:Mine a size 6 thevacant:Ruby.\nExhaust."
+    },
+    {
+      "name": "Topaz Frenzy+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 5 damage 3 times.\nthevacant:Mine a size 8 thevacant:Ruby.\nExhaust."
+    },
+    {
+      "name": "Unearth",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 1 card from the bottom of your draw pile.\nExhaust."
+    },
+    {
+      "name": "Unearth+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards from the bottom of your draw pile.\nExhaust."
+    },
+    {
+      "name": "Void Embrace",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever a card you play Exhausts, gain 1 [#ee82ee]Void[]."
+    },
+    {
+      "name": "Void Embrace+",
+      "color": "Vacant_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nWhenever a card you play Exhausts, gain 1 [#ee82ee]Void[]."
+    },
+    {
+      "name": "Dark Strike",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "4",
+      "description": "Deal 6 damage\n6 times.\nApply 6 thevacant:Doom."
+    },
+    {
+      "name": "Dark Strike+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 6 damage\n6 times.\nApply 6 thevacant:Doom."
+    },
+    {
+      "name": "Diamond Is Unbreakable",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "thevacant:Mine a size X thevacant:Diamond.\nExhaust."
+    },
+    {
+      "name": "Diamond Is Unbreakable+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "thevacant:Mine a size X+1 thevacant:Diamond.\nExhaust."
+    },
+    {
+      "name": "Dimension Tear",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nAdd your Exhaust pile to your hand.\nExhaust."
+    },
+    {
+      "name": "Dimension Tear+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 18 damage.\nAdd your Exhaust pile to your hand.\nExhaust."
+    },
+    {
+      "name": "Empty Shield",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain Block equal to your missing HP.\nExhaust."
+    },
+    {
+      "name": "Empty Shield+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain Block equal to your missing HP."
+    },
+    {
+      "name": "Essence Of Bismuth",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Double debuffs on ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Essence Of Bismuth+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Double debuffs on ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Exorcise",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Cleanse all your Debuffs.\nExhaust."
+    },
+    {
+      "name": "Exorcise+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Cleanse all your Debuffs and apply them to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Fiend Frost",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 3 damage for each card in your discard pile. Exhaust your discard pile.\nExhaust."
+    },
+    {
+      "name": "Fiend Frost+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage for each card in your discard pile. Exhaust your discard pile.\nExhaust."
+    },
+    {
+      "name": "Forge Soul",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you thevacant:Mill a card, upgrade it for the rest of combat."
+    },
+    {
+      "name": "Forge Soul+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nWhenever you thevacant:Mill a card, upgrade it for the rest of combat."
+    },
+    {
+      "name": "From Nothing",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "thevacant:Mill your draw pile.\nExhaust."
+    },
+    {
+      "name": "From Nothing+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Innate.\nthevacant:Mill your draw pile.\nExhaust."
+    },
+    {
+      "name": "Gilded Pickaxe",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice. thevacant:Chip ALL your thevacant:Gems."
+    },
+    {
+      "name": "Gilded Pickaxe+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage twice. thevacant:Chip ALL your thevacant:Gems."
+    },
+    {
+      "name": "Memoria",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "The next time you play a card that Exhausts, play it twice."
+    },
+    {
+      "name": "Memoria+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "The next 2 times you play a card that Exhausts, play it twice."
+    },
+    {
+      "name": "Reap Soul",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage.\nGain Temporary_HP equal to unblocked damage.\nExhaust."
+    },
+    {
+      "name": "Reap Soul+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 14 damage.\nGain Temporary_HP equal to unblocked damage.\nExhaust."
+    },
+    {
+      "name": "Rejection",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 2 Vulnerable, 2 Weak, and 4 Strength."
+    },
+    {
+      "name": "Rejection+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 2 Vulnerable, 2 Weak, and 6 Strength."
+    },
+    {
+      "name": "Requiem",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you gain HP, a buff, or a debuff, double it."
+    },
+    {
+      "name": "Requiem+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you gain HP, a buff, or a debuff, double it."
+    },
+    {
+      "name": "Runic Thoughts",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Powers thevacant:Rebound.\nWhen you thevacant:Mill a Power, it costs 0 that turn."
+    },
+    {
+      "name": "Runic Thoughts+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "thevacant:Rebound.\nPowers thevacant:Rebound.\nWhen you thevacant:Mill a Power, it costs 0 that turn."
+    },
+    {
+      "name": "Shatter",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Chip ALL your Gems until they are gone. Exhaust."
+    },
+    {
+      "name": "Shatter+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Chip ALL your Gems until they are gone. Exhaust."
+    },
+    {
+      "name": "Showdown",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage 2 times to ALL enemies.\nApply 2 thevacant:Doom to\nEVERYONE."
+    },
+    {
+      "name": "Showdown+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 14 damage 2 times to ALL enemies.\nApply 2 thevacant:Doom to\nEVERYONE."
+    },
+    {
+      "name": "The Anvil",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable. thevacant:Unnate. thevacant:Heavy.\nWhen this card is thevacant:Milled, deal 24 damage to ALL enemies."
+    },
+    {
+      "name": "The Anvil+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable. thevacant:Unnate. thevacant:Heavy.\nWhen this card is thevacant:Milled, deal 32 damage to ALL enemies."
+    },
+    {
+      "name": "Time Skip",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "All cards in your hand cost 0 and Exhaust.\nExhaust."
+    },
+    {
+      "name": "Time Skip+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Draw 2 cards.\nAll cards in your hand to cost 0 and Exhaust.\nExhaust."
+    },
+    {
+      "name": "Void Form",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Gain 5 [#ee82ee]Void[]."
+    },
+    {
+      "name": "Void Form+",
+      "color": "Vacant_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Gain 8 [#ee82ee]Void[]."
+    }
+  ],
+  "relics": [
+    {
+      "name": "Brass Goblet",
+      "tier": "Starter",
+      "pool": "Vacant_color",
+      "description": "At the start of combat, gain 2 thevacant:Void.",
+      "flavorText": "An ancient artifact with dark power."
+    },
+    {
+      "name": "Locket Piece",
+      "tier": "Common",
+      "pool": "Vacant_color",
+      "description": "After a card thevacant:Rebounds, gain 4 Block.",
+      "flavorText": "A reminder of a life lost. Or at least, a piece of one."
+    },
+    {
+      "name": "Deathbell",
+      "tier": "Uncommon",
+      "pool": "Vacant_color",
+      "description": "At the start of each combat, if you are thevacant:Wounded, gain 10 Temporary_HP.",
+      "flavorText": "The scent invokes a feeling of dread."
+    },
+    {
+      "name": "Cracked Crystal Ball",
+      "tier": "Rare",
+      "pool": "Vacant_color",
+      "description": "Exhausted cards that aren't Statuses return to your draw pile after 2 turns.",
+      "flavorText": "Sometimes magic leaking into the world is more powerful than when it is contained."
+    },
+    {
+      "name": "Bound Soul",
+      "tier": "Boss",
+      "pool": "Vacant_color",
+      "description": "At the start of your turn, if you are thevacant:Wounded, gain [E] .",
+      "flavorText": "As death closes in, the artifact's hold on you weakens, and you feel your power grow."
+    },
+    {
+      "name": "Overflowing Goblet",
+      "tier": "Boss",
+      "pool": "Vacant_color",
+      "description": "Replaces Brass Goblet. At the start of combat, gain 2 Artifact.",
+      "flavorText": "An ancient artifact, now overflowing with dark power."
+    },
+    {
+      "name": "Tombstone",
+      "tier": "Boss",
+      "pool": "Vacant_color",
+      "description": "At the start of combat, after you draw, thevacant:Mill your draw pile.",
+      "flavorText": "Just as we all go to the grave eventually, all cards go to the discard pile eventually."
+    },
+    {
+      "name": "Polishing Rag",
+      "tier": "Shop",
+      "pool": "Vacant_color",
+      "description": "thevacant:Gems no longer decrease in size at the start of your turn.",
+      "flavorText": "Shiny gems are more powerful, everyone knows this."
+    }
+  ],
+  "potions": [
+    {
+      "name": "Mining Potion",
+      "rarity": "Common",
+      "description": "Choose 1 of 3 random Gems to Mine."
+    },
+    {
+      "name": "Swipe Potion",
+      "rarity": "Uncommon",
+      "description": "Mill 10 cards."
+    },
+    {
+      "name": "Invisibility Potion",
+      "rarity": "Rare",
+      "description": "Gain 6 Shroud."
+    }
+  ],
+  "creatures": [
+    {
+      "name": "the Vacant",
+      "type": "Player",
+      "minHP": "80",
+      "maxHP": "80"
+    }
+  ],
+  "keywords": [
+    {
+      "name": "Thevacant:amethyst",
+      "description": "Gem: Mill.\nIf your draw pile is empty, increase damage and Block.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:chip",
+      "description": "Trigger the effect and reduce the size of a Gem."
+    },
+    {
+      "name": "Thevacant:diamond",
+      "description": "Gem: Prevent the next time you would take damage and lose 1 size.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:doom",
+      "description": "Creatures take more damage for each Doom they have."
+    },
+    {
+      "name": "Thevacant:emerald",
+      "description": "Gem: Draw a card.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:everyone",
+      "description": "ALL enemies and you."
+    },
+    {
+      "name": "Thevacant:gem",
+      "description": "Gems are Orbs that reduce in size at the start of your turn."
+    },
+    {
+      "name": "Thevacant:heavy",
+      "description": "When your deck is reshuffled, move to the bottom of the draw pile."
+    },
+    {
+      "name": "Thevacant:materialize",
+      "description": "If this card is Exhausted, it loses 1 Materialize at the end of your turn. Once all Materialize is lost, this card is moved to the top of your draw pile."
+    },
+    {
+      "name": "Thevacant:mill",
+      "description": "Move an amount of cards from the top of your draw pile to your discard pile."
+    },
+    {
+      "name": "Thevacant:mine",
+      "description": "Create an orb slot and fill it with a Gem."
+    },
+    {
+      "name": "Thevacant:onyx",
+      "description": "Gem: Apply Doom to ALL enemies.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:opal",
+      "description": "Gem: Gain [E]\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:reap",
+      "description": "Heal this much HP when you attack this target. Removes at the end of the turn."
+    },
+    {
+      "name": "Thevacant:rebound",
+      "description": "If this card would be Milled, add it to your hand instead of the discard pile."
+    },
+    {
+      "name": "Thevacant:return",
+      "description": "Move a number of cards from your discard pile to your hand."
+    },
+    {
+      "name": "Thevacant:ruby",
+      "description": "Gem: Gain Vigor.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:sapphire",
+      "description": "Gem: Gain Temperance.\nLoses size over time."
+    },
+    {
+      "name": "Thevacant:shroud",
+      "description": "Halve incoming damage. Reduced by 1 at the start of your turn, and when you play an attack."
+    },
+    {
+      "name": "Thevacant:temperance",
+      "description": "The next time you Block, gain additional Block."
+    },
+    {
+      "name": "Thevacant:unnate",
+      "description": "Starts at the bottom of your draw pile."
+    },
+    {
+      "name": "Thevacant:void",
+      "description": "When your draw pile is empty, deal more damage and gain more Block."
+    },
+    {
+      "name": "Thevacant:wounded",
+      "description": "Wounded effects trigger if you are at or below 50% of your max health."
+    }
+  ]
+}

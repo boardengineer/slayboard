@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Battle Ai Mod",
+    "version": "1.0.0",
+    "authors": ["Board Engineer"],
+    "credits": "",
+    "description": "Server/Client setup allowing an AI to control the game",
+    "mts_version": "3.18.1",
+    "sts_version": "11-30-2020",
+    "dependencies": ["basemod","SaveStateMod","LudicrousSpeed"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

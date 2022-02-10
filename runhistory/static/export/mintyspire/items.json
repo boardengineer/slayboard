@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Minty Spire (QoL Compilation)",
+    "version": "2.5.3",
+    "authors": ["erasels"],
+    "credits": "Contributors: kiooeht, Mmagicala, Linzi, NotInTheFace \nTranslators: (ZHS) Rita-B, (KOR) GyeRak, Celicath",
+    "description": "A compilation of small QoL mods that make life a little more comfy in the spire.",
+    "mts_version": "3.15.0",
+    "sts_version": "11-29-2020",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}
