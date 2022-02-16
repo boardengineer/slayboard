@@ -1,22 +1,35 @@
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
+| Amethyst | ![](../../theVacant/small-card-images/Amethyst.png) | ![](../../theVacant/small-card-images/AmethystPlus.png) | Special | Skill |  | Size 2(6). At the start of your turn, thevacant:Mill 2(6) and lose 1 size. If your draw pile is empty, increase damage and Block by 2(6). |
 | Apparition | ![](../../slay-the-spire/small-card-images/Apparition.png) | ![](../../slay-the-spire/small-card-images/ApparitionPlus.png) | Special | Skill | 1 | Ethereal. (not Ethereal.) Gain 1 Intangible. Exhaust. |
 | Become Almighty | ![](../../slay-the-spire/small-card-images/BecomeAlmighty.png) | ![](../../slay-the-spire/small-card-images/BecomeAlmightyPlus.png) | Special | Power |  | Gain 3(4) Strength. |
 | Beta | ![](../../slay-the-spire/small-card-images/Beta.png) | ![](../../slay-the-spire/small-card-images/BetaPlus.png) | Special | Skill | 2(1) | Shuffle an *Omega into your draw pile. Exhaust. |
 | Bite | ![](../../slay-the-spire/small-card-images/Bite.png) | ![](../../slay-the-spire/small-card-images/BitePlus.png) | Special | Attack | 1 | Deal 7(8) damage. Heal 2(3) HP. |
+| Bloody Wind | ![](../../TheChaser/small-card-images/BloodyWind.png) | ![](../../TheChaser/small-card-images/BloodyWindPlus.png) | Special | Skill | 1 | Apply 3(4) thechaser:Bleeding to ALL enemies. |
+| Camouflage | ![](../../TheChaser/small-card-images/Camouflage.png) | ![](../../TheChaser/small-card-images/CamouflagePlus.png) | Special | Skill | 1 | Gain 1 thechaser:Proxy 3(4) times. |
+| Diamond | ![](../../theVacant/small-card-images/Diamond.png) | ![](../../theVacant/small-card-images/DiamondPlus.png) | Special | Skill |  | Size 2(3). Prevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size. |
+| Emerald | ![](../../theVacant/small-card-images/Emerald.png) | ![](../../theVacant/small-card-images/EmeraldPlus.png) | Special | Attack |  | Size 3(4). At the start of your turn, draw a card and lose 1 size. |
 | Exhaustion | ![](../../TS05_Marisa/small-card-images/Exhaustion.png) | ![]() | Special | Status |  | Unplayable. While in hand, you cannot gain or consume Charge-up. |
 | Expunger | ![](../../slay-the-spire/small-card-images/Expunger.png) | ![](../../slay-the-spire/small-card-images/ExpungerPlus.png) | Special | Attack | 1 | Deal 9(15) damage X times. |
 | Fame and Fortune | ![](../../slay-the-spire/small-card-images/FameandFortune.png) | ![](../../slay-the-spire/small-card-images/FameandFortunePlus.png) | Special | Skill |  | Gain 25(30) Gold. |
+| Followup Slash | ![](../../TheChaser/small-card-images/FollowupSlash.png) | ![](../../TheChaser/small-card-images/FollowupSlashPlus.png) | Special | Attack | 0 | Ethereal. Deal 2(3) damage twice. Exhaust. |
 | Insight | ![](../../slay-the-spire/small-card-images/Insight.png) | ![](../../slay-the-spire/small-card-images/InsightPlus.png) | Special | Skill | 0 | Retain. Draw 2(3) cards. Exhaust. |
 | J.A.X. | ![](../../slay-the-spire/small-card-images/J.A.X..png) | ![](../../slay-the-spire/small-card-images/J.A.X.Plus.png) | Special | Skill | 0 | Lose 3 HP. Gain 2(3) Strength. |
+| Knife Throw | ![](../../TheChaser/small-card-images/KnifeThrow.png) | ![](../../TheChaser/small-card-images/KnifeThrowPlus.png) | Special | Skill | 1 | Trigger thechaser:Targeting 3(4) times. |
 | Live Forever | ![](../../slay-the-spire/small-card-images/LiveForever.png) | ![](../../slay-the-spire/small-card-images/LiveForeverPlus.png) | Special | Power |  | Gain 6(8) *Plated *Armor. |
 | Miracle | ![](../../slay-the-spire/small-card-images/Miracle.png) | ![](../../slay-the-spire/small-card-images/MiraclePlus.png) | Special | Skill | 0 | Retain. Gain [W] ([W]). Exhaust. |
 | Omega | ![](../../slay-the-spire/small-card-images/Omega.png) | ![](../../slay-the-spire/small-card-images/OmegaPlus.png) | Special | Power | 3 | At the end of your turn, deal 50(60) damage to ALL enemies. |
+| Onyx | ![](../../theVacant/small-card-images/Onyx.png) | ![](../../theVacant/small-card-images/OnyxPlus.png) | Special | Attack |  | Size 2(3). At the start of your turn, apply 2(3) thevacant:Doom to ALL enemies and lose 1 size. |
+| Opal | ![](../../theVacant/small-card-images/Opal.png) | ![](../../theVacant/small-card-images/OpalPlus.png) | Special | Skill |  | Size 2(3). At the start of your turn, gain [E] and lose 1 size. |
 | Ritual Dagger | ![](../../slay-the-spire/small-card-images/RitualDagger.png) | ![](../../slay-the-spire/small-card-images/RitualDaggerPlus.png) | Special | Attack | 1 | Deal 15 damage. If Fatal, permanently increase this card's damage by 3(5). Exhaust. |
+| Ruby | ![](../../theVacant/small-card-images/Ruby.png) | ![](../../theVacant/small-card-images/RubyPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, gain 3(4) Vigor and lose 1 size. |
 | Safety | ![](../../slay-the-spire/small-card-images/Safety.png) | ![](../../slay-the-spire/small-card-images/SafetyPlus.png) | Special | Skill | 1 | Retain. Gain 12(16) Block. Exhaust. |
+| Sapphire | ![](../../theVacant/small-card-images/Sapphire.png) | ![](../../theVacant/small-card-images/SapphirePlus.png) | Special | Power |  | Size 6(4). At the start of your turn, gain 6(4) thevacant:Temperance and lose 1 size. |
+| Sequence Flow | ![](../../TheChaser/small-card-images/SequenceFlow.png) | ![](../../TheChaser/small-card-images/SequenceFlowPlus.png) | Special | Attack | 0 | Ethereal. Deal 2(3) damage. Exhaust. |
 | Shiv | ![](../../slay-the-spire/small-card-images/Shiv.png) | ![](../../slay-the-spire/small-card-images/ShivPlus.png) | Special | Attack | 0 | Deal 4(6) damage. Exhaust. |
 | Smite | ![](../../slay-the-spire/small-card-images/Smite.png) | ![](../../slay-the-spire/small-card-images/SmitePlus.png) | Special | Attack | 1 | Retain. Deal 12(16) damage. Exhaust. |
 | Through Violence | ![](../../slay-the-spire/small-card-images/ThroughViolence.png) | ![](../../slay-the-spire/small-card-images/ThroughViolencePlus.png) | Special | Attack | 0 | Retain. Deal 20(30) damage. Exhaust. |
+| Throwing Knife | ![](../../TheChaser/small-card-images/ThrowingKnife.png) | ![](../../TheChaser/small-card-images/ThrowingKnifePlus.png) | Special | Attack | 0 | Ethereal. Deal 3(5) damage to a random enemy. Enemies affected by thechaser:Targeting are prioritized. Exhaust. |
 | Burn | ![](../../slay-the-spire/small-card-images/Burn.png) | ![]() | Common | Status |  | Unplayable. At the end of your turn, take 2 damage. |
 | Dazed | ![](../../slay-the-spire/small-card-images/Dazed.png) | ![]() | Common | Status |  | Unplayable. Ethereal. |
 | Slimed | ![](../../slay-the-spire/small-card-images/Slimed.png) | ![]() | Common | Status | 1 | Exhaust. |

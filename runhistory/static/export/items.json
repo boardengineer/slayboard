@@ -5383,6 +5383,24 @@
       "mod": ""
     },
     {
+      "name": "Amethyst",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2. At the start of your turn, thevacant:Mill 2 and lose 1 size. If your draw pile is empty, increase damage and Block by 2.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Amethyst+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 6. At the start of your turn, thevacant:Mill 6 and lose 1 size. If your draw pile is empty, increase damage and Block by 6.",
+      "mod": "The Vacant"
+    },
+    {
       "name": "Apparition",
       "color": "Colorless",
       "rarity": "Special",
@@ -5455,6 +5473,78 @@
       "mod": ""
     },
     {
+      "name": "Bloody Wind",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Bloody Wind+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 4 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Camouflage",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 1 thechaser:Proxy 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Camouflage+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 1 thechaser:Proxy 4 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Diamond",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2.\nPrevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Diamond+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nPrevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Emerald",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, draw a card and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Emerald+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, draw a card and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
       "name": "Exhaustion",
       "color": "Colorless",
       "rarity": "Special",
@@ -5500,6 +5590,24 @@
       "mod": ""
     },
     {
+      "name": "Followup Slash",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 2 damage twice.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Followup Slash+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 3 damage twice.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Insight",
       "color": "Colorless",
       "rarity": "Special",
@@ -5534,6 +5642,24 @@
       "cost": "0",
       "description": "Lose 3 HP.\nGain 3 Strength.",
       "mod": ""
+    },
+    {
+      "name": "Knife Throw",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Trigger thechaser:Targeting 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Knife Throw+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Trigger thechaser:Targeting 4 times.",
+      "mod": "TheChaser"
     },
     {
       "name": "Live Forever",
@@ -5590,6 +5716,42 @@
       "mod": ""
     },
     {
+      "name": "Onyx",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 2.\nAt the start of your turn, apply 2 thevacant:Doom to ALL enemies and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Onyx+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, apply 3 thevacant:Doom to ALL enemies and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Opal",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2.\nAt the start of your turn, gain [E] and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Opal+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, gain [E] and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
       "name": "Ritual Dagger",
       "color": "Colorless",
       "rarity": "Special",
@@ -5608,6 +5770,24 @@
       "mod": ""
     },
     {
+      "name": "Ruby",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, gain 3 Vigor and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Ruby+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, gain 4 Vigor and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
       "name": "Safety",
       "color": "Colorless",
       "rarity": "Special",
@@ -5624,6 +5804,42 @@
       "cost": "1",
       "description": "Retain.\nGain 16 Block.\nExhaust.",
       "mod": ""
+    },
+    {
+      "name": "Sapphire",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "",
+      "description": "Size 6.\nAt the start of your turn, gain 6 thevacant:Temperance and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Sapphire+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, gain 4 thevacant:Temperance and lose 1 size.",
+      "mod": "The Vacant"
+    },
+    {
+      "name": "Sequence Flow",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 2 damage.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Sequence Flow+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 3 damage.\nExhaust.",
+      "mod": "TheChaser"
     },
     {
       "name": "Shiv",
@@ -5678,6 +5894,24 @@
       "cost": "0",
       "description": "Retain.\nDeal 30 damage.\nExhaust.",
       "mod": ""
+    },
+    {
+      "name": "Throwing Knife",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal.\nDeal 3 damage to a random enemy. Enemies affected by thechaser:Targeting are prioritized. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Throwing Knife+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal.\nDeal 5 damage to a random enemy. Enemies affected by thechaser:Targeting are prioritized. Exhaust.",
+      "mod": "TheChaser"
     },
     {
       "name": "Burn",
@@ -6427,6 +6661,15 @@
       "mod": ""
     },
     {
+      "name": "Dregs",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Injury",
       "color": "Curse",
       "rarity": "Curse",
@@ -6488,6 +6731,1356 @@
       "cost": "",
       "description": "Unplayable.\nInnate.",
       "mod": ""
+    },
+    {
+      "name": "Defend",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Defend+",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Flawed Stealth",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nGain 1 Frail.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Flawed Stealth+",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nGain 1 Frail.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Reactive Shot",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage and apply 2 thechaser:Targeting to a random enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Reactive Shot+",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage and apply 3 thechaser:Targeting to a random enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Strike",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Strike+",
+      "color": "Color_chaser",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Aggravate",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nTrigger thechaser:Bleeding once on all enemies affected by thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Aggravate+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nTrigger thechaser:Bleeding once on all enemies affected by thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Alertness",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 9 Block.\nGain thechaser:Proxy 1 times.\nthechaser:Quickstep 1.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Alertness+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 12 Block.\nGain thechaser:Proxy 2 times.\nthechaser:Quickstep 2.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Blitzkrieg",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 5 damage.\nApply 1 thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Blitzkrieg+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nApply 2 thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Brass Tacks",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 7 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Brass Tacks+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 10 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Continuous Slash",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 2 damage twice.\nthechaser:Swift: Add 1 *Followup *Slash into your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Continuous Slash+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage twice.\nthechaser:Swift: Add 1 *Followup *Slash+ into your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Draw Knives",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add 3 *Throwing *Knife into your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Draw Knives+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add 4 *Throwing *Knife into your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Fatal Blitz",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage.\nApply 5 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Fatal Blitz+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 17 damage.\nApply 7 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Illusionary Strike",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage.\nIf you are Weak, gain [E] [E].",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Illusionary Strike+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 20 damage.\nIf you are Weak, gain [E] [E].",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Inertial Strike",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nDeals additional damage equal to the amount of cards played this turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Inertial Strike+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDeals additional damage equal to the amount of cards played this turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Leave a Mark",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage and apply 1 thechaser:Targeting to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Leave a Mark+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage and apply 1 thechaser:Targeting to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Malicious Trick",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nTrigger thechaser:Targeting 2 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Malicious Trick+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nTrigger thechaser:Targeting 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Nullify Defenses",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 1 thechaser:Blindsided and thechaser:Targeting to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Nullify Defenses+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 2 thechaser:Blindsided and thechaser:Targeting to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Open Vein",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nApply 4 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Open Vein+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nApply 5 thechaser:Bleeding.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pass Through",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block. If you have played an Attack on an enemy affected by thechaser:Targeting this turn, draw 2 cards.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pass Through+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block. If you have played an Attack on an enemy affected by thechaser:Targeting this turn, draw 2 cards.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Preparation",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 2 cards. If this card is the first card you play this turn, draw 1 more card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Preparation+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 3 cards. If this card is the first card you play this turn, draw 1 more card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pursuit",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. Draw 1 card for each enemy affected by thechaser:Targeting.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pursuit+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage. Draw 1 card for each enemy affected by thechaser:Targeting.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Stalling",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nGain thechaser:Proxy 1 times.\nthechaser:Quickstep 1.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Stalling+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nGain thechaser:Proxy 2 times.\nthechaser:Quickstep 2.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thornmail",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nApply 3 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thornmail+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nApply 4 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Watch",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 5 thechaser:Targeting.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Watch+",
+      "color": "Color_chaser",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 8 thechaser:Targeting.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Armorslayer",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Remove ALL stacks of thechaser:Targeting on the enemy. Apply Vulnerable, Weak, and thechaser:Bleeding equal to the amount removed. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Armorslayer+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply Vulnerable, Weak, and thechaser:Bleeding equal to the amount of thechaser:Targeting on the enemy. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Blade Genesis",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you play a Skill that doesn't cost 0, add 1 *Throwing *Knife to your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Blade Genesis+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you play a Skill that doesn't cost 0, add 1 *Throwing *Knife to your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Luck",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 4 Block.\nthechaser:Swift: Reduce the cost of a random card in your hand to 0 this turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Luck+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 7 Block.\nthechaser:Swift: Reduce the cost of a random card in your hand to 0 this turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Trick",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 1 card.\nIf it's an Attack, trigger thechaser:Targeting 2 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Trick+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 1 card.\nIf it's an Attack, trigger thechaser:Targeting 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Combat Spacing",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you trigger thechaser:Targeting, gain 1 Block.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Combat Spacing+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you trigger thechaser:Targeting, gain 2 Block.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Counter Manoeuvre",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain 6 Block X times. Trigger thechaser:Targeting X times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Counter Manoeuvre+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain 8 Block X times. Trigger thechaser:Targeting X times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Deceptive Defense",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 9 Block.\nIf you are Frail, triple the amount of Block gained.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Deceptive Defense+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 9 Block.\nIf you are Frail, quadruple the amount of Block gained.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Deceptive Strike",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nIf you are Weak, deal triple damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Deceptive Strike+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nIf you are Weak, deal quadruple damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Disguise",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 8 Block.\nRepeat for each unique debuff on you.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Disguise+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 10 Block.\nRepeat for each unique debuff on you.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Evasive Fall",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 15 Block.\nGain 2 Weak.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Evasive Fall+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 18 Block.\nGain 1 Weak.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Flexibility",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Choose two:\nTrigger thechaser:Targeting 3 times; gain thechaser:Proxy 3 times; apply 3 thechaser:Bleeding to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Flexibility+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Choose two:\nTrigger thechaser:Targeting 4 times; gain thechaser:Proxy 4 times; apply 4 thechaser:Bleeding to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Gale Strike",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 3 damage X times to ALL enemies. Trigger thechaser:Targeting X times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Gale Strike+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 6 damage X times to ALL enemies. Trigger thechaser:Targeting X times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Gore Scars",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nIf the enemy has thechaser:Bleeding, trigger it once.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Gore Scars+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nIf the enemy has thechaser:Bleeding, trigger it twice.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Grand Plan",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you apply a debuff to yourself, gain 1 Strength.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Grand Plan+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you apply a debuff to yourself, gain 2 Strength.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Hack Away",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 2 damage 6 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Hack Away+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 3 damage 6 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Hidden Dagger",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block. Add 1 *Throwing *Knife into your hand.\nthechaser:Swift: Upgrade ALL *Throwing *Knife cards in your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Hidden Dagger+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block. Add 2 *Throwing *Knife into your hand.\nthechaser:Swift: Upgrade ALL *Throwing *Knife cards in your hand.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Internal Hemorrhage",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 6 thechaser:Bleeding and 2 Weak to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Internal Hemorrhage+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 9 thechaser:Bleeding and 2 Weak to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Open Sore",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, apply 3 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Open Sore+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, apply 5 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Paralyze",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses Strength equal to the amount of unique debuffs on them.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Paralyze+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Enemy loses Strength equal to the amount of unique debuffs on them.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Penetrate",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage and apply 2 Vulnerable. If the enemy is already Vulnerable, apply 2 thechaser:Blindsided instead.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Penetrate+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage and apply 3 Vulnerable. If the enemy is already Vulnerable, apply 3 thechaser:Blindsided instead.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Piercing Blows",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you deal damage by triggering thechaser:Targeting, deal 2 additional damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Piercing Blows+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you deal damage by triggering thechaser:Targeting, deal 3 additional damage.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pluck Out Daggers",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Costs 1 [E] less for each time you have triggered thechaser:Targeting this turn.\nDeal 5 damage 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Pluck Out Daggers+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Costs 1 [E] less for each time you have triggered thechaser:Targeting this turn.\nDeal 7 damage 3 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Replicating Daggers",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, add a *Throwing *Knife into your hand and apply 1 thechaser:Targeting to a random enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Replicating Daggers+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, add a *Throwing *Knife into your hand and apply 1 thechaser:Targeting to a random enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Slash Sequence",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage.\nAdd 1 *Sequence *Flow into your hand.\nthechaser:Swift: Deal 3 damage 2 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Slash Sequence+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage.\nAdd 2 *Sequence *Flow into your hand.\nthechaser:Swift: Deal 3 damage 2 times.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Spirit of Conquest",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain Strength equal to the cumulative stacks of ALL debuffs you have.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Spirit of Conquest+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain Strength equal to the cumulative stacks of ALL debuffs you have.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Strong Bulwark",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Strength.\nGain 1 Dexterity.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Strong Bulwark+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 2 Strength.\nGain 2 Dexterity.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Take Initiative",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] [E].\nAt the start of your next turn, draw 2 less card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Take Initiative+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] [E].\nAt the start of your next turn, draw 1 less card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Test the Waters",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage and apply 2 Vulnerable to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Test the Waters+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage and apply 3 Vulnerable to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Throes of Rage",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage and apply 3 thechaser:Blindsided.\nGain 1 Vulnerable.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Throes of Rage+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 16 damage and apply 4 thechaser:Blindsided.\nGain 1 Vulnerable.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Unstable Defense",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 30 Block and 1 Vulnerable.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Unstable Defense+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 30 Block and 1 thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Weakpoint Strike",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage. Repeat for each unique debuff on the enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Weakpoint Strike+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage. Repeat for each unique debuff on the enemy.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Win the Exchange",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nIf the enemy has thechaser:Blindsided, gain [E] and draw 1 card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Win the Exchange+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the enemy has thechaser:Blindsided, gain [E] and draw 1 card.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Winds of Fury",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Trigger thechaser:Targeting 1 times.\nPermanently increase this card's thechaser:Targeting trigger amount by 1.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Winds of Fury+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Trigger thechaser:Targeting 1 times.\nPermanently increase this card's thechaser:Targeting trigger amount by 1.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Wither",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 99 Weak. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Wither+",
+      "color": "Color_chaser",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 99 Weak. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Absolute Edge",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E].\nDraw 1 card for each unique debuff on ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Absolute Edge+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] [E].\nDraw 1 card for each unique debuff on ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Acceleration",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you play an Attack, gain 1 temporary Strength.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Acceleration+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you play an Attack, gain 1 temporary Strength.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Bloodhound",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage to ALL enemies. Trigger thechaser:Targeting equal to the amount of cards played this turn.\nEnd your turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Bloodhound+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 8 damage to ALL enemies. Trigger thechaser:Targeting equal to the amount of cards played this turn.\nEnd your turn.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Guard",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Block for each unique debuff on ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Chaser's Guard+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block for each unique debuff on ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Confounding Assault",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Dealing damage by triggering thechaser:Targeting also applies thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Confounding Assault+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Dealing damage by triggering thechaser:Targeting also applies thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Cruel Ruin",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 16 damage.\nApply 2 Vulnerable, Weak, and thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Cruel Ruin+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 20 damage.\nApply 3 Vulnerable, Weak, and thechaser:Blindsided.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Dual Wielding",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Whenever you trigger thechaser:Targeting this turn, trigger it twice.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Dual Wielding+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you trigger thechaser:Targeting this turn, trigger it twice.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "High-Speed Advance",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "thechaser:Quickstep 10.\nApply 10 thechaser:Bleeding to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "High-Speed Advance+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Retain. thechaser:Quickstep 10.\nApply 10 thechaser:Bleeding to ALL enemies.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Lust for Power",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "All your buffs count as debuffs, for the purposes of effects which check for debuffs on you.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Lust for Power+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "All your buffs count as debuffs, for the purposes of effects which check for debuffs on you.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Neckcutter",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 14 damage.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Neckcutter+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Ethereal. Deal 19 damage.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Perfected Stealth",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "thechaser:Hide for 2 turns.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Perfected Stealth+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "thechaser:Hide for 3 turns.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Phrenitis",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 1 Weak, Vulnerable, Frail, Poison, thechaser:Bleeding, thechaser:Targeting, thechaser:Proxy, and thechaser:Blindsided.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Phrenitis+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 1 Weak, Vulnerable, Frail, Poison, thechaser:Bleeding, thechaser:Targeting, thechaser:Proxy, and thechaser:Blindsided.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Preemptive Offense",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, draw 1 additional card and trigger thechaser:Targeting once.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Preemptive Offense+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "0",
+      "description": "At the start of your turn, draw 1 additional card and trigger thechaser:Targeting once.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Prepay",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "This turn, your next X cards cost 0. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Prepay+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "This turn, your next X cards cost 0. Draw X cards. Exhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Sawblades",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you play a card, apply 1 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Sawblades+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Innate. Whenever you play a card, apply 1 thechaser:Bleeding to ALL enemies.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Shakedown",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nGain 10 Gold.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Shakedown+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 15 damage.\nGain 15 Gold.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Spectre Form",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "At the start of your turn, increase damage dealt when triggering thechaser:Targeting by 2.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Spectre Form+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "At the start of your turn, increase damage dealt when triggering thechaser:Targeting by 3.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Vibrancy",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Heal HP equal to the amount of times you have triggered thechaser:Targeting this turn.\nExhaust.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Vibrancy+",
+      "color": "Color_chaser",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Retain.\nHeal HP equal to the amount of times you have triggered thechaser:Targeting this turn.\nExhaust.",
+      "mod": "TheChaser"
     },
     {
       "name": "Corporeate",
@@ -6991,24 +8584,6 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 13 damage to ALL enemies.\nthevacant:Mine a size 3 thevacant:Emerald.",
-      "mod": "The Vacant"
-    },
-    {
-      "name": "Enchant",
-      "color": "Vacant_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat.",
-      "mod": "The Vacant"
-    },
-    {
-      "name": "Enchant+",
-      "color": "Vacant_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat.",
       "mod": "The Vacant"
     },
     {
@@ -9262,6 +10837,1356 @@
       "mod": "Marisa\uFF08\u9727\u96E8\u3000\u9B54\u7406\u6C99\uFF09"
     },
     {
+      "name": "Clean up Workshop",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Gain 3 Block and draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Clean up Workshop+",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Gain 4 Block and draw 2 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Wand",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 5 Block.\nDeal 7 damage.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Wand+",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 7 Block.\nDeal 9 damage.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Defend",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Defend+",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Corruption",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a Skill card, deal 5 damage to a random enemy.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Corruption+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a Skill card, deal 8 damage to a random enemy.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Flame",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play an Attack card, deal 2 damage to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Flame+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play an Attack card, deal 4 damage to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Amulet",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nDraw 1 card.\nShuffle a random Curse card into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Amulet+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 14 Block.\nDraw 1 card.\nShuffle a random Curse card into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Blade",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage to ALL enemies.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Blade+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage to ALL enemies.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Mace",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage.\nApply 2 Vulnerable.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Mace+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nApply 3 Vulnerable.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Shiv",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Shiv+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 8 damage.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Flesh from Bone",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Gain 3 Plated Armor.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Flesh from Bone+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Gain 4 Plated Armor.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Obscuration",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nRite : Gain 6 Block again.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Obscuration+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nRite : Gain 8 Block again.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Rapid Movement",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nRite : Draw 2 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Rapid Movement+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nRite : Draw 2 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Raving Staff",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 8 damage to a random enemy X times.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Raving Staff+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 11 damage to a random enemy X times.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Smoke Screen",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\nRite : Apply 2 Weak to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Smoke Screen+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nRite : Apply 3 Weak to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage.\nIf you have any Curse card in your hand, gain [E] [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 14 damage.\nIf you have any Curse card in your hand, gain [E] [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stigma",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nApply 3 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stigma+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nApply 4 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stretching",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 2 Dexterity.\nAt the end of this turn, lose 2 Dexterity.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stretching+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 4 Dexterity.\nAt the end of this turn, lose 4 Dexterity.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Surprise Attack",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Innate.\nDeal 5 damage.\nDraw 1 card.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Surprise Attack+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Innate.\nDeal 8 damage.\nDraw 1 card.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Tactical Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nNext turn, draw 1 additional card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Tactical Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nNext turn, draw 2 additional cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Torture",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 5 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Torture+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 5 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Vital Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the enemy has Bleed, double the damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Vital Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nIf the enemy has Bleed, double the damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Wear Cloak",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nIf you have any Curse card in your hand, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Wear Cloak+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nIf you have any Curse card in your hand, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Wield",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nDraw cards equal to the number of Unplayable cards in your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Wield+",
+      "color": "The_cursed_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDraw cards equal to the number of Unplayable cards in your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Abyss Shockwave",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage to ALL enemies.\nIf you have any Curse in your hand, deal same damage again.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Abyss Shockwave+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 13 damage to ALL enemies.\nIf you have any Curse in your hand, deal same damage again.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Ashes to Ashes",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Draw 4 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Ashes to Ashes+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Draw 5 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Blessing in Disguise",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Exhaust all Curse cards in your hand.\nGain 8 Block for each card Exhausted.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Blessing in Disguise+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Exhaust all Curse cards in your hand.\nGain 10 Block for each card Exhausted.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Blood Barrier",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Rite : Gain Block equal to your max HP minus your current HP.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Blood Barrier+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Gain Block equal to your max HP minus your current HP.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Amplification",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a Power card, draw 1 card.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Amplification+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a Power card, gain [E] and draw 1 card.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Blood",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play an Attack card, heal 2 HP.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Blood+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play an Attack card, heal 4 HP.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Focus",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a card that costs 3 or more, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Focus+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a card that costs 2 or more, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Windfury",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a cost 0 card, draw 1 card.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Windfury+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a cost 0 card, draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Armor",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 20 Block.\nShuffle 2 random Curse cards into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Armor+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 25 Block.\nShuffle 2 random Curse cards into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Boomerang",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage to a random enemy 3 times.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Boomerang+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage to a random enemy 4 times.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Spellbook",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 3 cards.\nShuffle a random Curse card into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Spellbook+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 4 cards.\nShuffle a random Curse card into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Staff",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 24 damage.\nAdd 2 *Dregs cards into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Staff+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 30 damage.\nAdd 2 *Dregs cards into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Double Shield",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 10 Block.\nRite : Next turn, gain 10 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Double Shield+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 14 Block.\nRite : Next turn, gain 14 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Empower Circles",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you draw a Circle card, gain [E] and draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Empower Circles+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you draw a Circle card, gain [E] and draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Evocation",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Remove all of your debuffs.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Evocation+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Remove all of your debuffs. If there is no debuff, gain 1 Artifact.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Fury Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 14 damage.\nReduce the cost of all Strike cards in your hand to 0 this turn.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Fury Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 18 damage.\nReduce the cost of all Strike cards in your hand to 0 this turn.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Grudge",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add a random Rite card into your hand.\nIt costs 0 this turn.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Grudge+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Add a random Rite card into your hand.\nIt costs 0 this turn.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hell's Gate Open",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, add a random Cursed card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hell's Gate Open+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, add a random Cursed card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hellfire Breathing",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Curse card, deal 4 damage to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hellfire Breathing+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Whenever you draw a Curse card, deal 4 damage to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hemoplague",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, apply 2 Bleed to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Hemoplague+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "At the start of your turn, apply 2 Bleed to ALL enemies.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Lucky Charm",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever a Curse card is drawn or Exhausted, gain 3 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Lucky Charm+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever a Curse card is drawn or Exhausted, gain 4 Block.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mana Bullet",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage for each Curse card in your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mana Bullet+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage for each Unplayable card in your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mangle",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nIf the enemy has Bleed,\ngain [E] and\ndraw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mangle+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nIf the enemy has Bleed,\ngain [E] and\ndraw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Prepare Rite",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Prepare Rite+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Released Knowledge",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Add a random Circle card into your hand.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Released Knowledge+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Rite : Add a random Circle card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Released Strength",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Gain 3 Strength.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Released Strength+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Rite : Gain 4 Strength.\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Salt upon Wound",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Enemy immediately loses HP by its Bleed 2 times.\nApply 6 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Salt upon Wound+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Enemy immediately loses HP by its Bleed 2 times.\nApply 9 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Soul Crush",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Exhaust all Curse cards in your hand.\nDeal 18 damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Soul Crush+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Exhaust all Curse cards in your hand.\nDeal 22 damage.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Soul Reap",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage. Heal HP equal to unblocked damage.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Soul Reap+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage. Heal HP equal to unblocked damage.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Plan",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Curse card, draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Plan+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Curse card, draw 2 cards.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Pray",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E].\nIf you have any Curse card in your hand, gain additional [E].\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spiteful Pray+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] [E].\nIf you have any Curse card in your hand, gain additional [E].\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spread Plague",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 4 Bleed and 3 Vulnerable to ALL enemies.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Spread Plague+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 7 Bleed and 3 Vulnerable to ALL enemies.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Sting Eye",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage.\nApply 1 Weak.\nApply 1 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Sting Eye+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nApply 2 Weak.\nApply 2 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Troublous Minions",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you draw this card, add a copy of it into your hand.\nGain 5 Block and add a *Dregs card into your hand.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Troublous Minions+",
+      "color": "The_cursed_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you draw this card, add a copy of it into your hand.\nGain 7 Block and add a *Dregs card into your hand.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Anti-Aging",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 5 Block.\nRite : Raise your max HP by 2.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Anti-Aging+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 7 Block.\nRite : Raise your max HP by 3.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Abyss",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a card, gain 2 Block.\nIf this card is Exhausted, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Circle of Abyss+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Circle.\nWhenever you play a card, gain 3 Block.\nIf this card is Exhausted,\ngain [E] [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Collect Tribute",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "0",
+      "description": "At the start of your turn, gain [E] and add a random Curse card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Collect Tribute+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "0",
+      "description": "Innate.\nAt the start of your turn, gain [E] and add a random Curse card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Relics",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to 2 times the number of Relics you have.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Cursed Relics+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to 3 times the number of Relics you have.\nAdd a *Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Dark Barrier",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Rite : Gain 1 Intangible.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Dark Barrier+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Rite : Gain 2 Intangible.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Demon Sword",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nExhaust all Curse cards in your hand and gain 1 Strength for each Exhausted card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Demon Sword+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 15 damage.\nExhaust all Curse cards in your hand and gain 1 Strength for each Exhausted card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Demonic Pact",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you play a Rite card, draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Demonic Pact+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you play a Rite card, draw 1 card.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Forbidden Alchemy",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Rite : Obtain an Entropic Brew potion.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Forbidden Alchemy+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Rite : Obtain an Entropic Brew potion.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mana Circulation",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "5",
+      "description": "Whenever a Curse card is Exhausted, gain [E].\nEthereal.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Mana Circulation+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "5",
+      "description": "Whenever a Curse card is Exhausted, gain [E].",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Neow's Might",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 2 cards.\nReduce the cost of all cards in your hand by 1 this turn.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Neow's Might+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards.\nReduce the cost of all cards in your hand by 1 this turn.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Neurasthenia",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Exhaust all Curse cards in your hand.\nEnemy loses Strength by 1 plus the number of Exhausted cards.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Neurasthenia+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Exhaust all Curse cards in your hand.\nEnemy loses Strength by 1 plus the number of Exhausted cards.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Out for Blood",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever an Attack deals unblocked damage, apply 1 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Out for Blood+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever an Attack deals unblocked damage, apply 2 Bleed.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Parallel World",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Copy all cards in your hand and Shuffle them into your draw pile.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Parallel World+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Copy all cards in your hand and Shuffle them into your draw pile.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Shock and Awe",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 12 damage 3 times.\nShuffle 2 random Curse cards into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Shock and Awe+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 14 damage 3 times.\nShuffle 2 random Curse cards into your draw pile.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stunning Strike",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 20 damage.\nIf the enemy intends to attack, apply 1 Stun.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Stunning Strike+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 28 damage.\nIf the enemy intends to attack, apply 1 Stun.\nExhaust.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Ultimate Pain",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "ALL enemies immediately loses HP by its Bleed X times.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Ultimate Pain+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "ALL enemies immediately loses HP by its Bleed X+1 times.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Void Form",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Shuffle 2 random Curse cards into your draw pile.\nWhenever you draw a Curse, gain 2 Strength.",
+      "mod": "The Cursed"
+    },
+    {
+      "name": "Void Form+",
+      "color": "The_cursed_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Shuffle 2 random Curse cards into your draw pile.\nWhenever you draw a Curse, gain 3 Strength.",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Covet",
       "color": "Hermit_yellow",
       "rarity": "Basic",
@@ -10614,6 +13539,14 @@
   ],
   "relics": [
     {
+      "name": "Black Magic 101",
+      "tier": "Starter",
+      "pool": "The_cursed_purple",
+      "description": "At the start of your turn, draw 1 additional card if your draw pile has any Curse card.",
+      "flavorText": "Learn about black magic now!!! {4th Edition}",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Brass Goblet",
       "tier": "Starter",
       "pool": "Vacant_color",
@@ -10668,6 +13601,14 @@
       "description": "At the start of each combat, draw 2 additional cards.",
       "flavorText": "Made from a fossilized snake. Represents great skill as a huntress.",
       "mod": ""
+    },
+    {
+      "name": "Shadowed Necklace",
+      "tier": "Starter",
+      "pool": "Color_chaser",
+      "description": "At the start of each combat, apply 2 Targeting to a random enemy.",
+      "flavorText": "A necklace with a small glass bottle, created from the abyssal darkness.",
+      "mod": "TheChaser"
     },
     {
       "name": "Akabeko",
@@ -10910,6 +13851,14 @@
       "mod": "Hermit"
     },
     {
+      "name": "Scotch Stone",
+      "tier": "Common",
+      "pool": "Color_chaser",
+      "description": "Whenever you deal damage by triggering Targeting, deal 1 additional damage.",
+      "flavorText": "A fine-grained grey stone used for sharpening weapons.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Shroom Bag",
       "tier": "Common",
       "pool": "Marisa_color",
@@ -10940,6 +13889,14 @@
       "description": "Upon pickup, raise your Max HP by 7.",
       "flavorText": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
       "mod": ""
+    },
+    {
+      "name": "Tack",
+      "tier": "Common",
+      "pool": "The_cursed_purple",
+      "description": "At the start of each combat, apply 4 Bleed to ALL enemies.",
+      "flavorText": "It hurts when stepping on.",
+      "mod": "The Cursed"
     },
     {
       "name": "The Boot",
@@ -11014,6 +13971,14 @@
       "mod": "Marisa\uFF08\u9727\u96E8\u3000\u9B54\u7406\u6C99\uFF09"
     },
     {
+      "name": "Bloody Harpoon",
+      "tier": "Uncommon",
+      "pool": "The_cursed_purple",
+      "description": "Whenever you apply Bleed, apply an additional 1 Bleed.",
+      "flavorText": "Piercing with it, cannot move!",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Blue Candle",
       "tier": "Uncommon",
       "pool": "",
@@ -11046,6 +14011,14 @@
       "mod": ""
     },
     {
+      "name": "Box Cutter",
+      "tier": "Uncommon",
+      "pool": "Color_chaser",
+      "description": "Your first Attack that triggers Targeting each turn triggers it twice.",
+      "flavorText": "A very peculiar sword. So peculiar, that its purpose is unknown.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Bread Of A Washoku Lover",
       "tier": "Uncommon",
       "pool": "Marisa_color",
@@ -11076,6 +14049,14 @@
       "description": "At the start of each combat, if you are thevacant:Wounded, gain 10 Temporary_HP.",
       "flavorText": "The scent invokes a feeling of dread.",
       "mod": "The Vacant"
+    },
+    {
+      "name": "Demonic Mark",
+      "tier": "Uncommon",
+      "pool": "The_cursed_purple",
+      "description": "Every time you activate an effect of Circle 3 times in a single turn, gain 1 Strength.",
+      "flavorText": "If you've seen this mark somewhere, you're just wrong. (Firmly)",
+      "mod": "The Cursed"
     },
     {
       "name": "Duality",
@@ -11278,6 +14259,14 @@
       "mod": ""
     },
     {
+      "name": "R-B0-7",
+      "tier": "Uncommon",
+      "pool": "Color_chaser",
+      "description": "At the start of each turn, enemies which have debuffs lose 5 HP.",
+      "flavorText": "A dangerous secret weapon. Its lethality is complemented with an infamous drug.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Self-Forming Clay",
       "tier": "Uncommon",
       "pool": "Red",
@@ -11398,6 +14387,22 @@
       "mod": "Twitch Slays Spire Relics"
     },
     {
+      "name": "Acid Solution",
+      "tier": "Rare",
+      "pool": "Color_chaser",
+      "description": "Whenever you play an Attack, if you are Weak, apply 1 Weak to the enemy. If you are Frail, remove all Block from the enemy.",
+      "flavorText": "Extremely corrosive. Hopefully no one else carelessly sprinkles this on something...or someone.",
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Assassin's Cloak",
+      "tier": "Rare",
+      "pool": "Color_chaser",
+      "description": "At the start of each combat, Hide for 2 turns.",
+      "flavorText": "This mass-produced cloak boasts the most reliable camouflage.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Bird-Faced Urn",
       "tier": "Rare",
       "pool": "",
@@ -11476,6 +14481,14 @@
       "description": "Exhausted cards that aren't Statuses return to your draw pile after 2 turns.",
       "flavorText": "Sometimes magic leaking into the world is more powerful than when it is contained.",
       "mod": "The Vacant"
+    },
+    {
+      "name": "Crystal Ball",
+      "tier": "Rare",
+      "pool": "The_cursed_purple",
+      "description": "Whenever a Curse card is Exhausted, deal 5 damage to a random enemy.",
+      "flavorText": "Did you say the color looks like Prismatic Shard? You've gone too far.",
+      "mod": "The Cursed"
     },
     {
       "name": "Dead Branch",
@@ -11582,6 +14595,14 @@
       "mod": "Marisa\uFF08\u9727\u96E8\u3000\u9B54\u7406\u6C99\uFF09"
     },
     {
+      "name": "Magic Candle",
+      "tier": "Rare",
+      "pool": "The_cursed_purple",
+      "description": "Every time you activate an effect of Circle 10 times, gain [E].",
+      "flavorText": "It collects nearby mana during Rite.",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Magic Flower",
       "tier": "Rare",
       "pool": "Red",
@@ -11630,6 +14651,14 @@
       "mod": ""
     },
     {
+      "name": "Rusty Helmet",
+      "tier": "Rare",
+      "pool": "Color_chaser",
+      "description": "At the start of each turn, apply 1 Blindsided to ALL enemies.",
+      "flavorText": "An old helmet used in wars of the past. It's unlikely to see use today.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Shovel",
       "tier": "Rare",
       "pool": "",
@@ -11652,6 +14681,14 @@
       "description": "At the start of each turn, gain 2 Strength, 2 Dexterity, -1 Strength, or -1 Dexterity, chosen at random.",
       "flavorText": "Poor confusing creature, now losing its skin. suggested by coledot_.",
       "mod": "Twitch Slays Spire Relics"
+    },
+    {
+      "name": "Soul Vessel",
+      "tier": "Rare",
+      "pool": "The_cursed_purple",
+      "description": "At the end of combat, heal HP equal to the number of Exhausted Curse cards in this combat.",
+      "flavorText": "The feast of souls begins now!",
+      "mod": "The Cursed"
     },
     {
       "name": "Stone Calendar",
@@ -11862,6 +14899,14 @@
       "mod": ""
     },
     {
+      "name": "Noxious Stone",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each turn, gain 2 Envenom and each monster gains 1 Strength.",
+      "flavorText": "It certainly doesn't smell great!!!!.",
+      "mod": "Twitch Slays Spire Relics"
+    },
+    {
       "name": "Odd Mushroom",
       "tier": "Special",
       "pool": "",
@@ -11934,6 +14979,14 @@
       "mod": ""
     },
     {
+      "name": "Black Magic Advanced",
+      "tier": "Boss",
+      "pool": "The_cursed_purple",
+      "description": "Replaces Black Magic 101. At the start of your turn, draw 2 additional cards if your draw pile has any Curse card.",
+      "flavorText": "[The effects of curses and magic circles on human's body and side effects]",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Black Star",
       "tier": "Boss",
       "pool": "",
@@ -11948,6 +15001,14 @@
       "description": "At the start of your turn, if you are thevacant:Wounded, gain [E] .",
       "flavorText": "As death closes in, the artifact's hold on you weakens, and you feel your power grow.",
       "mod": "The Vacant"
+    },
+    {
+      "name": "Broken Ticker",
+      "tier": "Boss",
+      "pool": "Color_chaser",
+      "description": "At the start of each combat, apply Slow to ALL enemies.",
+      "flavorText": "It is already broken, yet a faint ticking can still be heard.",
+      "mod": "TheChaser"
     },
     {
       "name": "Busted Crown",
@@ -12014,12 +15075,12 @@
       "mod": ""
     },
     {
-      "name": "Experimental Familiar",
+      "name": "Four-Leaf Clover Charm",
       "tier": "Boss",
-      "pool": "Marisa_color",
-      "description": "At the start of each turn, add 1 Spark to your hand.\nAt the start of combat, you can choose 1 from 3 random cards. It costs 0 this turn.",
-      "flavorText": "A Familiar looks just like a shiny orb. Not very powerful, but it will surely help you a lot.",
-      "mod": "Marisa\uFF08\u9727\u96E8\u3000\u9B54\u7406\u6C99\uFF09"
+      "pool": "The_cursed_purple",
+      "description": "Every time a card or a relic generates a random Curse card during combat, replace it with Dregs.",
+      "flavorText": "Good luck and happiness come from gratitude.",
+      "mod": "The Cursed"
     },
     {
       "name": "Frozen Core",
@@ -12078,12 +15139,28 @@
       "mod": ""
     },
     {
+      "name": "Masked Shadows",
+      "tier": "Boss",
+      "pool": "Color_chaser",
+      "description": "Replaces Shadowed Necklace. At the start of your turn, apply 1 Targeting to ALL enemies and trigger Targeting once.",
+      "flavorText": "Behind a mask, nobody can see the abyss.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Nuclear Battery",
       "tier": "Boss",
       "pool": "Blue",
       "description": "At the start of each combat, Channel 1 Plasma.",
       "flavorText": "Ooooh...",
       "mod": ""
+    },
+    {
+      "name": "Ominous Mark",
+      "tier": "Boss",
+      "pool": "The_cursed_purple",
+      "description": "Gain [E] at the start of your turn. At the start of combat, shuffle 2 random Curse cards into your draw pile.",
+      "flavorText": "Take a closer look, the mark looks shaking...",
+      "mod": "The Cursed"
     },
     {
       "name": "Overflowing Goblet",
@@ -12108,6 +15185,14 @@
       "description": "Gain [E] at the start of your turn. ALL enemies start combat with 1 Strength.",
       "flavorText": "Raw energy emanates from the stone, empowering all nearby.",
       "mod": ""
+    },
+    {
+      "name": "Pocket Knife",
+      "tier": "Boss",
+      "pool": "Color_chaser",
+      "description": "After Target is triggered for the fourth time each turn, gain [E] .",
+      "flavorText": "A portable knife used to cut ropes.",
+      "mod": "TheChaser"
     },
     {
       "name": "Rampaging Magic Tool",
@@ -12326,6 +15411,14 @@
       "mod": ""
     },
     {
+      "name": "Letter of Request",
+      "tier": "Shop",
+      "pool": "Color_chaser",
+      "description": "At the start of each combat, apply 3 Targeting to ALL enemies.",
+      "flavorText": "A letter of request from an unknown client.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Medical Kit",
       "tier": "Shop",
       "pool": "",
@@ -12364,6 +15457,14 @@
       "description": "Upon pickup, choose and add 5 cards to your deck.",
       "flavorText": "\"Once you understand the universe...\" - Zoroth",
       "mod": ""
+    },
+    {
+      "name": "Pink Pellets",
+      "tier": "Shop",
+      "pool": "The_cursed_purple",
+      "description": "Every time you activate an effect of Circle 5 times in a single turn, remove all of your debuffs.",
+      "flavorText": "Selling with Orange Pellets!",
+      "mod": "The Cursed"
     },
     {
       "name": "Polishing Rag",
@@ -12462,6 +15563,12 @@
       "rarity": "Common",
       "description": "Heal for 20% of your Max HP.",
       "mod": ""
+    },
+    {
+      "name": "Bottled Hemorrhage",
+      "rarity": "Common",
+      "description": "Apply 8 Bleeding to an enemy.",
+      "mod": "TheChaser"
     },
     {
       "name": "Bottled Miracle",
@@ -12596,6 +15703,12 @@
       "mod": ""
     },
     {
+      "name": "Dregs Potion",
+      "rarity": "Uncommon",
+      "description": "Add 1 Dregs card into your hand.",
+      "mod": "The Cursed"
+    },
+    {
       "name": "Duplication Potion",
       "rarity": "Uncommon",
       "description": "This turn, your next card is played twice.",
@@ -12630,6 +15743,12 @@
       "rarity": "Uncommon",
       "description": "Mill 10 cards.",
       "mod": "The Vacant"
+    },
+    {
+      "name": "Target Potion",
+      "rarity": "Uncommon",
+      "description": "Trigger Targeting 5 times.",
+      "mod": "TheChaser"
     },
     {
       "name": "Ambrosia",
@@ -12686,6 +15805,12 @@
       "mod": "Hermit"
     },
     {
+      "name": "Shadow in a Jar",
+      "rarity": "Rare",
+      "description": "Hide for 1 turn.",
+      "mod": "TheChaser"
+    },
+    {
       "name": "Snecko Oil",
       "rarity": "Rare",
       "description": "Draw 5 cards. Randomize the cost of cards in your hand.",
@@ -12694,11 +15819,25 @@
   ],
   "creatures": [
     {
+      "name": "The Cursed",
+      "type": "Player",
+      "minHP": "75",
+      "maxHP": "75",
+      "mod": "The Cursed"
+    },
+    {
       "name": "The Ordinary Magician",
       "type": "Player",
       "minHP": "75",
       "maxHP": "75",
       "mod": "Marisa\uFF08\u9727\u96E8\u3000\u9B54\u7406\u6C99\uFF09"
+    },
+    {
+      "name": "the Chaser",
+      "type": "Player",
+      "minHP": "74",
+      "maxHP": "74",
+      "mod": "TheChaser"
     },
     {
       "name": "the Defect",
@@ -13297,6 +16436,12 @@
       "mod": "StSLib"
     },
     {
+      "name": "Bleed",
+      "description": "Bleeding creature loses HP whenever it Attacks. Each turn, Bleed is reduced by 1.",
+      "names": ["bleed","bleeding"],
+      "mod": "The Cursed"
+    },
+    {
       "name": "Block",
       "description": "Until next turn, prevents damage.",
       "names": ["block","blocks"],
@@ -13321,6 +16466,12 @@
       "mod": ""
     },
     {
+      "name": "Circle",
+      "description": "An Unplayable card that can be activated by using other cards while in hand.",
+      "names": ["circle"],
+      "mod": "The Cursed"
+    },
+    {
       "name": "Confused",
       "description": "Whenever you draw a card, randomize its cost.",
       "names": ["confused"],
@@ -13331,6 +16482,12 @@
       "description": "Curse cards are negative cards that stay in your deck.",
       "names": ["curse"],
       "mod": ""
+    },
+    {
+      "name": "Cursed",
+      "description": "Any card with the word \"Cursed\" in its name. Using it will make Dregs or random Curse cards.",
+      "names": ["cursed"],
+      "mod": "The Cursed"
     },
     {
       "name": "Dark",
@@ -13355,6 +16512,12 @@
       "description": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this Stance at the start of your next turn.",
       "names": ["divinity"],
       "mod": ""
+    },
+    {
+      "name": "Dregs",
+      "description": "Dregs are unplayable Curse cards.",
+      "names": ["dregs"],
+      "mod": "The Cursed"
     },
     {
       "name": "Ethereal",
@@ -13537,6 +16700,12 @@
       "mod": "StSLib"
     },
     {
+      "name": "Rite",
+      "description": "When using, choose 1 card to Exhaust. Selecting a Curse card will activate the Rite's effect.",
+      "names": ["rite"],
+      "mod": "The Cursed"
+    },
+    {
       "name": "Ritual",
       "description": "Gain Strength at the end of your turn.",
       "names": ["ritual"],
@@ -13597,10 +16766,64 @@
       "mod": ""
     },
     {
+      "name": "Stun",
+      "description": "Cannot do anything.",
+      "names": ["stun"],
+      "mod": "The Cursed"
+    },
+    {
       "name": "Temporary hp",
       "description": "Temporary HP disappears at the end of combat.",
       "names": ["temporary hp","temporary_hp"],
       "mod": "StSLib"
+    },
+    {
+      "name": "Thechaser:",
+      "description": "",
+      "names": ["thechaser:"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:bleeding",
+      "description": "Bleeding creatures lose HP at the start of their turn, then reduce Bleeding by half. Whenever you play an Attack, increase Bleeding by 1.",
+      "names": ["thechaser:Bleeding","thechaser:bleeding"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:blindsided",
+      "description": "Target receives 15% more damage for each stack of Blindsided (up to a maximum of 4.)",
+      "names": ["thechaser:Blindsided","thechaser:blindsided"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:hide",
+      "description": "ALL enemies become Stunned. Fades away after an Attack is played or Targeting is triggered.",
+      "names": ["thechaser:Hide","thechaser:hide"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:proxy",
+      "description": "Target receives 5% more damage for each stack of Proxy.",
+      "names": ["thechaser:Proxy","thechaser:proxy"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:quickstep",
+      "description": "Simulate playing cards, for use with Swift effects.",
+      "names": ["thechaser:Quickstep","thechaser:quickstep"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:swift",
+      "description": "If you have played 4 or more cards this turn, trigger an additional effect.",
+      "names": ["thechaser:Swift:","thechaser:swift"],
+      "mod": "TheChaser"
+    },
+    {
+      "name": "Thechaser:targeting",
+      "description": "After a player or monster attacks, all creatures with Targeting take 2 damage.",
+      "names": ["thechaser:Targeting","thechaser:targeting"],
+      "mod": "TheChaser"
     },
     {
       "name": "Thevacant:amethyst",

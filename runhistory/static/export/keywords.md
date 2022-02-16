@@ -15,16 +15,20 @@
 | Amplify | Pay extra energy for its effect when you have enough [E] . |
 | Artifact | Negates the next debuff. |
 | Autoplay | This card automatically plays itself when drawn. |
+| Bleed | Bleeding creature loses HP whenever it Attacks. Each turn, Bleed is reduced by 1. |
 | Block | Until next turn, prevents damage. |
 | Burn | Burns are unplayable status cards that damage you. |
 | Calm | Upon exiting this Stance, gain [W] [W] . |
 | Channel | Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically Evoked to make room. |
+| Circle | An Unplayable card that can be activated by using other cards while in hand. |
 | Confused | Whenever you draw a card, randomize its cost. |
 | Curse | Curse cards are negative cards that stay in your deck. |
+| Cursed | Any card with the word "Cursed" in its name. Using it will make Dregs or random Curse cards. |
 | Dark | Orb: Increases damage every turn. When Evoked, deals damage to the enemy with the least HP. |
 | Dazed | Dazed are unplayable status cards. |
 | Dexterity | Dexterity improves Block gained from cards. |
 | Divinity | Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this Stance at the start of your next turn. |
+| Dregs | Dregs are unplayable Curse cards. |
 | Ethereal | If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat. |
 | Evoke | Consume your rightmost Orb and use its Evoke effect. |
 | Exhaust | Removed until end of combat. |
@@ -55,6 +59,7 @@
 | Refund | Returns energy spent on playing the card, up to the Refund value. |
 | Regen | Regen heals HP at the end of your turn. Each turn, Regen is reduced by 1. |
 | Retain | Not discarded at the end of your turn. |
+| Rite | When using, choose 1 card to Exhaust. Selecting a Curse card will activate the Rite's effect. |
 | Ritual | Gain Strength at the end of your turn. |
 | Scry | Look at the top X cards of your draw pile. You may discard any of them. |
 | Shiv | Shivs are 0 cost Attack cards which Exhaust. |
@@ -65,7 +70,16 @@
 | Status | Status cards are removed at the end of combat. |
 | Strength | Strength adds additional damage to attacks. |
 | Strike | Any card with the word "Strike" in its name. |
+| Stun | Cannot do anything. |
 | Temporary hp | Temporary HP disappears at the end of combat. |
+| Thechaser: |  |
+| Thechaser:bleeding | Bleeding creatures lose HP at the start of their turn, then reduce Bleeding by half. Whenever you play an Attack, increase Bleeding by 1. |
+| Thechaser:blindsided | Target receives 15% more damage for each stack of Blindsided (up to a maximum of 4.) |
+| Thechaser:hide | ALL enemies become Stunned. Fades away after an Attack is played or Targeting is triggered. |
+| Thechaser:proxy | Target receives 5% more damage for each stack of Proxy. |
+| Thechaser:quickstep | Simulate playing cards, for use with Swift effects. |
+| Thechaser:swift | If you have played 4 or more cards this turn, trigger an additional effect. |
+| Thechaser:targeting | After a player or monster attacks, all creatures with Targeting take 2 damage. |
 | Thevacant:amethyst | Gem: Mill. If your draw pile is empty, increase damage and Block. Loses size over time. |
 | Thevacant:chip | Trigger the effect and reduce the size of a Gem. |
 | Thevacant:diamond | Gem: Prevent the next time you would take damage and lose 1 size. Loses size over time. |

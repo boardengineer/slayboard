@@ -4,6 +4,7 @@
 | ![](slay-the-spire/potions/BlessingoftheForge.png) | Blessing of the Forge | Common | Upgrade all cards in your hand for the rest of combat. |
 | ![](slay-the-spire/potions/BlockPotion.png) | Block Potion | Common | Gain 12 Block. |
 | ![](slay-the-spire/potions/BloodPotion.png) | Blood Potion | Common | Heal for 20% of your Max HP. |
+| ![](TheChaser/potions/BottledHemorrhage.png) | Bottled Hemorrhage | Common | Apply 8 Bleeding to an enemy. |
 | ![](slay-the-spire/potions/BottledMiracle.png) | Bottled Miracle | Common | Add 2 Miracles to your hand. |
 | ![](slay-the-spire/potions/ColorlessPotion.png) | Colorless Potion | Common | Choose 1 of 3 random Colorless cards to add to your hand, it costs 0 this turn. |
 | ![](slay-the-spire/potions/DexterityPotion.png) | Dexterity Potion | Common | Gain 2 Dexterity. |
@@ -26,12 +27,14 @@
 | ![](Hermit/potions/BlackBile.png) | Black Bile | Uncommon | Apply 6 Bruise. |
 | ![](slay-the-spire/potions/CunningPotion.png) | Cunning Potion | Uncommon | Add 3 Shiv+ to your hand. |
 | ![](slay-the-spire/potions/DistilledChaos.png) | Distilled Chaos | Uncommon | Play the top 3 cards of your draw pile. |
+| ![](thecursed/potions/DregsPotion.png) | Dregs Potion | Uncommon | Add 1 Dregs card into your hand. |
 | ![](slay-the-spire/potions/DuplicationPotion.png) | Duplication Potion | Uncommon | This turn, your next card is played twice. |
 | ![](slay-the-spire/potions/EssenceofSteel.png) | Essence of Steel | Uncommon | Gain 4 Plated Armor. |
 | ![](slay-the-spire/potions/LiquidBronze.png) | Liquid Bronze | Uncommon | Gain 3 Thorns. |
 | ![](slay-the-spire/potions/PotionOfCapacity.png) | Potion Of Capacity | Uncommon | Gain 2 Orb slots. |
 | ![](slay-the-spire/potions/RegenPotion.png) | Regen Potion | Uncommon | Gain 5 Regen. |
 | ![](theVacant/potions/SwipePotion.png) | Swipe Potion | Uncommon | Mill 10 cards. |
+| ![](TheChaser/potions/TargetPotion.png) | Target Potion | Uncommon | Trigger Targeting 5 times. |
 | ![](slay-the-spire/potions/Ambrosia.png) | Ambrosia | Rare | Enter Divinity Stance. |
 | ![](slay-the-spire/potions/EntropicBrew.png) | Entropic Brew | Rare | Fill all your empty potion slots with random potions. |
 | ![](slay-the-spire/potions/EssenceOfDarkness.png) | Essence Of Darkness | Rare | Channel 1 Dark for each orb slot. |
@@ -41,5 +44,6 @@
 | ![](slay-the-spire/potions/HeartofIron.png) | Heart of Iron | Rare | Gain 6 Metallicize. |
 | ![](theVacant/potions/InvisibilityPotion.png) | Invisibility Potion | Rare | Gain 6 Shroud. |
 | ![](Hermit/potions/LiquidVoid.png) | Liquid Void | Rare | Put 1 card from your exhaust pile into your hand. It costs 0 this turn. |
+| ![](TheChaser/potions/ShadowinaJar.png) | Shadow in a Jar | Rare | Hide for 1 turn. |
 | ![](slay-the-spire/potions/SneckoOil.png) | Snecko Oil | Rare | Draw 5 cards. Randomize the cost of cards in your hand. |
 

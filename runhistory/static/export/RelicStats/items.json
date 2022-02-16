@@ -1,12 +1,12 @@
 {
   "mod": {
     "name": "Relic Stats",
-    "version": "1.2.2",
+    "version": "1.2.0",
     "authors": ["Forgotten Arbiter"],
-    "credits": "ZHS translation: Rita \n FRA translation: Lucky Lunge",
+    "credits": "ZHS translation: Rita",
     "description": "Track relic stats!",
     "mts_version": "3.15.0",
-    "sts_version": "12-22-2020",
+    "sts_version": "01-27-2020",
     "dependencies": ["basemod"],
     "optional_dependencies": []
   },

@@ -229,14 +229,6 @@ Apply 2 [[thevacant:Doom]] to EVERYONE.
 |Deal 9(13) damage to ALL enemies.
 [[thevacant:Mine]] a size 2(3) [[thevacant:Emerald]].
 |-
-|[[Enchant]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|2(1)
-|Lose your next [[thevacant:Gem]].
-Give the [[thevacant:Gem's]] ability to a card in your hand for the rest of combat.
-|-
 |[[Expand]]
 |[[File:|thumb|289x289px]]
 |Uncommon

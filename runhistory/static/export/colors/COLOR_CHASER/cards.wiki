@@ -1,0 +1,588 @@
+
+{| class="article-table sortable"
+|+ Cards
+|-
+!Name
+!Picture
+!Rarity
+!Type
+!Energy
+!Description
+|-
+|[[Defend]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Skill]]
+|1
+|Gain 5(8) [[Block]].
+|-
+|[[Flawed Stealth]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Skill]]
+|1
+|Gain 8(11) [[Block]].
+Gain 1 [[Frail]].
+|-
+|[[Reactive Shot]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Attack]]
+|0
+|Deal 3(4) damage and apply 2(3) [[thechaser:Targeting]] to a random enemy.
+|-
+|[[Strike]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Attack]]
+|1
+|Deal 6(9) damage.
+|-
+|[[Aggravate]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 8(11) [[Block]].
+Trigger [[thechaser:Bleeding]] once on all enemies affected by [[thechaser:Bleeding]].
+|-
+|[[Alertness]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 9(12) [[Block]].
+Gain [[thechaser:Proxy]] 1(2) times.
+[[thechaser:Quickstep]] 1(2).
+|-
+|[[Blitzkrieg]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|0
+|Deal 5(6) damage.
+Apply 1(2) [[thechaser:Blindsided]].
+|-
+|[[Brass Tacks]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Apply 7(10) [[thechaser:Bleeding]].
+|-
+|[[Continuous Slash]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|0
+|Deal 2(3) damage twice.
+thechaser:Swift: Add 1 *Followup *Slash (*Slash+) into your hand.
+|-
+|[[Draw Knives]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Add 3(4) *Throwing *Knife into your hand.
+|-
+|[[Fatal Blitz]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|2
+|Deal 15(17) damage.
+Apply 5(7) [[thechaser:Bleeding]].
+|-
+|[[Illusionary Strike]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|2
+|Deal 15(20) damage.
+If you are [[Weak]], gain [E] [E].
+|-
+|[[Inertial Strike]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 7(10) damage.
+Deals additional damage equal to the amount of cards played this turn.
+|-
+|[[Leave a Mark]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 6(9) damage and apply 1 [[thechaser:Targeting]] to ALL enemies.
+|-
+|[[Malicious Trick]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 8(10) [[Block]].
+Trigger [[thechaser:Targeting]] 2(3) times.
+|-
+|[[Nullify Defenses]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|0
+|Apply 1(2) [[thechaser:Blindsided]] and [[thechaser:Targeting]] to ALL enemies.
+|-
+|[[Open Vein]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 6(8) damage.
+Apply 4(5) [[thechaser:Bleeding]].
+|-
+|[[Pass Through]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 7(10) [[Block]]. If you have played an Attack on an enemy affected by [[thechaser:Targeting]] this turn, draw 2 cards.
+|-
+|[[Preparation]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Draw 2(3) cards. If this card is the first card you play this turn, draw 1 more card.
+|-
+|[[Pursuit]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 8(11) damage. Draw 1 card for each enemy affected by [[thechaser:Targeting]].
+|-
+|[[Stalling]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 9(12) damage.
+Gain [[thechaser:Proxy]] 1(2) times.
+[[thechaser:Quickstep]] 1(2).
+|-
+|[[Thornmail]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 8(10) [[Block]].
+Apply 3(4) [[thechaser:Bleeding]] to ALL enemies.
+|-
+|[[Watch]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|0
+|Apply 5(8) [[thechaser:Targeting]].
+[[Exhaust]].
+|-
+|[[Armorslayer]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Remove ALL stacks of [[thechaser:Targeting]] on the enemy. (not Remove ALL stacks of thechaser:Targeting on the enemy.)Apply [[Vulnerable]], [[Weak]], and [[thechaser:Bleeding]] equal to the amount removed (of [[thechaser:Targeting]] on the enemy). [[Exhaust]].
+|-
+|[[Blade Genesis]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|2(1)
+|Whenever you play a Skill that doesn't cost 0, add 1 *Throwing *Knife to your hand.
+|-
+|[[Chaser's Luck]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 4(7) [[Block]].
+thechaser:Swift: Reduce the cost of a random card in your hand to 0 this turn.
+|-
+|[[Chaser's Trick]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Draw 1 card.
+If it's an Attack, trigger [[thechaser:Targeting]] 2(3) times.
+|-
+|[[Combat Spacing]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Whenever you trigger [[thechaser:Targeting]], gain 1(2) [[Block]].
+|-
+|[[Counter Manoeuvre]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|X
+|Gain 6(8) [[Block]] X times. Trigger [[thechaser:Targeting]] X times.
+|-
+|[[Deceptive Defense]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 9 [[Block]].
+If you are [[Frail]], triple (quadruple) the amount of [[Block]] gained.
+|-
+|[[Deceptive Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 9 damage.
+If you are [[Weak]], deal triple (quadruple) damage.
+|-
+|[[Disguise]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|Gain 8(10) [[Block]].
+Repeat for each unique debuff on you.
+|-
+|[[Evasive Fall]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 15(18) [[Block]].
+Gain 2(1) [[Weak]].
+|-
+|[[Flexibility]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|Choose two:
+Trigger [[thechaser:Targeting]] 3(4) times; gain [[thechaser:Proxy]] 3(4) times; apply 3(4) [[thechaser:Bleeding]] to ALL enemies.
+[[Exhaust]].
+|-
+|[[Gale Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|X
+|Deal 3(6) damage X times to ALL enemies. Trigger [[thechaser:Targeting]] X times.
+|-
+|[[Gore Scars]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 7(10) damage.
+If the enemy has [[thechaser:Bleeding]], trigger it once (twice).
+|-
+|[[Grand Plan]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Whenever you apply a debuff to yourself, gain 1(2) [[Strength]].
+|-
+|[[Hack Away]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2
+|Deal 2(3) damage 6 times.
+|-
+|[[Hidden Dagger]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain 3 [[Block]]. Add 1(2) *Throwing *Knife into your hand.
+thechaser:Swift: [[Upgrade]] ALL *Throwing *Knife cards in your hand.
+|-
+|[[Internal Hemorrhage]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|Apply 6(9) [[thechaser:Bleeding]] and 2 [[Weak]] to ALL enemies.
+[[Exhaust]].
+|-
+|[[Open Sore]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|At the start of your turn, apply 3(5) [[thechaser:Bleeding]] to ALL enemies.
+|-
+|[[Paralyze]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1(0)
+|Enemy loses [[Strength]] equal to the amount of unique debuffs on them.
+[[Exhaust]].
+|-
+|[[Penetrate]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 7(9) damage and apply 2(3) [[Vulnerable]]. If the enemy is already [[Vulnerable]], apply 2(3) [[thechaser:Blindsided]] instead.
+|-
+|[[Piercing Blows]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Whenever you deal damage by triggering [[thechaser:Targeting]], deal 2(3) additional damage.
+|-
+|[[Pluck Out Daggers]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|3
+|Costs 1 [E] less for each time you have triggered [[thechaser:Targeting]] this turn.
+Deal 5(7) damage 3 times.
+|-
+|[[Replicating Daggers]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|([[Innate]].)
+ At the start of your turn, add a *Throwing *Knife into your hand and apply 1 [[thechaser:Targeting]] to a random enemy.
+|-
+|[[Slash Sequence]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|0
+|Deal 3 damage.
+Add 1(2) *Sequence *Flow into your hand.
+thechaser:Swift: Deal 3 damage 2 times.
+|-
+|[[Spirit of Conquest]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain [[Strength]] equal to the cumulative stacks of ALL debuffs you have.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Strong Bulwark]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Gain 1(2) [[Strength]].
+Gain 1(2) [[Dexterity]].
+|-
+|[[Take Initiative]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|Gain [E] [E].
+At the start of your next turn, draw 2(1) less card.
+|-
+|[[Test the Waters]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2
+|Deal 10(12) damage and apply 2(3) [[Vulnerable]] to ALL enemies.
+|-
+|[[Throes of Rage]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 12(16) damage and apply 3(4) [[thechaser:Blindsided]].
+Gain 1 [[Vulnerable]].
+|-
+|[[Unstable Defense]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|Gain 30 [[Block]] and 1 [[Vulnerable]] ([[thechaser:Blindsided]]).
+|-
+|[[Weakpoint Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 4(6) damage. Repeat for each unique debuff on the enemy.
+|-
+|[[Win the Exchange]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 5(8) damage.
+If the enemy has [[thechaser:Blindsided]], gain [E] and draw 1 card.
+|-
+|[[Winds of Fury]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1(0)
+|Trigger [[thechaser:Targeting]] 1 times.
+Permanently increase this card's [[thechaser:Targeting]] trigger amount by 1.
+[[Exhaust]].
+|-
+|[[Wither]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1(0)
+|Apply 99 [[Weak]]. [[Exhaust]].
+|-
+|[[Absolute Edge]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|Gain [E] ([E]).
+Draw 1 card for each unique debuff on ALL enemies.
+[[Exhaust]].
+|-
+|[[Acceleration]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2(1)
+|Whenever you play an Attack, gain 1 temporary [[Strength]].
+|-
+|[[Bloodhound]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|0
+|Deal 3(8) damage to ALL enemies. Trigger [[thechaser:Targeting]] equal to the amount of cards played this turn.
+End your turn.
+|-
+|[[Chaser's Guard]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1
+|Gain 4(6) [[Block]] for each unique debuff on ALL enemies.
+|-
+|[[Confounding Assault]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2(1)
+|Dealing damage by triggering [[thechaser:Targeting]] also applies [[thechaser:Blindsided]].
+|-
+|[[Cruel Ruin]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|2
+|Deal 16(20) damage.
+Apply 2(3) [[Vulnerable]], [[Weak]], and [[thechaser:Blindsided]].
+|-
+|[[Dual Wielding]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1(0)
+|Whenever you trigger [[thechaser:Targeting]] this turn, trigger it twice.
+|-
+|[[High-Speed Advance]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|([[Retain]].) [[thechaser:Quickstep]] 10.
+Apply 10 [[thechaser:Bleeding]] to ALL enemies.
+[[Exhaust]].
+|-
+|[[Lust for Power]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2(1)
+|All your buffs count as debuffs, for the purposes of effects which check for debuffs on you.
+|-
+|[[Neckcutter]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|0
+|[[Ethereal]]. Deal 14(19) damage.
+[[Exhaust]].
+|-
+|[[Perfected Stealth]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|3
+|[[thechaser:Hide]] for 2(3) turns.
+[[Exhaust]].
+|-
+|[[Phrenitis]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1(0)
+|Apply 1 [[Weak]], [[Vulnerable]], [[Frail]], [[Poison]], [[thechaser:Bleeding]], [[thechaser:Targeting]], [[thechaser:Proxy]], and [[thechaser:Blindsided]].
+[[Exhaust]].
+|-
+|[[Preemptive Offense]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|1(0)
+|At the start of your turn, draw 1 additional card and trigger [[thechaser:Targeting]] once.
+|-
+|[[Prepay]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|X
+|This turn, your next X cards cost 0. (Draw X cards.) [[Exhaust]].
+|-
+|[[Sawblades]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|3
+|([[Innate]].) Whenever you play a card, apply 1 [[thechaser:Bleeding]] to ALL enemies.
+|-
+|[[Shakedown]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|1
+|Deal 10(15) damage.
+Gain 10(15) Gold.
+[[Exhaust]].
+|-
+|[[Spectre Form]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|3
+|At the start of your turn, increase damage dealt when triggering [[thechaser:Targeting]] by 2(3).
+|-
+|[[Vibrancy]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|([[Retain]].)
+ Heal HP equal to the amount of times you have triggered [[thechaser:Targeting]] this turn.
+[[Exhaust]].
+|-

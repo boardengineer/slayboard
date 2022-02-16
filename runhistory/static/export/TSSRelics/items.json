@@ -140,6 +140,13 @@
       "flavorText": "Sure they're fake teeth but the monsters won't know the difference."
     },
     {
+      "name": "Noxious Stone",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each turn, gain 2 Envenom and each monster gains 1 Strength.",
+      "flavorText": "It certainly doesn't smell great!!!!."
+    },
+    {
       "name": "Happy Flower Bed",
       "tier": "Boss",
       "pool": "",

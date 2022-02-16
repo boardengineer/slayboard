@@ -18,6 +18,7 @@
 | ![](relics/SneckoCharm.png) | Snecko Charm | Rare |  | ? rooms can now contain Elites or Rest Sites. | Well, good luck... |
 | ![](relics/SneckoSkinBoots.png) | Snecko Skin Boots | Rare |  | At the start of each turn, gain #b2 #yStrength, #b2 #yDexterity, #y-1 #yStrength, or #b-1 #yDexterity, chosen at random. | Poor confusing creature, now losing its skin. suggested by coledot_. |
 | ![](relics/VampireFang.png) | Vampire Fang | Rare | Red | Whenever you play a #yStrike, heal #b1 HP. | Sure they're fake teeth but the monsters won't know the difference. |
+| ![](relics/NoxiousStone.png) | Noxious Stone | Special |  | At the start of each turn, gain #b2 #yEnvenom and each monster gains #b1 #yStrength. | It certainly doesn't smell great!!!!. |
 | ![](relics/HappyFlowerBed.png) | Happy Flower Bed | Boss |  | You can now plant #yHappy #yFlowers at rest sites, counters will stagger. NL Upon pickup, obtain one #yHappy #yFlower per defeated boss. | They all just keep on smiling. |
 | ![](relics/RelicCompass.png) | Relic Compass | Boss |  | Gain [E] at the start of your turn. NL All Elites gain an [additional] emerald (flaming) buff. | All the elites are on fire? Everything is fine. |
 | ![](relics/RunicReplicator.png) | Runic Replicator | Boss |  | At start of combat, choose a card in hand. Add a copy of that card to your hand, it costs #b0 this turn. | A lot of things are great when they're free. |

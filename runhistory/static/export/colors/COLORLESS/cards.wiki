@@ -9,6 +9,13 @@
 !Energy
 !Description
 |-
+|[[Amethyst]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|
+|Size 2(6). At the start of your turn, [[thevacant:Mill]] 2(6) and lose 1 size. If your draw pile is empty, increase damage and [[Block]] by 2(6).
+|-
 |[[Apparition]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -42,6 +49,36 @@ Gain 1 [[Intangible]].
 |Deal 7(8) damage.
 Heal 2(3) HP.
 |-
+|[[Bloody Wind]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Apply 3(4) [[thechaser:Bleeding]] to ALL enemies.
+|-
+|[[Camouflage]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Gain 1 [[thechaser:Proxy]] 3(4) times.
+|-
+|[[Diamond]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|
+|Size 2(3).
+Prevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size.
+|-
+|[[Emerald]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|
+|Size 3(4).
+At the start of your turn, draw a card and lose 1 size.
+|-
 |[[Exhaustion]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -63,6 +100,14 @@ Heal 2(3) HP.
 |
 |Gain 25(30) Gold.
 |-
+|[[Followup Slash]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|[[Ethereal]]. Deal 2(3) damage twice.
+[[Exhaust]].
+|-
 |[[Insight]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -79,6 +124,13 @@ Draw 2(3) cards.
 |0
 |Lose 3 HP.
 Gain 2(3) [[Strength]].
+|-
+|[[Knife Throw]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|1
+|Trigger [[thechaser:Targeting]] 3(4) times.
 |-
 |[[Live Forever]]
 |[[File:|thumb|289x289px]]
@@ -103,6 +155,22 @@ Gain [W] ([W]).
 |3
 |At the end of your turn, deal 50(60) damage to ALL enemies.
 |-
+|[[Onyx]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|
+|Size 2(3).
+At the start of your turn, apply 2(3) [[thevacant:Doom]] to ALL enemies and lose 1 size.
+|-
+|[[Opal]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|
+|Size 2(3).
+At the start of your turn, gain [E] and lose 1 size.
+|-
 |[[Ritual Dagger]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -112,6 +180,14 @@ Gain [W] ([W]).
 If [[Fatal]], permanently increase this card's damage by 3(5).
 [[Exhaust]].
 |-
+|[[Ruby]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|
+|Size 3(4).
+At the start of your turn, gain 3(4) [[Vigor]] and lose 1 size.
+|-
 |[[Safety]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -119,6 +195,22 @@ If [[Fatal]], permanently increase this card's damage by 3(5).
 |1
 |[[Retain]].
 Gain 12(16) [[Block]].
+[[Exhaust]].
+|-
+|[[Sapphire]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Power]]
+|
+|Size 6(4).
+At the start of your turn, gain 6(4) [[thevacant:Temperance]] and lose 1 size.
+|-
+|[[Sequence Flow]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|[[Ethereal]]. Deal 2(3) damage.
 [[Exhaust]].
 |-
 |[[Shiv]]
@@ -146,6 +238,14 @@ Deal 12(16) damage.
 |[[Retain]].
 Deal 20(30) damage.
 [[Exhaust]].
+|-
+|[[Throwing Knife]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|[[Ethereal]].
+Deal 3(5) damage to a random enemy. Enemies affected by [[thechaser:Targeting]] are prioritized. [[Exhaust]].
 |-
 |[[Burn]]
 |[[File:|thumb|289x289px]]

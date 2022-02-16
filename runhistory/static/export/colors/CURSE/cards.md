@@ -10,6 +10,7 @@
 | Clumsy | ![](../../slay-the-spire/small-card-images/Clumsy.png) | ![]() | Curse | Curse |  | Unplayable. Ethereal. |
 | Decay | ![](../../slay-the-spire/small-card-images/Decay.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, take 2 damage. |
 | Doubt | ![](../../slay-the-spire/small-card-images/Doubt.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, gain 1 Weak. |
+| Dregs | ![](../../thecursed/small-card-images/Dregs.png) | ![]() | Curse | Curse |  | Unplayable. |
 | Injury | ![](../../slay-the-spire/small-card-images/Injury.png) | ![]() | Curse | Curse |  | Unplayable. |
 | Normality | ![](../../slay-the-spire/small-card-images/Normality.png) | ![]() | Curse | Curse |  | Unplayable. While in hand, you cannot play more than 3 cards this turn. |
 | Pain | ![](../../slay-the-spire/small-card-images/Pain.png) | ![]() | Curse | Curse |  | Unplayable. While in hand, lose 1 HP whenever you play another card. |

@@ -1,5 +1,12 @@
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
+| Amethyst | ![](small-card-images/Amethyst.png) | ![](small-card-images/AmethystPlus.png) | Special | Skill |  | Size 2(6). At the start of your turn, thevacant:Mill 2(6) and lose 1 size. If your draw pile is empty, increase damage and Block by 2(6). |
+| Diamond | ![](small-card-images/Diamond.png) | ![](small-card-images/DiamondPlus.png) | Special | Skill |  | Size 2(3). Prevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size. |
+| Emerald | ![](small-card-images/Emerald.png) | ![](small-card-images/EmeraldPlus.png) | Special | Attack |  | Size 3(4). At the start of your turn, draw a card and lose 1 size. |
+| Onyx | ![](small-card-images/Onyx.png) | ![](small-card-images/OnyxPlus.png) | Special | Attack |  | Size 2(3). At the start of your turn, apply 2(3) thevacant:Doom to ALL enemies and lose 1 size. |
+| Opal | ![](small-card-images/Opal.png) | ![](small-card-images/OpalPlus.png) | Special | Skill |  | Size 2(3). At the start of your turn, gain [E] and lose 1 size. |
+| Ruby | ![](small-card-images/Ruby.png) | ![](small-card-images/RubyPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, gain 3(4) Vigor and lose 1 size. |
+| Sapphire | ![](small-card-images/Sapphire.png) | ![](small-card-images/SapphirePlus.png) | Special | Power |  | Size 6(4). At the start of your turn, gain 6(4) thevacant:Temperance and lose 1 size. |
 | Corporeate | ![](small-card-images/Corporeate.png) | ![](small-card-images/CorporeatePlus.png) | Basic | Skill | 1(0) | thevacant:Mill 5. thevacant:Return 1. |
 | Defend | ![](small-card-images/Defend.png) | ![](small-card-images/DefendPlus.png) | Basic | Skill | 1 | Gain 5(8) Block. |
 | Soul Bash | ![](small-card-images/SoulBash.png) | ![](small-card-images/SoulBashPlus.png) | Basic | Attack | 0 | thevacant:Rebound. Deal 3(4) damage. Gain 3(4) Vigor. |
@@ -28,7 +35,6 @@
 | Cleanse Soul | ![](small-card-images/CleanseSoul.png) | ![](small-card-images/CleanseSoulPlus.png) | Uncommon | Power | 1 | (Innate.)  Whenever you thevacant:Mill a Status or Curse, Exhaust it. |
 | Embrace Darkness | ![](small-card-images/EmbraceDarkness.png) | ![](small-card-images/EmbraceDarknessPlus.png) | Uncommon | Skill | 2 | Gain 6(9) thevacant:Shroud. Apply 2 thevacant:Doom to EVERYONE. Exhaust. |
 | Emerald Splash | ![](small-card-images/EmeraldSplash.png) | ![](small-card-images/EmeraldSplashPlus.png) | Uncommon | Attack | 1 | Deal 9(13) damage to ALL enemies. thevacant:Mine a size 2(3) thevacant:Emerald. |
-| Enchant | ![](small-card-images/Enchant.png) | ![](small-card-images/EnchantPlus.png) | Uncommon | Skill | 2(1) | Lose your next thevacant:Gem. Give the thevacant:Gem's ability to a card in your hand for the rest of combat. |
 | Expand | ![](small-card-images/Expand.png) | ![](small-card-images/ExpandPlus.png) | Uncommon | Skill | 1 | Gain 2(3) Max HP. Lose 6 HP. Exhaust. |
 | Fortify | ![](small-card-images/Fortify.png) | ![](small-card-images/FortifyPlus.png) | Uncommon | Skill | 2 | Gain 10(18) Block. thevacant:Wounded: Prevent the next time you would lose HP. Exhaust. |
 | Gloom | ![](small-card-images/Gloom.png) | ![](small-card-images/GloomPlus.png) | Uncommon | Power | 1 | thevacant:Mill 3(5) at the start of your turn. |

@@ -1,6 +1,8 @@
 | Image | Name |
 | ----- | ---- |
+| ![](thecursed/creatures/TheCursedCharacter.png) | The Cursed |
 | ![](TS05_Marisa/creatures/Marisa.png) | The Ordinary Magician |
+| ![](TheChaser/creatures/TheChaser.png) | the Chaser |
 | ![](slay-the-spire/creatures/Defect.png) | the Defect |
 | ![](Hermit/creatures/hermit.png) | the Hermit |
 | ![](slay-the-spire/creatures/Ironclad.png) | the Ironchad |

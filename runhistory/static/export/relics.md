@@ -1,5 +1,6 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
+| ![](thecursed/relics/TheCursedMod-BlackMagic101.png) | Black Magic 101 | Starter | The_cursed_purple | At the start of your turn, draw #b1 additional card if your draw pile has any #rCurse card. | Learn about black magic now!!! {4th Edition} |
 | ![](theVacant/relics/BrassGoblet.png) | Brass Goblet | Starter | Vacant_color | At the start of combat, gain #b2 #pthevacant:Void. | An ancient artifact with dark power. |
 | ![](slay-the-spire/relics/BurningBlood.png) | Burning Blood | Starter | Red | At the end of combat, heal #b6 HP. | Your body's own blood burns with an undying rage. |
 | ![](slay-the-spire/relics/CrackedCore.png) | Cracked Core | Starter | Blue | At the start of each combat, #yChannel #b1 #yLightning. | The mysterious life force which powers the Automatons within the Spire. It appears to be cracked. |
@@ -7,6 +8,7 @@
 | ![](Hermit/relics/hermit-Momento.png) | Old Locket | Starter | Hermit_yellow | At the start of each combat, add a #yMemento into your hand. | There's a faded picture inside. |
 | ![](slay-the-spire/relics/PureWater.png) | Pure Water | Starter | Purple | At the start of each combat, add a #yMiracle into your hand. | Filtered through fine sand and free of impurities. |
 | ![](slay-the-spire/relics/RingoftheSnake.png) | Ring of the Snake | Starter | Green | At the start of each combat, draw #b2 additional cards. | Made from a fossilized snake. Represents great skill as a huntress. |
+| ![](TheChaser/relics/theChaser-ShadowInNecklace.png) | Shadowed Necklace | Starter | Color_chaser | At the start of each combat, apply #b2 #yTargeting to a random enemy. | A necklace with a small glass bottle, created from the abyssal darkness. |
 | ![](slay-the-spire/relics/Akabeko.png) | Akabeko | Common |  | Your first Attack each combat deals #b8 additional damage. | "Muuu~" |
 | ![](slay-the-spire/relics/Anchor.png) | Anchor | Common |  | Start each combat with #b10 #yBlock. | Holding this miniature trinket, you feel heavier and more stable. |
 | ![](slay-the-spire/relics/AncientTeaSet.png) | Ancient Tea Set | Common |  | Whenever you enter a Rest Site, start the next combat with [E] [E] . | The key to a refreshing night's rest. |
@@ -37,10 +39,12 @@
 | ![](slay-the-spire/relics/RedSkull.png) | Red Skull | Common | Red | While your HP is at or below #b50%, you have #b3 additional #yStrength. | A small skull covered in ornamental paint. |
 | ![](slay-the-spire/relics/RegalPillow.png) | Regal Pillow | Common |  | Whenever you #yRest, heal an additional #b15 HP. | Now you can get a proper night's rest. |
 | ![](Hermit/relics/hermit-RyeStalk.png) | Rye Stalk | Common | Hermit_yellow | #yhermit:Bruise is no longer reduced on hit. | Still in mint condition, despite being chewed on for so long. |
+| ![](TheChaser/relics/theChaser-ScochStone.png) | Scotch Stone | Common | Color_chaser | Whenever you deal damage by triggering #yTargeting, deal #b1 additional damage. | A fine-grained grey stone used for sharpening weapons. |
 | ![](TS05_Marisa/relics/ShroomBag.png) | Shroom Bag | Common | Marisa_color | Upon pickup, obtain 2 #yParasite. Parasite cards can now be played. Playing a #yParasite will heal #b2 HP and draw a card, then Exhausts it. | All witches have an abnormal enthusiasm for mushrooms... Or is it just Marisa...? |
 | ![](slay-the-spire/relics/SmilingMask.png) | Smiling Mask | Common |  | The Merchant's card removal service now always costs #b50 #yGold. | Mask worn by the Merchant. He must have spares... |
 | ![](slay-the-spire/relics/SnakeSkull.png) | Snecko Skull | Common | Green | Whenever you apply #yPoison, apply an additional #b1 #yPoison. | A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably. |
 | ![](slay-the-spire/relics/Strawberry.png) | Strawberry | Common |  | Upon pickup, raise your Max HP by #b7. | "Delicious! Haven't seen any of these since the blight." - Ranwid |
+| ![](thecursed/relics/TheCursedMod-Tack.png) | Tack | Common | The_cursed_purple | At the start of each combat, apply #b4 #yBleed to ALL enemies. | It hurts when stepping on. |
 | ![](slay-the-spire/relics/Boot.png) | The Boot | Common |  | Whenever you would deal #b4 or less unblocked attack damage, increase it to #b5. | When wound up, the boot grows larger in size. |
 | ![](slay-the-spire/relics/TinyChest.png) | Tiny Chest | Common |  | Every #b4th #y? room is a #yTreasure room. | "A fine prototype." - The Architect |
 | ![](slay-the-spire/relics/ToyOrnithopter.png) | Toy Ornithopter | Common |  | Whenever you use a potion, heal #b5 HP. | "This little toy is the perfect companion for the lone adventurer!" |
@@ -50,14 +54,17 @@
 | ![](slay-the-spire/relics/Whetstone.png) | Whetstone | Common |  | Upon pickup, #yUpgrade #b2 random #yAttacks. | "Flesh never beats steel." - Kublai the Great |
 | ![](TSSRelics/relics/Yin.png) | Yin | Common | Purple | Whenever you play a #ySkill, gain #b1 temporary #yStrength. | Needed for true duality |
 | ![](TS05_Marisa/relics/AmplifyWand.png) | Amplification Wand | Uncommon | Marisa_color | Whenever you activate an #yAmplify effect, gain #b4  #yblock . | A wand that seems to not be used often. |
+| ![](thecursed/relics/TheCursedMod-BloodyHarpoon.png) | Bloody Harpoon | Uncommon | The_cursed_purple | Whenever you apply #yBleed, apply an additional #b1 #yBleed. | Piercing with it, cannot move! |
 | ![](slay-the-spire/relics/BlueCandle.png) | Blue Candle | Uncommon |  | #yUnplayable #rCurse cards can now be played. NL Whenever you play a #rCurse, lose #b1 HP and #yExhaust it. | The flame ignites when shrouded in darkness. |
 | ![](slay-the-spire/relics/BottledFlame.png) | Bottled Flame | Uncommon |  | Upon pickup, choose an #yAttack. Start each combat with this card in your hand. | Inside the bottle resides a flame that eternally burns. |
 | ![](slay-the-spire/relics/BottledLightning.png) | Bottled Lightning | Uncommon |  | Upon pickup, choose a #ySkill. Start each combat with this card in your hand. | Peering into the swirling maelstrom, you see a part of yourself staring back. |
 | ![](slay-the-spire/relics/BottledTornado.png) | Bottled Tornado | Uncommon |  | Upon pickup, choose a #yPower card. Start each combat with this card in your hand. | The bottle gently hums and whirs. |
+| ![](TheChaser/relics/theChaser-BoxCutter.png) | Box Cutter | Uncommon | Color_chaser | Your first Attack that triggers #yTargeting each turn triggers it #btwice. | A very peculiar sword. So peculiar, that its purpose is unknown. |
 | ![](TS05_Marisa/relics/BreadOfAWashokuLover.png) | Bread Of A Washoku Lover | Uncommon | Marisa_color | Heal 1 hp whenever you exhaust a #yStatus or a #yCurse. NL When triggered 13 times, you gain #b13 max HP,and this relic no longer works. | "Can you remember how many slices of bread you have eaten until now?""Thirteen. I prefer Japanese food." |
 | ![](TSSRelics/relics/ClericsGoldenHelm.png) | Cleric's Golden Helm | Uncommon |  | Whenever you add a card to your deck, heal #b5 HP. | It's very shiny, that's how you know its important. Suggested by Galvior. |
 | ![](slay-the-spire/relics/DarkstonePeriapt.png) | Darkstone Periapt | Uncommon |  | Whenever you obtain a #rCurse, increase your Max HP by #b6. | The stone draws power from dark energy, converting it into vitality for the wearer. |
 | ![](theVacant/relics/Deathbell.png) | Deathbell | Uncommon | Vacant_color | At the start of each combat, if you are #ythevacant:Wounded, gain 10 #yTemporary_HP. | The scent invokes a feeling of dread. |
+| ![](thecursed/relics/TheCursedMod-DemonicMark.png) | Demonic Mark | Uncommon | The_cursed_purple | Every time you activate an effect of #yCircle #b3 times in a single turn, gain #b1 #yStrength. | If you've seen this mark somewhere, you're just wrong. (Firmly) |
 | ![](slay-the-spire/relics/Yang.png) | Duality | Uncommon | Purple | Whenever you play an #yAttack, gain #b1 temporary #yDexterity. | "And the sun was extinguished forever, as if curtains fell before it." - Zoroth |
 | ![](slay-the-spire/relics/EternalFeather.png) | Eternal Feather | Uncommon |  | For every #b5 cards in your deck, heal #b3 HP whenever you enter a Rest Site. | This feather appears to be completely indestructible. What bird does this possibly come from? |
 | ![](TSSRelics/relics/FiliformNeedle.png) | Filiform Needle | Uncommon | Purple | At the start of each turn, apply 1 #yMark to all enemies. ALL enemies lose HP equal to their #yMark. | Don't worry, I'm a professional. |
@@ -83,6 +90,7 @@
 | ![](slay-the-spire/relics/PaperFrog.png) | Paper Phrog | Uncommon | Red | Enemies with #yVulnerable take #b75% more damage rather than #b50%. | The paper continually folds and unfolds itself into the shape of a small creature. |
 | ![](slay-the-spire/relics/Pear.png) | Pear | Uncommon |  | Upon pickup, raise your Max HP by #b10. | A common fruit before the Spireblight. |
 | ![](slay-the-spire/relics/QuestionCard.png) | Question Card | Uncommon |  | Future card rewards have #b1 additional card to choose from. | "Those with more choices minimize the downside to chaos." - Kublai the Great |
+| ![](TheChaser/relics/theChaser-R-B0-7.png) | R-B0-7 | Uncommon | Color_chaser | At the start of each turn, enemies which have debuffs lose #b5 #yHP. | A dangerous secret weapon. Its lethality is complemented with an infamous drug. |
 | ![](slay-the-spire/relics/SelfFormingClay.png) | Self-Forming Clay | Uncommon | Red | Whenever you lose HP, gain #b3 #yBlock next turn. | "Most curious! It appears to form itself loosely on my thoughts! Tele-clay?" - Ranwid |
 | ![](TSSRelics/relics/Sail.png) | Ship's Sail | Uncommon |  | At the start of your 4th turn, gain #b22 #yBlock. | Catches the wind. Suggested by bobjoejuan. |
 | ![](slay-the-spire/relics/Shuriken.png) | Shuriken | Uncommon |  | Every time you play #b3 #yAttacks in a single turn, gain #b1 #yStrength. | Lightweight throwing weapons. Recommend going for the eyes. |
@@ -98,6 +106,8 @@
 | ![](slay-the-spire/relics/ToxicEgg2.png) | Toxic Egg | Uncommon |  | Whenever you add a #ySkill into your deck, #yUpgrade it. | "What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?" - Ranwid |
 | ![](slay-the-spire/relics/WhiteBeastStatue.png) | White Beast Statue | Uncommon |  | Potions always appear in combat rewards. | A small white statue of a creature you have never seen before. |
 | ![](TSSRelics/relics/AchillesHeelGuard.png) | Achilles Heel Guard | Rare |  | If you haven't taken damage this combat, gain [E] at the start of your turn. | It's fragile, don't let it crack. |
+| ![](TheChaser/relics/theChaser-AcidSolution.png) | Acid Solution | Rare | Color_chaser | Whenever you play an Attack, if you are #yWeak, apply #b1 #yWeak to the enemy. If you are #yFrail, remove all Block from the enemy. | Extremely corrosive. Hopefully no one else carelessly sprinkles this on something...or someone. |
+| ![](TheChaser/relics/theChaser-CloakOfAssassin.png) | Assassin's Cloak | Rare | Color_chaser | At the start of each combat, #yHide for #b2 turns. | This mass-produced cloak boasts the most reliable camouflage. |
 | ![](slay-the-spire/relics/BirdFacedUrn.png) | Bird-Faced Urn | Rare |  | Whenever you play a #yPower card, heal #b2 HP. | This urn shows the crow god Mazaleth looking mischievous. |
 | ![](TSSRelics/relics/BlightedSnail.png) | Blighted Snail | Rare |  | At the end of each turn deal damage that increases each turn by the Fibonacci sequence (0,1,1,2,3,5,8,...). | You get lost in those smooth curves. |
 | ![](TSSRelics/relics/BusinessContract.png) | Business Contract | Rare |  | The Merchant's removal service can be used any number of times. | Gotta read the fine print. |
@@ -108,6 +118,7 @@
 | ![](Hermit/relics/hermit-CharredGlove.png) | Charred Glove | Rare | Hermit_yellow | Whenever you draw a #yCurse, your next attack deals #b4 more damage. | Parts of the glove still glow with otherworldly cinders. |
 | ![](slay-the-spire/relics/CloakClasp.png) | Cloak Clasp | Rare | Purple | At the end of your turn, gain #b1 #yBlock for each card in your hand. | A simple but sturdy design. |
 | ![](theVacant/relics/CrystalBallRelic.png) | Cracked Crystal Ball | Rare | Vacant_color | #yExhausted cards that aren't #yStatuses return to your draw pile after 2 turns. | Sometimes magic leaking into the world is more powerful than when it is contained. |
+| ![](thecursed/relics/TheCursedMod-CrystalBall.png) | Crystal Ball | Rare | The_cursed_purple | Whenever a #rCurse card is #yExhausted, deal #b5 damage to a random enemy. | Did you say the color looks like Prismatic Shard? You've gone too far. |
 | ![](slay-the-spire/relics/DeadBranch.png) | Dead Branch | Rare |  | Whenever you #yExhaust a card, add a random card into your hand. | The branch of a tree from a forgotten era. |
 | ![](slay-the-spire/relics/Du-VuDoll.png) | Du-Vu Doll | Rare |  | For each #rCurse in your deck, start each combat with #b1 #yStrength. | A doll devised to gain strength from malicious energy. |
 | ![](slay-the-spire/relics/EmotionChip.png) | Emotion Chip | Rare | Blue | If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn. | ...<3...? |
@@ -121,15 +132,18 @@
 | ![](slay-the-spire/relics/IncenseBurner.png) | Incense Burner | Rare |  | Every #b6 turns, gain #b1 #yIntangible. | The smoke imbues its owner with the spirit of the burned. |
 | ![](slay-the-spire/relics/LizardTail.png) | Lizard Tail | Rare |  | When you would die, heal to #b50% of your Max HP instead (works once). | A fake tail to trick enemies during combat. |
 | ![](TS05_Marisa/relics/MagicBroom.png) | Magic Broom | Rare | Marisa_color | Every time you play #b3 cards that cost 0, draw 1 card. | Marisa always travels on her flying broom. |
+| ![](thecursed/relics/TheCursedMod-MagicCandle.png) | Magic Candle | Rare | The_cursed_purple | Every time you activate an effect of #yCircle #b10 times, gain [E]. | It collects nearby mana during Rite. |
 | ![](slay-the-spire/relics/MagicFlower.png) | Magic Flower | Rare | Red | Healing is #b50% more effective during combat. | A flower long thought extinct, somehow preserved in perfect condition. |
 | ![](slay-the-spire/relics/Mango.png) | Mango | Rare |  | Upon pickup, raise your Max HP by #b14. | The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight. |
 | ![](slay-the-spire/relics/OldCoin.png) | Old Coin | Rare |  | Upon pickup, gain #b300 #yGold. | Unique coins are highly valued by merchants for their historical value and rare metallic composition. |
 | ![](slay-the-spire/relics/PeacePipe.png) | Peace Pipe | Rare |  | You can now remove cards from your deck at Rest Sites. | Clears the mind and cleanses the soul. |
 | ![](slay-the-spire/relics/Pocketwatch.png) | Pocketwatch | Rare |  | Whenever you play #b3 or less cards during your turn, draw #b3 additional cards at the start of your next turn. | The hands seem stuck on the 3 o'clock position. |
 | ![](slay-the-spire/relics/PrayerWheel.png) | Prayer Wheel | Rare |  | Normal enemies drop an additional card reward. | The wheel continues to spin, never stopping. |
+| ![](TheChaser/relics/theChaser-RustyHelmet.png) | Rusty Helmet | Rare | Color_chaser | At the start of each turn, apply #b1 #yBlindsided to ALL enemies. | An old helmet used in wars of the past. It's unlikely to see use today. |
 | ![](slay-the-spire/relics/Shovel.png) | Shovel | Rare |  | You can now #yDig for relics at Rest Sites. | The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up! |
 | ![](TSSRelics/relics/SneckoCharm.png) | Snecko Charm | Rare |  | ? rooms can now contain Elites or Rest Sites. | Well, good luck... |
 | ![](TSSRelics/relics/SneckoSkinBoots.png) | Snecko Skin Boots | Rare |  | At the start of each turn, gain #b2 #yStrength, #b2 #yDexterity, #y-1 #yStrength, or #b-1 #yDexterity, chosen at random. | Poor confusing creature, now losing its skin. suggested by coledot_. |
+| ![](thecursed/relics/TheCursedMod-SoulVessel.png) | Soul Vessel | Rare | The_cursed_purple | At the end of combat, heal HP equal to the number of #yExhausted #rCurse cards in this combat. | The feast of souls begins now! |
 | ![](slay-the-spire/relics/StoneCalendar.png) | Stone Calendar | Rare |  | At the end of turn #b7, deal #b52 damage to ALL enemies. | The passage of time is imperceptible in the Spire. |
 | ![](slay-the-spire/relics/TheSpecimen.png) | The Specimen | Rare | Green | Whenever an enemy dies, transfer any #yPoison it has to a random enemy. | "Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination." - Ranwid |
 | ![](slay-the-spire/relics/ThreadandNeedle.png) | Thread and Needle | Rare |  | Start each combat with #b4 #yPlated #yArmor. | Wrapping the magical thread around your body, you feel harder to the touch. |
@@ -156,6 +170,7 @@
 | ![](slay-the-spire/relics/Necronomicon.png) | Necronomicon | Special |  | The first #yAttack played each turn that costs #b2 or more is played twice. Upon pickup, obtain a special #rCurse. | Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind. |
 | ![](slay-the-spire/relics/NeowsBlessing.png) | Neow's Lament | Special |  | Enemies in your first #b3 combats will have #b1 HP. | The blessing of lamentation bestowed by Neow. |
 | ![](slay-the-spire/relics/NilrysCodex.png) | Nilry's Codex | Special |  | At the end of your turn, you may shuffle #b1 of #b3 random cards into your draw pile. | Crafted by the infamous game master himself. Said to expand one's mind. |
+| ![](TSSRelics/relics/NoxiousStone.png) | Noxious Stone | Special |  | At the start of each turn, gain #b2 #yEnvenom and each monster gains #b1 #yStrength. | It certainly doesn't smell great!!!!. |
 | ![](slay-the-spire/relics/OddMushroom.png) | Odd Mushroom | Special |  | When #yVulnerable, take #b25% more attack damage rather than #b50%. | "After consuming trichella parastius I felt larger and less... susceptible." - Ranwid |
 | ![](slay-the-spire/relics/RedMask.png) | Red Mask | Special |  | At the start of each combat, apply #b1 #yWeak to ALL enemies. | This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now? |
 | ![](slay-the-spire/relics/SpiritPoop.png) | Spirit Poop | Special |  | It's unpleasant. | The charred remains of your offering to the spirits. |
@@ -165,8 +180,10 @@
 | ![](slay-the-spire/relics/Astrolabe.png) | Astrolabe | Boss |  | Upon pickup, #yTransform #b3 cards, then #yUpgrade them. | A tool to glean invaluable knowledge from the stars. |
 | ![](TS05_Marisa/relics/BewitchedHakkero.png) | Bewitched Hakkero | Boss | Marisa_color | Replaces #rMini-Hakkero . NL Whenever you play a card , gain #b1 #yCharge-up . NL gain 1 more if it is a #ySpark card. | Its firepower is on a new level, but is it ok to use a bewitched tool? |
 | ![](slay-the-spire/relics/BlackBlood.png) | Black Blood | Boss | Red | Replaces #rBurning #rBlood. At the end of combat, heal #b12 HP. | The rage grows darker. |
+| ![](thecursed/relics/TheCursedMod-BlackMagicAdvanced.png) | Black Magic Advanced | Boss | The_cursed_purple | Replaces #gBlack #gMagic #g101. At the start of your turn, draw #b2 additional cards if your draw pile has any #rCurse card. | [The effects of curses and magic circles on human's body and side effects] |
 | ![](slay-the-spire/relics/BlackStar.png) | Black Star | Boss |  | Elites drop an additional relic when defeated. | Originally discovered in the town of the serpent, beside a solitary candle. |
 | ![](theVacant/relics/BoundSoul.png) | Bound Soul | Boss | Vacant_color | At the start of your turn, if you are #ythevacant:Wounded, gain [E] . | As death closes in, the artifact's hold on you weakens, and you feel your power grow. |
+| ![](TheChaser/relics/theChaser-BrokenTicker.png) | Broken Ticker | Boss | Color_chaser | At the start of each combat, apply #ySlow to ALL enemies. | It is already broken, yet a faint ticking can still be heard. |
 | ![](slay-the-spire/relics/BustedCrown.png) | Busted Crown | Boss |  | Gain [E] at the start of your turn. Future card rewards have #b2 less cards to choose from. | The Champ's crown... or a pale imitation? |
 | ![](slay-the-spire/relics/CallingBell.png) | Calling Bell | Boss |  | Upon pickup, obtain a unique #rCurse and #b3 relics. | This dark iron bell rang 3 times when you found it, but now stays silent. |
 | ![](Hermit/relics/hermit-ClaspedLocket.png) | Clasped Locket | Boss | Hermit_yellow | Replaces #yOld #yLocket. Upon pickup, add #b3 #yMementos to your deck. | It won't open anymore. |
@@ -175,7 +192,7 @@
 | ![](Hermit/relics/hermit-DentedPlate.png) | Dented Plate | Boss |  | While your HP is at or below #b50%, gain [E] and draw #b1 card at the start of your turn. | Several bullets are still lodged inside. |
 | ![](slay-the-spire/relics/Ectoplasm.png) | Ectoplasm | Boss |  | Gain [E] at the start of your turn. You can no longer gain #yGold. | This blob of slime and energy seems to pulse with life. |
 | ![](slay-the-spire/relics/EmptyCage.png) | Empty Cage | Boss |  | Upon pickup, remove #b2 cards from your deck. | "How unusual to cage that which you worship." - Ranwid |
-| ![](TS05_Marisa/relics/ExperimentalFamiliar.png) | Experimental Familiar | Boss | Marisa_color | At the start of each turn, add 1 #ySpark to your hand. NL At the start of combat, you can choose #b1 from #b3 random cards. It costs 0 this turn. | A Familiar looks just like a shiny orb. Not very powerful, but it will surely help you a lot. |
+| ![](thecursed/relics/TheCursedMod-FourLeafCloverCharm.png) | Four-Leaf Clover Charm | Boss | The_cursed_purple | Every time a card or a relic generates a random #rCurse card during combat, replace it with #rDregs. | Good luck and happiness come from gratitude. |
 | ![](slay-the-spire/relics/FrozenCore.png) | Frozen Core | Boss | Blue | Replaces #bCracked #bCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost. | The crack in your core has been filled with a pulsating cold energy. |
 | ![](slay-the-spire/relics/FusionHammer.png) | Fusion Hammer | Boss |  | Gain [E] at the start of your turn. You can no longer #ySmith at Rest Sites. | Once wielded, the owner can never let go. |
 | ![](TSSRelics/relics/HappyFlowerBed.png) | Happy Flower Bed | Boss |  | You can now plant #yHappy #yFlowers at rest sites, counters will stagger. NL Upon pickup, obtain one #yHappy #yFlower per defeated boss. | They all just keep on smiling. |
@@ -183,10 +200,13 @@
 | ![](slay-the-spire/relics/HoveringKite.png) | Hovering Kite | Boss | Green | The first time you discard a card each turn, gain [E] . | The Kite floats around you in battle, propelled by a mysterious force. |
 | ![](slay-the-spire/relics/Inserter.png) | Inserter | Boss | Blue | Every #b2 turns, gain #b1 Orb slot. | Push. Pull. Stack. Repeat. |
 | ![](slay-the-spire/relics/MarkofPain.png) | Mark of Pain | Boss | Red | Gain [R] at the start of your turn. At the start of combat, shuffle #b2 #rWounds into your draw pile. | This brand was used by the northern tribes to signify warriors who had mastered pain in battle. |
+| ![](TheChaser/relics/theChaser-ShadowInMask.png) | Masked Shadows | Boss | Color_chaser | Replaces #pShadowed #pNecklace. At the start of your turn, apply #b1 #yTargeting to ALL enemies and trigger #yTargeting once. | Behind a mask, nobody can see the abyss. |
 | ![](slay-the-spire/relics/NuclearBattery.png) | Nuclear Battery | Boss | Blue | At the start of each combat, #yChannel #b1 #yPlasma. | Ooooh... |
+| ![](thecursed/relics/TheCursedMod-OminousMark.png) | Ominous Mark | Boss | The_cursed_purple | Gain [E] at the start of your turn. At the start of combat, shuffle #b2 random #rCurse cards into your draw pile. | Take a closer look, the mark looks shaking... |
 | ![](theVacant/relics/OverflowingGobletRelic.png) | Overflowing Goblet | Boss | Vacant_color | Replaces #yBrass #yGoblet. At the start of combat, gain #b2 #yArtifact. | An ancient artifact, now overflowing with dark power. |
 | ![](slay-the-spire/relics/PandorasBox.png) | Pandora's Box | Boss |  | Upon pickup, #bTransform all Strike and Defend cards. | You have a bad feeling about opening this. |
 | ![](slay-the-spire/relics/PhilosophersStone.png) | Philosopher's Stone | Boss |  | Gain [E] at the start of your turn. ALL enemies start combat with #b1 #yStrength. | Raw energy emanates from the stone, empowering all nearby. |
+| ![](TheChaser/relics/theChaser-PocketKnife.png) | Pocket Knife | Boss | Color_chaser | After #yTarget is triggered for the fourth time each turn, gain [E] . | A portable knife used to cut ropes. |
 | ![](TS05_Marisa/relics/RampagingMagicTools.png) | Rampaging Magic Tool | Boss | Marisa_color | Gain [E] at the start of each turn. NL Apply a random debuff/buff ( #b2 #yFrail , #b2 #yWeak , #b2 #yVulnerable , #b3 #yPoison , #b8 #yCharge-up )to you at the start of each combat. | It's been so long since anyone last used them. Who knows what could happen? |
 | ![](TSSRelics/relics/RelicCompass.png) | Relic Compass | Boss |  | Gain [E] at the start of your turn. NL All Elites gain an [additional] emerald (flaming) buff. | All the elites are on fire? Everything is fine. |
 | ![](slay-the-spire/relics/RingoftheSerpent.png) | Ring of the Serpent | Boss | Green | Replaces #gRing #gof #gthe #gSnake. At the start of your turn, draw #b1 additional card. | Your ring has morphed and changed forms. |
@@ -214,11 +234,13 @@
 | ![](slay-the-spire/relics/FrozenEye.png) | Frozen Eye | Shop |  | When viewing your #yDraw #yPile, the cards are now shown in order. | Staring into the eye, you see a glimpse of your future. |
 | ![](slay-the-spire/relics/HandDrill.png) | Hand Drill | Shop |  | Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable. | "Spirals are dangerous." |
 | ![](slay-the-spire/relics/LeesWaffle.png) | Lee's Waffle | Shop |  | Upon pickup, raise your Max HP by #b7 and heal all of your HP. | "Tastiest treat you will find in all the Spire! Baked today just for you." |
+| ![](TheChaser/relics/theChaser-LetterOfRequest.png) | Letter of Request | Shop | Color_chaser | At the start of each combat, apply #b3 #yTargeting to ALL enemies. | A letter of request from an unknown client. |
 | ![](slay-the-spire/relics/MedicalKit.png) | Medical Kit | Shop |  | #yUnplayable #yStatus cards can now be played. Whenever you play a #yStatus card, #yExhaust it. | "Has everything you need! Anti-itch, anti-burn, anti-venom, and more!" |
 | ![](slay-the-spire/relics/Melange.png) | Melange | Shop | Purple | Whenever you shuffle your draw pile, #yScry #b3. | Mysterious sands from an unknown origin. Smells of cinnamon. |
 | ![](slay-the-spire/relics/MembershipCard.png) | Membership Card | Shop |  | #b50% discount on all products! | "Bonus membership offer for my most valuable customers!" |
 | ![](slay-the-spire/relics/OrangePellets.png) | Orange Pellets | Shop |  | Whenever you play a #yPower, #yAttack, and #ySkill in the same turn, remove all of your debuffs. | "Made from various fungi found throughout the Spire, they will stave off any affliction." |
 | ![](slay-the-spire/relics/Orrery.png) | Orrery | Shop |  | Upon pickup, choose and add #b5 cards to your deck. | "Once you understand the universe..." - Zoroth |
+| ![](thecursed/relics/TheCursedMod-PinkPellets.png) | Pink Pellets | Shop | The_cursed_purple | Every time you activate an effect of #yCircle #b5 times in a single turn, remove all of your debuffs. | Selling with Orange Pellets! |
 | ![](theVacant/relics/RagRelic.png) | Polishing Rag | Shop | Vacant_color | #ythevacant:Gems no longer decrease in size at the start of your turn. | Shiny gems are more powerful, everyone knows this. |
 | ![](slay-the-spire/relics/PrismaticShard.png) | Prismatic Shard | Shop |  | Combat reward screens now contain Colorless cards and cards from other colors. | Looking through the shard, you are able to see entirely new perspectives. |
 | ![](slay-the-spire/relics/RunicCapacitor.png) | Runic Capacitor | Shop | Blue | Start each combat with #b3 additional Orb slots. | More is better. |

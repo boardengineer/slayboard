@@ -12,6 +12,118 @@
   },
   "cards": [
     {
+      "name": "Amethyst",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2. At the start of your turn, thevacant:Mill 2 and lose 1 size. If your draw pile is empty, increase damage and Block by 2."
+    },
+    {
+      "name": "Amethyst+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 6. At the start of your turn, thevacant:Mill 6 and lose 1 size. If your draw pile is empty, increase damage and Block by 6."
+    },
+    {
+      "name": "Diamond",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2.\nPrevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size."
+    },
+    {
+      "name": "Diamond+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nPrevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size."
+    },
+    {
+      "name": "Emerald",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, draw a card and lose 1 size."
+    },
+    {
+      "name": "Emerald+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, draw a card and lose 1 size."
+    },
+    {
+      "name": "Onyx",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 2.\nAt the start of your turn, apply 2 thevacant:Doom to ALL enemies and lose 1 size."
+    },
+    {
+      "name": "Onyx+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, apply 3 thevacant:Doom to ALL enemies and lose 1 size."
+    },
+    {
+      "name": "Opal",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 2.\nAt the start of your turn, gain [E] and lose 1 size."
+    },
+    {
+      "name": "Opal+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, gain [E] and lose 1 size."
+    },
+    {
+      "name": "Ruby",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 3.\nAt the start of your turn, gain 3 Vigor and lose 1 size."
+    },
+    {
+      "name": "Ruby+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, gain 4 Vigor and lose 1 size."
+    },
+    {
+      "name": "Sapphire",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "",
+      "description": "Size 6.\nAt the start of your turn, gain 6 thevacant:Temperance and lose 1 size."
+    },
+    {
+      "name": "Sapphire+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "",
+      "description": "Size 4.\nAt the start of your turn, gain 4 thevacant:Temperance and lose 1 size."
+    },
+    {
       "name": "Corporeate",
       "color": "Vacant_color",
       "rarity": "Basic",
@@ -458,22 +570,6 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 13 damage to ALL enemies.\nthevacant:Mine a size 3 thevacant:Emerald."
-    },
-    {
-      "name": "Enchant",
-      "color": "Vacant_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat."
-    },
-    {
-      "name": "Enchant+",
-      "color": "Vacant_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Lose your next thevacant:Gem.\nGive the thevacant:Gem's ability to a card in your hand for the rest of combat."
     },
     {
       "name": "Expand",
