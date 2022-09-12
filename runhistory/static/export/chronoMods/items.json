@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Spire with Friends",
+    "version": "3.1.2",
+    "authors": ["Chronometrics","","Contributors:","Rocket","REME","Artemis Kearney","red5h4d0w","","Spire with Friends Patreon:","Cap'n Hector","FormalsFine","FlannelViolin","SRabbelier","Ron Bowes","Corvid Occult","Fractal","Chris Fox","Clay Benson","Elaer","","Translators:","LuckyLunge","Hoki0niwa","IrisRaphael","Rustle","280chan","icetea"],
+    "credits": "",
+    "description": "Multiplayer comes to the Spire! Adds new Co-op, Versus, and Bingo modes.",
+    "mts_version": "3.8.3",
+    "sts_version": "1-23-2019",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

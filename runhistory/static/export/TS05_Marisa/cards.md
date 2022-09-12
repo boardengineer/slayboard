@@ -48,7 +48,6 @@
 | One Time Off | ![](small-card-images/OneTimeOff.png) | ![](small-card-images/OneTimeOffPlus.png) | Uncommon | Skill | 1 | Gain 5(7) Block. You can't activate Amplify effects (or consume Charge-up) this turn. Draw 1(2) card(s) next turn. |
 | OortCloud | ![](small-card-images/OortCloud.png) | ![](small-card-images/OortCloudPlus.png) | Uncommon | Power | 1 | Gain 4(5) Plated Armor. Amplify  [E]  : Gain 2(3) more Plated Armor. |
 | Open Universe | ![](small-card-images/OpenUniverse.png) | ![](small-card-images/OpenUniversePlus.png) | Uncommon | Skill | 1 | Shuffle 5 random cards into your draw pile. Each of them has a 20(30) % chance to be Upgraded. Draw 2(3) cards. |
-| Orbital | ![](small-card-images/Orbital.png) | ![](small-card-images/OrbitalPlus.png) | Uncommon | Skill |  |  Unplayable. When this card is drawn, draw 1 card. If this card is Exhausted, place 1(2) card(s) from your exhaust pile into your hand. |
 | Orrerys Sun | ![](small-card-images/OrrerysSun.png) | ![](small-card-images/OrrerysSunPlus.png) | Uncommon | Power | 1 | Whenever Charge-up is consumed, gain 6(9) block . |
 | Portable Prop Bag | ![](small-card-images/PortablePropBag.png) | ![](small-card-images/PortablePropBagPlus.png) | Uncommon | Skill | 0 | (Innate.)  Obtain a random relic. Lose the relic when the battle ends. Exhaust. |
 | Pulse Magic | ![](small-card-images/PulseMagic.png) | ![](small-card-images/PulseMagicPlus.png) | Uncommon | Skill | 0 | Next turn, gain [E] ([E]). Amplify [E] : Amplify effects cost no [E] this turn. |

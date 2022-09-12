@@ -764,22 +764,6 @@
       "description": "Shuffle 5 random cards into your draw pile. Each of them has a 30 % chance to be Upgraded.\nDraw 3 cards."
     },
     {
-      "name": "Orbital",
-      "color": "Marisa_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "",
-      "description": " Unplayable. When this card is drawn, draw 1 card.\nIf this card is Exhausted, place 1 card(s) from your exhaust pile into your hand."
-    },
-    {
-      "name": "Orbital+",
-      "color": "Marisa_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "",
-      "description": " Unplayable. When this card is drawn, draw 1 card.\nIf this card is Exhausted, place 2 card(s) from your exhaust pile into your hand."
-    },
-    {
       "name": "Orrerys Sun",
       "color": "Marisa_color",
       "rarity": "Uncommon",
@@ -1362,6 +1346,13 @@
       "pool": "Marisa_color",
       "description": "Replaces Mini-Hakkero .\nWhenever you play a card , gain 1 Charge-up .\ngain 1 more if it is a Spark card.",
       "flavorText": "Its firepower is on a new level, but is it ok to use a bewitched tool?"
+    },
+    {
+      "name": "Experimental Familiar",
+      "tier": "Boss",
+      "pool": "Marisa_color",
+      "description": "At the start of each turn, add 1 Spark to your hand.\nAt the start of combat, you can choose 1 from 3 random cards. It costs 0 this turn.",
+      "flavorText": "A Familiar looks just like a shiny orb. Not very powerful, but it will surely help you a lot."
     },
     {
       "name": "Rampaging Magic Tool",

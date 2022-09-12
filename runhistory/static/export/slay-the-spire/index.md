@@ -281,6 +281,7 @@
 | Tantrum | ![](small-card-images/Tantrum.png) | ![](small-card-images/TantrumPlus.png) | Uncommon | Attack | 1 | Deal 3 damage 3(4) times. Enter Wrath. Shuffle this card into your draw pile. |
 | Wallop | ![](small-card-images/Wallop.png) | ![](small-card-images/WallopPlus.png) | Uncommon | Attack | 2 | Deal 9(12) damage. Gain Block equal to unblocked damage dealt. |
 | Wave of the Hand | ![](small-card-images/WaveoftheHand.png) | ![](small-card-images/WaveoftheHandPlus.png) | Uncommon | Skill | 1 | Whenever you gain Block this turn, apply 1(2) Weak to ALL enemies. |
+| Weave | ![](small-card-images/Weave.png) | ![](small-card-images/WeavePlus.png) | Uncommon | Attack | 0 | Deal 4(6) damage. Whenever you Scry, return this from the discard pile to your Hand. |
 | Wheel Kick | ![](small-card-images/WheelKick.png) | ![](small-card-images/WheelKickPlus.png) | Uncommon | Attack | 2 | Deal 15(20) damage. Draw 2 cards. |
 | Windmill Strike | ![](small-card-images/WindmillStrike.png) | ![](small-card-images/WindmillStrikePlus.png) | Uncommon | Attack | 2 | Retain. Deal 7(10) damage. When Retained, increase its damage by 4(5) this combat. |
 | Worship | ![](small-card-images/Worship.png) | ![](small-card-images/WorshipPlus.png) | Uncommon | Skill | 2 | (Retain.)  Gain 5 Mantra. |
@@ -608,10 +609,9 @@
 | Image | Name |
 | ----- | ---- |
 | ![](creatures/Defect.png) | the Defect |
-| ![](creatures/Ironclad.png) | the Ironchad |
+| ![](creatures/Ironclad.png) | the Ironclad |
 | ![](creatures/TheSilent.png) | the Silent |
 | ![](creatures/Watcher.png) | the Watcher |
-| ![](creatures/AcidSlime_L.png) | Acid Slime (L) |
 | ![](creatures/AcidSlime_M.png) | Acid Slime (M) |
 | ![](creatures/AcidSlime_S.png) | Acid Slime (S) |
 | ![](creatures/ApologySlime.png) | Apology Slime |
@@ -635,7 +635,6 @@
 | ![](creatures/GiantHead.png) | Giant Head |
 | ![](creatures/GremlinLeader.png) | Gremlin Leader |
 | ![](creatures/GremlinNob.png) | Gremlin Nob |
-| ![](creatures/GremlinWizard.png) | Gremlin Wizard |
 | ![](creatures/Hexaghost.png) | Hexaghost |
 | ![](creatures/JawWorm.png) | Jaw Worm |
 | ![](creatures/Lagavulin.png) | Lagavulin |
@@ -643,6 +642,7 @@
 | ![](creatures/Looter.png) | Looter |
 | ![](creatures/FuzzyLouseDefensive.png) | Louse |
 | ![](creatures/FuzzyLouseNormal.png) | Louse |
+| ![](creatures/GremlinWarrior.png) | Mad Gremlin |
 | ![](creatures/Mugger.png) | Mugger |
 | ![](creatures/Healer.png) | Mystic |
 | ![](creatures/Nemesis.png) | Nemesis |
@@ -661,7 +661,7 @@
 | ![](creatures/GremlinThief.png) | Sneaky Gremlin |
 | ![](creatures/Snecko.png) | Snecko |
 | ![](creatures/SphericGuardian.png) | Spheric Guardian |
-| ![](creatures/SpikeSlime_M.png) | Spike Slime (M) |
+| ![](creatures/SpikeSlime_L.png) | Spike Slime (L) |
 | ![](creatures/SpikeSlime_S.png) | Spike Slime (S) |
 | ![](creatures/Spiker.png) | Spiker |
 | ![](creatures/Serpent.png) | Spire Growth |

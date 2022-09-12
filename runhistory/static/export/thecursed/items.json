@@ -772,22 +772,6 @@
       "description": "Deal 7 damage.\nIf the enemy has Bleed,\ngain [E] and\ndraw 1 card."
     },
     {
-      "name": "Prepare Rite",
-      "color": "The_cursed_purple",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand.\nExhaust."
-    },
-    {
-      "name": "Prepare Rite+",
-      "color": "The_cursed_purple",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand."
-    },
-    {
       "name": "Released Knowledge",
       "color": "The_cursed_purple",
       "rarity": "Uncommon",

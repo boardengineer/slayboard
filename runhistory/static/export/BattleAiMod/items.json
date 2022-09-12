@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "Battle Ai Mod",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": ["Board Engineer"],
     "credits": "",
     "description": "Server/Client setup allowing an AI to control the game",

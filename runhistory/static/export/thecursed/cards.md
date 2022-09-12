@@ -48,7 +48,6 @@
 | Lucky Charm | ![](small-card-images/LuckyCharm.png) | ![](small-card-images/LuckyCharmPlus.png) | Uncommon | Power | 1 | Whenever a Curse card is drawn or Exhausted, gain 3(4) Block. |
 | Mana Bullet | ![](small-card-images/ManaBullet.png) | ![](small-card-images/ManaBulletPlus.png) | Uncommon | Attack | 1 | Deal 7(8) damage for each Curse (Unplayable) card in your hand. |
 | Mangle | ![](small-card-images/Mangle.png) | ![](small-card-images/ManglePlus.png) | Uncommon | Attack | 1 | Deal 5(7) damage. If the enemy has Bleed, gain [E] and draw 1 card. |
-| Prepare Rite | ![](small-card-images/PrepareRite.png) | ![](small-card-images/PrepareRitePlus.png) | Uncommon | Skill | 0 | Exhaust any number of non-Curse cards, then add that many *Dregs cards into your hand. Exhaust. (not Exhaust.) |
 | Released Knowledge | ![](small-card-images/ReleasedKnowledge.png) | ![](small-card-images/ReleasedKnowledgePlus.png) | Uncommon | Skill | 0 | Rite : Add a random Circle card into your hand. Exhaust. (not Exhaust.) |
 | Released Strength | ![](small-card-images/ReleasedStrength.png) | ![](small-card-images/ReleasedStrengthPlus.png) | Uncommon | Skill | 1 | Rite : Gain 3(4) Strength. Ethereal. |
 | Salt upon Wound | ![](small-card-images/SaltuponWound.png) | ![](small-card-images/SaltuponWoundPlus.png) | Uncommon | Skill | 2 | Enemy immediately loses HP by its Bleed 2 times. Apply 6(9) Bleed. |

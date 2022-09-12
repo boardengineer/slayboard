@@ -1,38 +1,63 @@
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
-| Amethyst | ![](../../theVacant/small-card-images/Amethyst.png) | ![](../../theVacant/small-card-images/AmethystPlus.png) | Special | Skill |  | Size 2(6). At the start of your turn, thevacant:Mill 2(6) and lose 1 size. If your draw pile is empty, increase damage and Block by 2(6). |
+| Amethyst | ![](../../theVacant/small-card-images/Amethyst.png) | ![](../../theVacant/small-card-images/AmethystPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, thevacant:Mill 3 and lose 1 size. |
 | Apparition | ![](../../slay-the-spire/small-card-images/Apparition.png) | ![](../../slay-the-spire/small-card-images/ApparitionPlus.png) | Special | Skill | 1 | Ethereal. (not Ethereal.) Gain 1 Intangible. Exhaust. |
+| Beast Slayer | ![](../../fishing/small-card-images/BeastSlayer.png) | ![](../../fishing/small-card-images/BeastSlayerPlus.png) | Special | Attack | 1 | Deal 12(15) damage. In Elite combats, deal !fishing:sd! damage instead. |
 | Become Almighty | ![](../../slay-the-spire/small-card-images/BecomeAlmighty.png) | ![](../../slay-the-spire/small-card-images/BecomeAlmightyPlus.png) | Special | Power |  | Gain 3(4) Strength. |
 | Beta | ![](../../slay-the-spire/small-card-images/Beta.png) | ![](../../slay-the-spire/small-card-images/BetaPlus.png) | Special | Skill | 2(1) | Shuffle an *Omega into your draw pile. Exhaust. |
 | Bite | ![](../../slay-the-spire/small-card-images/Bite.png) | ![](../../slay-the-spire/small-card-images/BitePlus.png) | Special | Attack | 1 | Deal 7(8) damage. Heal 2(3) HP. |
-| Bloody Wind | ![](../../TheChaser/small-card-images/BloodyWind.png) | ![](../../TheChaser/small-card-images/BloodyWindPlus.png) | Special | Skill | 1 | Apply 3(4) thechaser:Bleeding to ALL enemies. |
-| Camouflage | ![](../../TheChaser/small-card-images/Camouflage.png) | ![](../../TheChaser/small-card-images/CamouflagePlus.png) | Special | Skill | 1 | Gain 1 thechaser:Proxy 3(4) times. |
-| Diamond | ![](../../theVacant/small-card-images/Diamond.png) | ![](../../theVacant/small-card-images/DiamondPlus.png) | Special | Skill |  | Size 2(3). Prevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size. |
+| Boot | ![](../../fishing/small-card-images/Boot.png) | ![](../../fishing/small-card-images/BootPlus.png) | Special | Attack | 0 | Deal 2 damage to ALL enemies. Draw !fishing:m3! card(s). Exhaust. |
+| Cheat | ![](../../fishing/small-card-images/Cheat.png) | ![](../../fishing/small-card-images/CheatPlus.png) | Special | Attack | 1 | Remove the enemy's Block. Deal 9(12) damage. Add a *Steal into your hand. Exhaust. |
+| Crystalline Confluence | ![](../../fishing/small-card-images/CrystallineConfluence.png) | ![](../../fishing/small-card-images/CrystallineConfluencePlus.png) | Special | Skill | X | Shuffle X (X+1) fishing:Foil *Star *Shards into your draw pile. Exhaust. |
+| Diamond | ![](../../theVacant/small-card-images/Diamond.png) | ![](../../theVacant/small-card-images/DiamondPlus.png) | Special | Skill |  | Size 3(4). Prevent the next time you would take damage and lose 1 size. At the start of your turn, lose 1 size. |
+| Eel | ![](../../fishing/small-card-images/Eel.png) | ![](../../fishing/small-card-images/EelPlus.png) | Special | Skill | 0 | {@@}Gain {1|1=[E]|2=[E] [E]|3=[E] [E] [E]|4=[E] [E] [E] [E]|>4=1 [E]}. Draw !fishing:m3! card(s). Exhaust. |
 | Emerald | ![](../../theVacant/small-card-images/Emerald.png) | ![](../../theVacant/small-card-images/EmeraldPlus.png) | Special | Attack |  | Size 3(4). At the start of your turn, draw a card and lose 1 size. |
 | Exhaustion | ![](../../TS05_Marisa/small-card-images/Exhaustion.png) | ![]() | Special | Status |  | Unplayable. While in hand, you cannot gain or consume Charge-up. |
 | Expunger | ![](../../slay-the-spire/small-card-images/Expunger.png) | ![](../../slay-the-spire/small-card-images/ExpungerPlus.png) | Special | Attack | 1 | Deal 9(15) damage X times. |
 | Fame and Fortune | ![](../../slay-the-spire/small-card-images/FameandFortune.png) | ![](../../slay-the-spire/small-card-images/FameandFortunePlus.png) | Special | Skill |  | Gain 25(30) Gold. |
-| Followup Slash | ![](../../TheChaser/small-card-images/FollowupSlash.png) | ![](../../TheChaser/small-card-images/FollowupSlashPlus.png) | Special | Attack | 0 | Ethereal. Deal 2(3) damage twice. Exhaust. |
+| Flag | ![](../../fishing/small-card-images/Flag.png) | ![](../../fishing/small-card-images/FlagPlus.png) | Special | Skill | 0 | Retain. Gain 6(9) Block. Exhaust. |
+| Flight | ![](../../fishing/small-card-images/Flight.png) | ![](../../fishing/small-card-images/FlightPlus.png) | Special | Skill | 1 | Ethereal. Gain 10(14) Block. Exhaust. |
+| Guppy | ![](../../fishing/small-card-images/Guppy.png) | ![](../../fishing/small-card-images/GuppyPlus.png) | Special | Skill | 0 | Gain 3 Block. Draw !fishing:m3! card(s). Exhaust. |
+| Hammerhead | ![](../../fishing/small-card-images/Hammerhead.png) | ![](../../fishing/small-card-images/HammerheadPlus.png) | Special | Skill | 0 | Gain 1 Strength. Draw !fishing:m3! card(s). Exhaust. |
+| Hello There! | ![](../../fishing/small-card-images/HelloThere!.png) | ![](../../fishing/small-card-images/HelloThere!Plus.png) | Special | Skill | 0 | Innate. Apply 1(2) Weak. Apply 1(2) Vulnerable. Draw 1 card. Exhaust. |
+| Hindsight | ![](../../fishing/small-card-images/Hindsight.png) | ![](../../fishing/small-card-images/HindsightPlus.png) | Special | Skill | 1 | Next turn, gain 4(6) Block. Return 1 card from your discard pile to your hand. |
 | Insight | ![](../../slay-the-spire/small-card-images/Insight.png) | ![](../../slay-the-spire/small-card-images/InsightPlus.png) | Special | Skill | 0 | Retain. Draw 2(3) cards. Exhaust. |
 | J.A.X. | ![](../../slay-the-spire/small-card-images/J.A.X..png) | ![](../../slay-the-spire/small-card-images/J.A.X.Plus.png) | Special | Skill | 0 | Lose 3 HP. Gain 2(3) Strength. |
-| Knife Throw | ![](../../TheChaser/small-card-images/KnifeThrow.png) | ![](../../TheChaser/small-card-images/KnifeThrowPlus.png) | Special | Skill | 1 | Trigger thechaser:Targeting 3(4) times. |
 | Live Forever | ![](../../slay-the-spire/small-card-images/LiveForever.png) | ![](../../slay-the-spire/small-card-images/LiveForeverPlus.png) | Special | Power |  | Gain 6(8) *Plated *Armor. |
+| Maw | ![](../../fishing/small-card-images/Maw.png) | ![](../../fishing/small-card-images/MawPlus.png) | Special | Attack | 0 | Deal 3 damage twice. Draw !fishing:m3! card(s). Exhaust. |
 | Miracle | ![](../../slay-the-spire/small-card-images/Miracle.png) | ![](../../slay-the-spire/small-card-images/MiraclePlus.png) | Special | Skill | 0 | Retain. Gain [W] ([W]). Exhaust. |
+| Octopus | ![](../../fishing/small-card-images/Octopus.png) | ![](../../fishing/small-card-images/OctopusPlus.png) | Special | Skill | 0 | {@@}Draw 1 card{1|>1=s}. Draw !fishing:m3! card(s). Exhaust. |
 | Omega | ![](../../slay-the-spire/small-card-images/Omega.png) | ![](../../slay-the-spire/small-card-images/OmegaPlus.png) | Special | Power | 3 | At the end of your turn, deal 50(60) damage to ALL enemies. |
-| Onyx | ![](../../theVacant/small-card-images/Onyx.png) | ![](../../theVacant/small-card-images/OnyxPlus.png) | Special | Attack |  | Size 2(3). At the start of your turn, apply 2(3) thevacant:Doom to ALL enemies and lose 1 size. |
-| Opal | ![](../../theVacant/small-card-images/Opal.png) | ![](../../theVacant/small-card-images/OpalPlus.png) | Special | Skill |  | Size 2(3). At the start of your turn, gain [E] and lose 1 size. |
+| Onyx | ![](../../theVacant/small-card-images/Onyx.png) | ![](../../theVacant/small-card-images/OnyxPlus.png) | Special | Attack |  | Size 3(4). At the start of your turn, apply 1 thevacant:Doom to ALL enemies and lose 1 size. |
+| Opal | ![](../../theVacant/small-card-images/Opal.png) | ![](../../theVacant/small-card-images/OpalPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, gain [E] and lose 1 size. |
+| Pinball | ![](../../fishing/small-card-images/Pinball.png) | ![](../../fishing/small-card-images/PinballPlus.png) | Special | Attack | 1 | Deal 2(3) damage to a random enemy 4 times. Exhaust. |
+| Piranha | ![](../../fishing/small-card-images/Piranha.png) | ![](../../fishing/small-card-images/PiranhaPlus.png) | Special | Attack | 0 | Deal 4 damage. Draw !fishing:m3! card(s). Exhaust. |
+| Power Pellet | ![](../../fishing/small-card-images/PowerPellet.png) | ![](../../fishing/small-card-images/PowerPelletPlus.png) | Special | Skill | 0 | *Waka *Wakas deal 6(9) additional damage. Exhaust. |
+| Qwilfish | ![](../../fishing/small-card-images/Qwilfish.png) | ![](../../fishing/small-card-images/QwilfishPlus.png) | Special | Skill | 0 | Apply 4 Poison. Draw !fishing:m3! card(s). Exhaust. |
 | Ritual Dagger | ![](../../slay-the-spire/small-card-images/RitualDagger.png) | ![](../../slay-the-spire/small-card-images/RitualDaggerPlus.png) | Special | Attack | 1 | Deal 15 damage. If Fatal, permanently increase this card's damage by 3(5). Exhaust. |
-| Ruby | ![](../../theVacant/small-card-images/Ruby.png) | ![](../../theVacant/small-card-images/RubyPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, gain 3(4) Vigor and lose 1 size. |
+| Ruby | ![](../../theVacant/small-card-images/Ruby.png) | ![](../../theVacant/small-card-images/RubyPlus.png) | Special | Skill |  | Size 3(4). At the start of your turn, gain 3 Vigor and lose 1 size. |
 | Safety | ![](../../slay-the-spire/small-card-images/Safety.png) | ![](../../slay-the-spire/small-card-images/SafetyPlus.png) | Special | Skill | 1 | Retain. Gain 12(16) Block. Exhaust. |
-| Sapphire | ![](../../theVacant/small-card-images/Sapphire.png) | ![](../../theVacant/small-card-images/SapphirePlus.png) | Special | Power |  | Size 6(4). At the start of your turn, gain 6(4) thevacant:Temperance and lose 1 size. |
-| Sequence Flow | ![](../../TheChaser/small-card-images/SequenceFlow.png) | ![](../../TheChaser/small-card-images/SequenceFlowPlus.png) | Special | Attack | 0 | Ethereal. Deal 2(3) damage. Exhaust. |
+| Sapphire | ![](../../theVacant/small-card-images/Sapphire.png) | ![](../../theVacant/small-card-images/SapphirePlus.png) | Special | Power |  | Size 3(4). At the start of your turn, gain 3 thevacant:Temperance and lose 1 size. |
+| Sea Monster | ![](../../fishing/small-card-images/SeaMonster.png) | ![](../../fishing/small-card-images/SeaMonsterPlus.png) | Special | Skill | 0 | Add 2 fishing:Fish into your hand. Draw !fishing:m3! card(s). Exhaust. |
+| Shark | ![](../../fishing/small-card-images/Shark.png) | ![](../../fishing/small-card-images/SharkPlus.png) | Special | Attack | 0 | Deal 3 damage. Apply 1 Vulnerable. Draw !fishing:m3! card(s). Exhaust. |
 | Shiv | ![](../../slay-the-spire/small-card-images/Shiv.png) | ![](../../slay-the-spire/small-card-images/ShivPlus.png) | Special | Attack | 0 | Deal 4(6) damage. Exhaust. |
 | Smite | ![](../../slay-the-spire/small-card-images/Smite.png) | ![](../../slay-the-spire/small-card-images/SmitePlus.png) | Special | Attack | 1 | Retain. Deal 12(16) damage. Exhaust. |
+| Spin Attack | ![](../../fishing/small-card-images/SpinAttack.png) | ![](../../fishing/small-card-images/SpinAttackPlus.png) | Special | Attack | 1 | Deal 12(16) damage to ALL enemies. Discard 1 card. |
+| Star Shard | ![](../../fishing/small-card-images/StarShard.png) | ![](../../fishing/small-card-images/StarShardPlus.png) | Special | Attack | 0 | Gain 3(4) Block. Deal 3(4) damage. Draw 1 card. |
+| Starfish | ![](../../fishing/small-card-images/Starfish.png) | ![](../../fishing/small-card-images/StarfishPlus.png) | Special | Attack | 0 | Deal 3 damage. Apply 1 Weak. Draw !fishing:m3! card(s). Exhaust. |
+| Steal | ![](../../fishing/small-card-images/Steal.png) | ![](../../fishing/small-card-images/StealPlus.png) | Special | Skill | 1 | If the enemy has positive Strength, steal up to 2(3) of it. Exhaust. |
+| Swordfish | ![](../../fishing/small-card-images/Swordfish.png) | ![](../../fishing/small-card-images/SwordfishPlus.png) | Special | Attack | 0 | Gain 3 Block. Deal 4 damage. Draw !fishing:m3! card(s). Exhaust. |
+| The Eternity Gem | ![](../../fishing/small-card-images/TheEternityGem.png) | ![](../../fishing/small-card-images/TheEternityGemPlus.png) | Special | Attack | 1 | Deal 11(12) damage to a random enemy 11(12) times. Exhaust. |
+| The Gem Search | ![](../../fishing/small-card-images/TheGemSearch.png) | ![](../../fishing/small-card-images/TheGemSearchPlus.png) | Special | Power | 1(0) | fishing:Quest: End your turn with an empty hand. *Reward: Shuffle *The *Eternity *Gem into your draw pile. |
+| The Key Finisher | ![](../../fishing/small-card-images/TheKeyFinisher.png) | ![](../../fishing/small-card-images/TheKeyFinisherPlus.png) | Special | Attack | 2 | Deal 11(13) damage to ALL enemies twice. Complete your fishing:Quests. |
+| The Whale | ![](../../fishing/small-card-images/TheWhale.png) | ![](../../fishing/small-card-images/TheWhalePlus.png) | Special | Skill | 0 | Enemy loses 20 HP. Draw !fishing:m3! card(s). Exhaust. |
 | Through Violence | ![](../../slay-the-spire/small-card-images/ThroughViolence.png) | ![](../../slay-the-spire/small-card-images/ThroughViolencePlus.png) | Special | Attack | 0 | Retain. Deal 20(30) damage. Exhaust. |
-| Throwing Knife | ![](../../TheChaser/small-card-images/ThrowingKnife.png) | ![](../../TheChaser/small-card-images/ThrowingKnifePlus.png) | Special | Attack | 0 | Ethereal. Deal 3(5) damage to a random enemy. Enemies affected by thechaser:Targeting are prioritized. Exhaust. |
+| Topaz | ![](../../theVacant/small-card-images/Topaz.png) | ![](../../theVacant/small-card-images/TopazPlus.png) | Special | Attack |  | Size 2(3). At the start of your turn, gain 1 Artifact and lose 1 size. |
+| Za Hando | ![](../../fishing/small-card-images/ZaHando.png) | ![](../../fishing/small-card-images/ZaHandoPlus.png) | Special | Attack | 1 | Deal 13(17) damage. Exhaust the middle card(s) of your hand. |
 | Burn | ![](../../slay-the-spire/small-card-images/Burn.png) | ![]() | Common | Status |  | Unplayable. At the end of your turn, take 2 damage. |
 | Dazed | ![](../../slay-the-spire/small-card-images/Dazed.png) | ![]() | Common | Status |  | Unplayable. Ethereal. |
 | Slimed | ![](../../slay-the-spire/small-card-images/Slimed.png) | ![]() | Common | Status | 1 | Exhaust. |
+| Static Buildup | ![](../../RobotSpaceExplorer/small-card-images/StaticBuildup.png) | ![]() | Common | Status |  | At the end of your turn, take 1 damage and gain 1 Weak. |
 | Void | ![](../../slay-the-spire/small-card-images/Void.png) | ![]() | Common | Status |  | Unplayable. Ethereal. Whenever this card is drawn, lose 1 Energy. |
 | Wound | ![](../../slay-the-spire/small-card-images/Wound.png) | ![]() | Common | Status |  | Unplayable. |
 | Bandage Up | ![](../../slay-the-spire/small-card-images/BandageUp.png) | ![](../../slay-the-spire/small-card-images/BandageUpPlus.png) | Uncommon | Skill | 0 | Heal 4(6) HP. Exhaust. |

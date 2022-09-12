@@ -4449,6 +4449,22 @@
       "description": "Whenever you gain Block this turn, apply 2 Weak to ALL enemies."
     },
     {
+      "name": "Weave",
+      "color": "Purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nWhenever you Scry, return this from the discard pile to your Hand."
+    },
+    {
+      "name": "Weave+",
+      "color": "Purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nWhenever you Scry, return this from the discard pile to your Hand."
+    },
+    {
       "name": "Wheel Kick",
       "color": "Purple",
       "rarity": "Uncommon",
@@ -7168,7 +7184,7 @@
       "maxHP": "75"
     },
     {
-      "name": "the Ironchad",
+      "name": "the Ironclad",
       "type": "Player",
       "minHP": "80",
       "maxHP": "80"
@@ -7186,12 +7202,6 @@
       "maxHP": "72"
     },
     {
-      "name": "Acid Slime (L)",
-      "type": "Normal",
-      "minHP": "65",
-      "maxHP": "65"
-    },
-    {
       "name": "Acid Slime (M)",
       "type": "Normal",
       "minHP": "30",
@@ -7200,8 +7210,8 @@
     {
       "name": "Acid Slime (S)",
       "type": "Normal",
-      "minHP": "9",
-      "maxHP": "9"
+      "minHP": "12",
+      "maxHP": "12"
     },
     {
       "name": "Apology Slime",
@@ -7330,12 +7340,6 @@
       "maxHP": "83"
     },
     {
-      "name": "Gremlin Wizard",
-      "type": "Normal",
-      "minHP": "21",
-      "maxHP": "21"
-    },
-    {
       "name": "Hexaghost",
       "type": "Boss",
       "minHP": "250",
@@ -7374,8 +7378,14 @@
     {
       "name": "Louse",
       "type": "Normal",
-      "minHP": "11",
-      "maxHP": "11"
+      "minHP": "13",
+      "maxHP": "13"
+    },
+    {
+      "name": "Mad Gremlin",
+      "type": "Normal",
+      "minHP": "20",
+      "maxHP": "20"
     },
     {
       "name": "Mugger",
@@ -7416,8 +7426,8 @@
     {
       "name": "Repulsor",
       "type": "Normal",
-      "minHP": "33",
-      "maxHP": "33"
+      "minHP": "34",
+      "maxHP": "34"
     },
     {
       "name": "Romeo",
@@ -7440,8 +7450,8 @@
     {
       "name": "Shield Gremlin",
       "type": "Normal",
-      "minHP": "12",
-      "maxHP": "12"
+      "minHP": "15",
+      "maxHP": "15"
     },
     {
       "name": "Slaver",
@@ -7486,16 +7496,16 @@
       "maxHP": "20"
     },
     {
-      "name": "Spike Slime (M)",
+      "name": "Spike Slime (L)",
       "type": "Normal",
-      "minHP": "30",
-      "maxHP": "30"
+      "minHP": "68",
+      "maxHP": "68"
     },
     {
       "name": "Spike Slime (S)",
       "type": "Normal",
-      "minHP": "13",
-      "maxHP": "13"
+      "minHP": "11",
+      "maxHP": "11"
     },
     {
       "name": "Spiker",

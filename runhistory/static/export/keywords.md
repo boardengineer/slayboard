@@ -35,16 +35,23 @@
 | Exhaustive | Exhausts after a certain number of uses. |
 | Fatal | Triggers whenever this card kills a non-minion enemy. |
 | Fetch | Choose a specified card from a specified pile and place it into your hand. |
+| Fishing:fish | Fish are Colorless 0 cost cards that confer a bonus effect, draw a card, and Exhaust. |
+| Fishing:foil | In each card reward, 1 of the cards will be Foil. Shiny! |
+| Fishing:quest | When you complete a Quest, obtain its associated Reward. If you already have that Quest in progress, draw 1 card instead. |
+| Fishing:solo | Effect triggers only if there are no other cards in your hand. |
+| Fishing:unnate | Starts each combat at the bottom of your draw pile. |
+| Fishing:voyaged | Effect triggers only if you drew this card during your turn, outside of the opening draw. |
 | Fleeting | This card Purges and is removed from your deck on use. |
 | Focus | Focus increases the effectiveness of Channeled Orbs. |
 | Frail | While Frail, gain 25% less Block from cards. |
 | Frost | Orb: Gains Block. |
 | Grave | Start each combat with this card in your discard pile. |
 | Hermit:Concentrate | The next Dead On card played while Concentrated triggers its effect regardless of position. Wears off on turn end. |
-| Hermit:Dead On | This card has a bonus effect if played from the middle of your hand. |
-| Hermit:bounty | Normal Enemy: 15 gold. Elite Enemy: 35 gold. Boss: 75 gold. |
-| Hermit:bruise | Bruised targets take more attack damage. Each hit, Bruise is reduced by 1. Wears off on turn end. |
-| Hermit:rugged | Reduces next instance of attack damage taken to 1. |
+| Hermit:Dead On | Dead On cards have a bonus effect when in the middle of your hand. |
+| Hermit:bounty | Normal Enemy: 15 gold. Elite Enemy: 40 gold. Boss: 100 gold. |
+| Hermit:bruise | Bruised targets take more attack damage. Wears off on turn end. |
+| Hermit:rugged | Reduces next instance of attack damage taken to 2. |
+| Hermit:stun | Stunned enemies skip their turn. |
 | Innate | Start each combat with this card in your hand. |
 | Intangible | Reduce ALL damage taken and HP loss to 1. |
 | Is only shown to | Well...That means you may not able to see it... |
@@ -61,6 +68,10 @@
 | Retain | Not discarded at the end of your turn. |
 | Rite | When using, choose 1 card to Exhaust. Selecting a Curse card will activate the Rite's effect. |
 | Ritual | Gain Strength at the end of your turn. |
+| Robotspaceexplorer:missile | An exhausting Attack with "Missile" in its name. |
+| Robotspaceexplorer:salvage | Return a random card from your discard pile to your hand. |
+| Robotspaceexplorer:solar flare | Deal damage to a random enemy at the end of your turn equal to your Solar Flare. |
+| Robotspaceexplorer:surge | At the start of your next turn, remove all Weak on you and gain temporary Strength equal to your Surge. |
 | Scry | Look at the top X cards of your draw pile. You may discard any of them. |
 | Shiv | Shivs are 0 cost Attack cards which Exhaust. |
 | Snecko | When drawn, this card randomizes its cost. |
@@ -72,37 +83,34 @@
 | Strike | Any card with the word "Strike" in its name. |
 | Stun | Cannot do anything. |
 | Temporary hp | Temporary HP disappears at the end of combat. |
-| Thechaser: |  |
-| Thechaser:bleeding | Bleeding creatures lose HP at the start of their turn, then reduce Bleeding by half. Whenever you play an Attack, increase Bleeding by 1. |
-| Thechaser:blindsided | Target receives 15% more damage for each stack of Blindsided (up to a maximum of 4.) |
-| Thechaser:hide | ALL enemies become Stunned. Fades away after an Attack is played or Targeting is triggered. |
-| Thechaser:proxy | Target receives 5% more damage for each stack of Proxy. |
-| Thechaser:quickstep | Simulate playing cards, for use with Swift effects. |
-| Thechaser:swift | If you have played 4 or more cards this turn, trigger an additional effect. |
-| Thechaser:targeting | After a player or monster attacks, all creatures with Targeting take 2 damage. |
-| Thevacant:amethyst | Gem: Mill. If your draw pile is empty, increase damage and Block. Loses size over time. |
+| Thevacant:amethyst | Gem: Mill 3. Loses size at the start of your turn. |
+| Thevacant:antifact | Negates the next buff. |
 | Thevacant:chip | Trigger the effect and reduce the size of a Gem. |
-| Thevacant:diamond | Gem: Prevent the next time you would take damage and lose 1 size. Loses size over time. |
+| Thevacant:darkness | Whenever a debuff is applied to this target, increase its amount. |
+| Thevacant:diamond | Gem: Prevent the next time you would take damage and lose 1 size. Loses size at the start of your turn. |
 | Thevacant:doom | Creatures take more damage for each Doom they have. |
-| Thevacant:emerald | Gem: Draw a card. Loses size over time. |
+| Thevacant:emerald | Gem: Draw 1 card. Loses size at the start of your turn. |
 | Thevacant:everyone | ALL enemies and you. |
 | Thevacant:gem | Gems are Orbs that reduce in size at the start of your turn. |
 | Thevacant:heavy | When your deck is reshuffled, move to the bottom of the draw pile. |
+| Thevacant:hollow | Hollow effects trigger if you are at or below 50% of your max health, OR if you have at least 2 unique debuffs. |
 | Thevacant:materialize | If this card is Exhausted, it loses 1 Materialize at the end of your turn. Once all Materialize is lost, this card is moved to the top of your draw pile. |
 | Thevacant:mill | Move an amount of cards from the top of your draw pile to your discard pile. |
 | Thevacant:mine | Create an orb slot and fill it with a Gem. |
-| Thevacant:onyx | Gem: Apply Doom to ALL enemies. Loses size over time. |
-| Thevacant:opal | Gem: Gain [E] Loses size over time. |
-| Thevacant:reap | Heal this much HP when you attack this target. Removes at the end of the turn. |
-| Thevacant:rebound | If this card would be Milled, add it to your hand instead of the discard pile. |
-| Thevacant:return | Move a number of cards from your discard pile to your hand. |
-| Thevacant:ruby | Gem: Gain Vigor. Loses size over time. |
-| Thevacant:sapphire | Gem: Gain Temperance. Loses size over time. |
-| Thevacant:shroud | Halve incoming damage. Reduced by 1 at the start of your turn, and when you play an attack. |
+| Thevacant:onyx | Gem: Apply 1 Doom to ALL enemies. Loses size at the start of your turn. |
+| Thevacant:opal | Gem: Gain [E] Loses size at the start of your turn. |
+| Thevacant:polish | Increase the size of a Gem. |
+| Thevacant:reap | Heal this much HP when you attack this target. Removed at the start of your next turn. |
+| Thevacant:return | Move the top playable card from your discard pile to your hand. |
+| Thevacant:ricochet | If this card would be Milled, add it to your hand instead of the discard pile. |
+| Thevacant:ruby | Gem: Gain 3 Vigor. Loses size at the start of your turn. |
+| Thevacant:sapphire | Gem: Gain 3 Temperance. Loses size at the start of your turn. |
+| Thevacant:shroud | Halve incoming damage. Reduced by 1 at the start of your turn, and whenever you play an attack. |
 | Thevacant:temperance | The next time you Block, gain additional Block. |
-| Thevacant:unnate | Starts at the bottom of your draw pile. |
+| Thevacant:topaz | Gem: Gain 1 Artifact. Loses size at the start of your turn. |
+| Thevacant:unnate | Starts each combat at the bottom of your draw pile. |
 | Thevacant:void | When your draw pile is empty, deal more damage and gain more Block. |
-| Thevacant:wounded | Wounded effects trigger if you are at or below 50% of your max health. |
+| Thevacant:voidbound | Void affects this card regardless of if your draw pile is empty. |
 | Thorns | When receiving Attack damage, deals damage back. |
 | Transform | Transformed cards become a random card of any rarity. |
 | True Magicians | Perhaps Marisa is not one though. |

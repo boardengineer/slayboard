@@ -128,6 +128,13 @@
 |
 |
 |-
+|[[Stone]]
+|[[File:|thumb|289x289px]]
+|Curse
+|[[Curse]]
+|
+|
+|-
 |[[Writhe]]
 |[[File:|thumb|289x289px]]
 |Curse

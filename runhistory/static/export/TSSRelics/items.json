@@ -140,11 +140,25 @@
       "flavorText": "Sure they're fake teeth but the monsters won't know the difference."
     },
     {
+      "name": "Circular Logic Widget",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, obtain Bird Faced Urn, Mummfied Hand and Enchiridion. Start each combat with Master Reality, Creative AI, and Storm.",
+      "flavorText": "George is going insane."
+    },
+    {
       "name": "Noxious Stone",
       "tier": "Special",
       "pool": "",
       "description": "At the start of each turn, gain 2 Envenom and each monster gains 1 Strength.",
       "flavorText": "It certainly doesn't smell great!!!!."
+    },
+    {
+      "name": "Prismatic Branch",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever you Exhaust a card, add a random card to your hand; no restrictions.\nStart each combat with Corruption and Master of Reality powers.",
+      "flavorText": "For the spiciest of cheese."
     },
     {
       "name": "Happy Flower Bed",

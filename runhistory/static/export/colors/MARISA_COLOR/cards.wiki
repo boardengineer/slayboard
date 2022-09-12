@@ -360,14 +360,6 @@ Draw 1(2) card(s) next turn.
 |Shuffle 5 random cards into your draw pile. Each of them has a 20(30) % chance to be [[Upgraded]].
 Draw 2(3) cards.
 |-
-|[[Orbital]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|
-|[[Unplayable]]. When this card is drawn, draw 1 card.
-If this card is [[Exhausted]], place 1(2) card(s) from your [[exhaust]] pile into your hand.
-|-
 |[[Orrerys Sun]]
 |[[File:|thumb|289x289px]]
 |Uncommon

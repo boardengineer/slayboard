@@ -2,14 +2,14 @@
 | ----- | ---- |
 | ![](thecursed/creatures/TheCursedCharacter.png) | The Cursed |
 | ![](TS05_Marisa/creatures/Marisa.png) | The Ordinary Magician |
-| ![](TheChaser/creatures/TheChaser.png) | the Chaser |
+| ![](fishing/creatures/TheFishing.png) | the Adventurer |
 | ![](slay-the-spire/creatures/Defect.png) | the Defect |
 | ![](Hermit/creatures/hermit.png) | the Hermit |
-| ![](slay-the-spire/creatures/Ironclad.png) | the Ironchad |
+| ![](slay-the-spire/creatures/Ironclad.png) | the Ironclad |
+| ![](RobotSpaceExplorer/creatures/RobotSpaceExplorer.png) | the Robonaut |
 | ![](slay-the-spire/creatures/TheSilent.png) | the Silent |
 | ![](theVacant/creatures/TheVacant.png) | the Vacant |
 | ![](slay-the-spire/creatures/Watcher.png) | the Watcher |
-| ![](slay-the-spire/creatures/AcidSlime_L.png) | Acid Slime (L) |
 | ![](slay-the-spire/creatures/AcidSlime_M.png) | Acid Slime (M) |
 | ![](slay-the-spire/creatures/AcidSlime_S.png) | Acid Slime (S) |
 | ![](slay-the-spire/creatures/ApologySlime.png) | Apology Slime |
@@ -33,7 +33,6 @@
 | ![](slay-the-spire/creatures/GiantHead.png) | Giant Head |
 | ![](slay-the-spire/creatures/GremlinLeader.png) | Gremlin Leader |
 | ![](slay-the-spire/creatures/GremlinNob.png) | Gremlin Nob |
-| ![](slay-the-spire/creatures/GremlinWizard.png) | Gremlin Wizard |
 | ![](slay-the-spire/creatures/Hexaghost.png) | Hexaghost |
 | ![](slay-the-spire/creatures/JawWorm.png) | Jaw Worm |
 | ![](slay-the-spire/creatures/Lagavulin.png) | Lagavulin |
@@ -41,6 +40,7 @@
 | ![](slay-the-spire/creatures/Looter.png) | Looter |
 | ![](slay-the-spire/creatures/FuzzyLouseDefensive.png) | Louse |
 | ![](slay-the-spire/creatures/FuzzyLouseNormal.png) | Louse |
+| ![](slay-the-spire/creatures/GremlinWarrior.png) | Mad Gremlin |
 | ![](slay-the-spire/creatures/Mugger.png) | Mugger |
 | ![](slay-the-spire/creatures/Healer.png) | Mystic |
 | ![](slay-the-spire/creatures/Nemesis.png) | Nemesis |
@@ -60,7 +60,7 @@
 | ![](slay-the-spire/creatures/GremlinThief.png) | Sneaky Gremlin |
 | ![](slay-the-spire/creatures/Snecko.png) | Snecko |
 | ![](slay-the-spire/creatures/SphericGuardian.png) | Spheric Guardian |
-| ![](slay-the-spire/creatures/SpikeSlime_M.png) | Spike Slime (M) |
+| ![](slay-the-spire/creatures/SpikeSlime_L.png) | Spike Slime (L) |
 | ![](slay-the-spire/creatures/SpikeSlime_S.png) | Spike Slime (S) |
 | ![](slay-the-spire/creatures/Spiker.png) | Spiker |
 | ![](slay-the-spire/creatures/Serpent.png) | Spire Growth |

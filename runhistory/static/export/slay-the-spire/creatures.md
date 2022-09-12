@@ -1,10 +1,9 @@
 | Image | Name |
 | ----- | ---- |
 | ![](creatures/Defect.png) | the Defect |
-| ![](creatures/Ironclad.png) | the Ironchad |
+| ![](creatures/Ironclad.png) | the Ironclad |
 | ![](creatures/TheSilent.png) | the Silent |
 | ![](creatures/Watcher.png) | the Watcher |
-| ![](creatures/AcidSlime_L.png) | Acid Slime (L) |
 | ![](creatures/AcidSlime_M.png) | Acid Slime (M) |
 | ![](creatures/AcidSlime_S.png) | Acid Slime (S) |
 | ![](creatures/ApologySlime.png) | Apology Slime |
@@ -28,7 +27,6 @@
 | ![](creatures/GiantHead.png) | Giant Head |
 | ![](creatures/GremlinLeader.png) | Gremlin Leader |
 | ![](creatures/GremlinNob.png) | Gremlin Nob |
-| ![](creatures/GremlinWizard.png) | Gremlin Wizard |
 | ![](creatures/Hexaghost.png) | Hexaghost |
 | ![](creatures/JawWorm.png) | Jaw Worm |
 | ![](creatures/Lagavulin.png) | Lagavulin |
@@ -36,6 +34,7 @@
 | ![](creatures/Looter.png) | Looter |
 | ![](creatures/FuzzyLouseDefensive.png) | Louse |
 | ![](creatures/FuzzyLouseNormal.png) | Louse |
+| ![](creatures/GremlinWarrior.png) | Mad Gremlin |
 | ![](creatures/Mugger.png) | Mugger |
 | ![](creatures/Healer.png) | Mystic |
 | ![](creatures/Nemesis.png) | Nemesis |
@@ -54,7 +53,7 @@
 | ![](creatures/GremlinThief.png) | Sneaky Gremlin |
 | ![](creatures/Snecko.png) | Snecko |
 | ![](creatures/SphericGuardian.png) | Spheric Guardian |
-| ![](creatures/SpikeSlime_M.png) | Spike Slime (M) |
+| ![](creatures/SpikeSlime_L.png) | Spike Slime (L) |
 | ![](creatures/SpikeSlime_S.png) | Spike Slime (S) |
 | ![](creatures/Spiker.png) | Spiker |
 | ![](creatures/Serpent.png) | Spire Growth |

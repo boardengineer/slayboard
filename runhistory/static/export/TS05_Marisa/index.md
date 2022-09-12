@@ -51,7 +51,6 @@
 | One Time Off | ![](small-card-images/OneTimeOff.png) | ![](small-card-images/OneTimeOffPlus.png) | Uncommon | Skill | 1 | Gain 5(7) Block. You can't activate Amplify effects (or consume Charge-up) this turn. Draw 1(2) card(s) next turn. |
 | OortCloud | ![](small-card-images/OortCloud.png) | ![](small-card-images/OortCloudPlus.png) | Uncommon | Power | 1 | Gain 4(5) Plated Armor. Amplify  [E]  : Gain 2(3) more Plated Armor. |
 | Open Universe | ![](small-card-images/OpenUniverse.png) | ![](small-card-images/OpenUniversePlus.png) | Uncommon | Skill | 1 | Shuffle 5 random cards into your draw pile. Each of them has a 20(30) % chance to be Upgraded. Draw 2(3) cards. |
-| Orbital | ![](small-card-images/Orbital.png) | ![](small-card-images/OrbitalPlus.png) | Uncommon | Skill |  |  Unplayable. When this card is drawn, draw 1 card. If this card is Exhausted, place 1(2) card(s) from your exhaust pile into your hand. |
 | Orrerys Sun | ![](small-card-images/OrrerysSun.png) | ![](small-card-images/OrrerysSunPlus.png) | Uncommon | Power | 1 | Whenever Charge-up is consumed, gain 6(9) block . |
 | Portable Prop Bag | ![](small-card-images/PortablePropBag.png) | ![](small-card-images/PortablePropBagPlus.png) | Uncommon | Skill | 0 | (Innate.)  Obtain a random relic. Lose the relic when the battle ends. Exhaust. |
 | Pulse Magic | ![](small-card-images/PulseMagic.png) | ![](small-card-images/PulseMagicPlus.png) | Uncommon | Skill | 0 | Next turn, gain [E] ([E]). Amplify [E] : Amplify effects cost no [E] this turn. |
@@ -111,6 +110,7 @@
 | ![](relics/CatCart.png) | Cat Cart | Special |  | Gain 1 charge when you climb a floor.When you would die,consume all charges and heal #g4 hp for each of them. | When you fall in battle,your loyal kitties will bring you back to life with this. |
 | ![](relics/SproutingBranch.png) | Sprouting Branch | Special | Marisa_color | At the start of combat, gain #b5 #yRegen . | The dead branch just come to life in Marisa's hand,how poetic. |
 | ![](relics/BewitchedHakkero.png) | Bewitched Hakkero | Boss | Marisa_color | Replaces #rMini-Hakkero . NL Whenever you play a card , gain #b1 #yCharge-up . NL gain 1 more if it is a #ySpark card. | Its firepower is on a new level, but is it ok to use a bewitched tool? |
+| ![](relics/ExperimentalFamiliar.png) | Experimental Familiar | Boss | Marisa_color | At the start of each turn, add 1 #ySpark to your hand. NL At the start of combat, you can choose #b1 from #b3 random cards. It costs 0 this turn. | A Familiar looks just like a shiny orb. Not very powerful, but it will surely help you a lot. |
 | ![](relics/RampagingMagicTools.png) | Rampaging Magic Tool | Boss | Marisa_color | Gain [E] at the start of each turn. NL Apply a random debuff/buff ( #b2 #yFrail , #b2 #yWeak , #b2 #yVulnerable , #b3 #yPoison , #b8 #yCharge-up )to you at the start of each combat. | It's been so long since anyone last used them. Who knows what could happen? |
 | ![](relics/SimpleLauncher.png) | Simple Launcher | Shop | Marisa_color | Reduce your #yCharge-up consumption threshold value from #b8 to #b6 . | A flashlight is a flashlight,no matter how it is called... |
 

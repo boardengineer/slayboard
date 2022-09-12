@@ -433,6 +433,14 @@ Gain [[Block]] equal to unblocked damage dealt.
 |1
 |Whenever you gain [[Block]] this turn, apply 1(2) [[Weak]] to ALL enemies.
 |-
+|[[Weave]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|0
+|Deal 4(6) damage.
+Whenever you [[Scry]], return this from the discard pile to your Hand.
+|-
 |[[Wheel Kick]]
 |[[File:|thumb|289x289px]]
 |Uncommon

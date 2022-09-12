@@ -1,0 +1,619 @@
+
+{| class="article-table sortable"
+|+ Cards
+|-
+!Name
+!Picture
+!Rarity
+!Type
+!Energy
+!Description
+|-
+|[[Cast Line]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Attack]]
+|0
+|Deal 4 damage.
+Shuffle 1(2) [[fishing:Fish]] into your draw pile.
+|-
+|[[Defend]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Skill]]
+|1
+|Gain 5(8) [[Block]].
+|-
+|[[Strike]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Attack]]
+|1
+|Deal 6(9) damage.
+|-
+|[[Bag of Defends]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|X
+|Gain 6(8) [[Block]] X times.
+When you remove a (Stuffed with) Defend(s) from your deck, [[Upgrade]] this (not from your deck, Upgrade this).
+|-
+|[[Baited]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|2
+|Deal 14(20) damage.
+If the enemy intends to attack, add 2 [[fishing:Fish]] into your hand.
+|-
+|[[Cardboard Bullets]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|0
+|Deal 9(12) damage.
+Deals 2 less damage for each other card in your hand.
+|-
+|[[Double Up]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 4(6) damage twice.
+Startup: ALL enemies lose 4(6) HP.
+|-
+|[[Future Proofing]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 7(9) damage to ALL enemies.
+[[Upgrade]] 1(2) random card(s) in your draw pile for the rest of combat.
+|-
+|[[Hunker Down]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|0
+|Gain 1(3) [[Block]].
+If you have played less than 3 cards this turn, gain [E].
+|-
+|[[Maybe Later]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 6(8) damage.
+Put a card from your hand on top of your draw pile.
+If you do, gain 6(8) [[Block]].
+|-
+|[[Mop Up]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 8(11) damage.
+[[Exhaust]] a card.
+If it's a [[Status]] or [[Curse]] card, draw 1 card.
+|-
+|[[Nostalgic Strike]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 9(12) damage.
+Put a random card from your discard pile into your hand.
+|-
+|[[Oblivious]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 6(9) [[Block]].
+Add 1 [[fishing:Fish]] into your hand.
+|-
+|[[Perfect Pull]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 7(10) damage.
+Draw 1 card.
+If you drew a [[fishing:Foil]] card this way, deal 7(10) damage again.
+|-
+|[[Plant Flag]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 4(7) [[Block]].
+Put a [[fishing:Foil]] *Flag on top of your draw pile.
+|-
+|[[Rod Slam]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 12(16) damage.
+Next turn,
+draw 1 less card.
+|-
+|[[Set Sail]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|0
+|Draw 1 card.
+Discard 1 card.
+Gain 2(4) [[Vigor]].
+|-
+|[[Shiny Shots]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|2
+|Deal 5(6) damage 3 times.
+Gain 2(3) [[Block]] for each [[fishing:Foil]] card in your hand.
+|-
+|[[That's All, Folks!]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 10(13) damage.
+fishing:Solo: Play the top card of your draw pile.
+|-
+|[[Thorny Personality]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 8(11) [[Block]].
+Gain 1 [[Thorns]].
+fishing:Voyaged: Gain !fishing:m2! more [[Thorns]].
+|-
+|[[Wander]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 8(11) damage.
+Choose a card from your draw pile to put on top.
+|-
+|[[All Out]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Discard 1 card.
+At the end of your turn, if your hand is empty, deal 7(9) damage to ALL enemies.
+|-
+|[[Aqua Orb]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|Apply 1(2) [[Weak]] to ALL enemies.
+Gain 11(12) [[Block]].
+If your discard pile is empty, gain 1 [[Artifact]].
+|-
+|[[Bobber]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 7(8) [[Block]].
+If you draw this during your turn, gain !fishing:m2! [[Block]] and 1(2) [[Strength]].
+|-
+|[[Box of Havoc]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Apply !fishing:m2! [[Poison]] to ALL enemies.
+fishing:Solo: Apply 3 [[Weak]] and [[Vulnerable]] to ALL enemies.
+|-
+|[[Cannoneer]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|X
+|Deal 8(11) damage to a random enemy X times.
+|-
+|[[Catch of the Day]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|([[Innate]].)
+ At the end of your turn, put a [[fishing:Fish]] on top of your draw pile.
+|-
+|[[Decked Out]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Add 2(3) *Shivs and a [[fishing:Foil]] *Smite into your hand.
+If you're on Steam Deck, [[Upgrade]] them.
+|-
+|[[Fasting-B]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Gain 4(5) [[Thorns]].
+Gain 4(5) *Plated *Armor.
+At the start of your turn, discard 1 card.
+|-
+|[[First Class]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|([[Innate]].)
+ At the start of your turn, add a [[fishing:Foil]] *Flight into your hand.
+|-
+|[[Flaming Flip]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 5(8) [[Block]].
+[[Exhaust]] 1 card.
+Draw 1 card.
+|-
+|[[Free Drinks]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|ALL enemies lose 2(3) [[Strength]].
+[[Exhaust]].
+When you obtain this, obtain a random Potion.
+|-
+|[[Garlic Clove]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Remove your [[Weak]], [[Vulnerable]], and [[Frail]].
+If you're not a Vampire, heal 4(6) HP.
+[[Exhaust]].
+|-
+|[[Glitter Glue]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 6(10) damage.
+Apply 2 [[Weak]].
+When you obtain this, make it and a random card in your deck [[fishing:Foil]].
+|-
+|[[Hook]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 8(9) damage.
+Deals 4(5) additional damage for each Colorless card played this turn.
+|-
+|[[Lie]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|ALL enemies lose 4(6) [[Strength]] this turn.
+Add a *Cheat into your hand.
+[[Exhaust]].
+|-
+|[[Mint Condition]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|[[fishing:Foil]] cards deal 3(4) more damage and grant 3(4) more [[Block]].
+|-
+|[[Preclude]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|[[Opener]].
+Deal 15(20) damage.
+Discard 1 card.
+Reset all *Time *Warp.
+|-
+|[[Pyramid Climb]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 13(17) [[Block]].
+Put a *Stone on top of your draw pile.
+|-
+|[[Reserves]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1(0)
+|After you play an X-cost card, gain [E].
+|-
+|[[Ridiculous Fishing]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|Whenever you play a [[fishing:Fish]], deal 3(5) damage to a random enemy.
+|-
+|[[Ring the Bell]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|([[Ethereal]].)
+ ALL enemies lose 13 HP.
+Put a *Curse *of *the *Bell on top of your draw pile.
+|-
+|[[Setdown]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|([[Retain]].)
+ Put a card from your discard pile on top of your draw pile.
+It costs 0 until played.
+|-
+|[[Shimmering Shield]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 6(9) [[Block]].
+Whenever you play a [[fishing:Foil]] card this turn, add a *Shiv into your hand.
+|-
+|[[Ship Ram]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2
+|Deal 18(22) damage.
+fishing:Voyaged: Deal !fishing:sd! damage instead.
+|-
+|[[Shopping Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 8(9) damage.
+Apply 1(2) [[Vulnerable]].
+When you purchase a *Relic, [[Upgrade]] this. (Thanks for shopping!)
+|-
+|[[Sole Searching]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|0
+|[[Scry]] 2(3).
+fishing:Solo: Gain 2(3) [[Strength]].
+|-
+|[[Splash]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2
+|Gain 13(16) [[Block]].
+Deal 13(16) damage.
+This card's damage and [[Block]] are reduced by 2 for each other card in your hand.
+|-
+|[[Standoff]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 7(8) [[Block]].
+Increase this card's [[Block]] by 3(4) this combat.
+|-
+|[[The Fish-O-Pedia]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Draw 2(3) cards.
+fishing:Quest: Play 4 different kinds of [[fishing:Fish]].
+*Reward:
+Gain 2 [[Strength]].
+|-
+|[[The Lucky Pack]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 9(13) damage.
+fishing:Quest: Play 3 [[fishing:Foil]] cards in a turn.
+*Reward: Gain 3 *Plated *Armor.
+|-
+|[[The Storm]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Next turn,
+gain [E] [E] ([E]).
+fishing:Quest: Spend 6 [[Energy]] in a turn.
+*Reward: A random enemy loses 17 HP.
+|-
+|[[Treasure Chest]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Add 1 [[fishing:Fish]] into your hand.
+Startup: Gain 12(16) *Gold.
+|-
+|[[Waka Waka]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|([[Retain]].)
+ Deal 8(9) damage.
+Startup: Shuffle 2 *Power *Pellets into your draw pile.
+|-
+|[[Whaling]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|0
+|Gain 1 [[Strength]].
+If you have over 200 *Gold, spend 15(8) to gain an extra 1 [[Strength]].
+|-
+|[[Wizardry]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 4(6) [[Vigor]].
+Whenever you draw this card, put a [[fishing:Foil]] *Pinball on top of your draw pile.
+|-
+|[[Angler Form]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|3
+|[[Retain]].
+The first 3(4) times you play a card each turn, draw 1 card.
+|-
+|[[Caffeinated]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|1
+|[[fishing:Unnate]].
+(not fishing:Unnate.)
+At the start of your turn, gain [E].
+|-
+|[[Chocolate Chip Cookie]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1
+|Heal 5(6) HP.
+Gain !fishing:m2! [[Dexterity]].
+[[Upgrade]] all cards in your hand for the rest of combat.
+[[Exhaust]].
+|-
+|[[Collector]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2
+|At the end of your turn, if you played 2 or more [[fishing:Foil]] cards, gain 2(3) [[Strength]].
+|-
+|[[Confetti Cannon]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|1
+|Deal 9(12) damage to a random enemy.
+Draw 1 card.
+If you drew a [[fishing:Foil]] card this way, repeat this.
+|-
+|[[Finishing Touches]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|2(1)
+|Discard 2 cards.
+When you play a card, if it's the only card in your hand, play it twice.
+|-
+|[[Fishbones]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|2
+|Deal 18 damage.
+Deals 1(2) additional damage for each card in your [[exhaust]] pile.
+|-
+|[[Gone Fishing]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|3
+|Gain 1 [[Intangible]].
+Put 3(5) [[fishing:Fish]] on top of your draw pile.
+[[Exhaust]].
+|-
+|[[It Was THIIIIIIIS Big!]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2(1)
+|Add 1 [[fishing:Fish]] into your hand.
+Double the effects of ALL current [[fishing:Fish]].
+[[Exhaust]].
+|-
+|[[Rated X]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|X
+|Deal 7(8) damage.
+X >= 1: Gain 7(8) [[Block]].
+X >= 2:
+Apply 2(3) [[Vulnerable]].
+X >= 4:
+Gain X (X+1) [[Strength]].
+|-
+|[[Rod of Hope]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|1
+|Deal 12(18) damage.
+fishing:Voyaged: Gain [E] and draw 1 card.
+|-
+|[[The Backpack]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|[[Innate]]. [[Retain]].
+Put a [[fishing:Foil]] card from your draw pile into your hand.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[The Final Card]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|1
+|fishing:Solo: Deal 22(28) damage to ALL enemies.
+If this card ends the combat, [[Upgrade]] it (Thanks for playing).
+|-
+|[[The Harpoon]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|3
+|Deal 28(36) damage.
+[[Startup]] fishing:Quest:
+Kill an enemy.
+*Reward: Add *The *Whale into your hand.
+|-
+|[[The Prismatic Portal]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|1(0)
+|fishing:Quest: Play a Common, Uncommon, and Rare card in a turn.
+*Reward: Shuffle *The *Gem *Search into your draw pile.
+|-
+|[[Vexing Deal]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|1(0)
+|At the start of your turn, draw 1 card and [[Exhaust]] 1 card.
+If it's Ascension 10 or higher, gain 1 [[Strength]].
+|-

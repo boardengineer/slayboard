@@ -13,9 +13,11 @@
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
-|1(0)
-|[[thevacant:Mill]] 5.
-[[thevacant:Return]] 1.
+|1
+|[[thevacant:Mill]] 5(8).
+Gain [[Block]] for
+each card [[thevacant:Milled]].
+[[thevacant:Return]] 1 card.
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]
@@ -29,7 +31,7 @@
 |Basic
 |[[Attack]]
 |0
-|[[thevacant:Rebound]].
+|[[thevacant:Ricochet]].
 Deal 3(4) damage.
 Gain 3(4) [[Vigor]].
 |-
@@ -40,54 +42,53 @@ Gain 3(4) [[Vigor]].
 |1
 |Deal 6(9) damage.
 |-
-|[[Back in the Mine]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|Deal 7(10) damage.
-[[thevacant:Chip]] your next [[thevacant:Gem]].
-|-
 |[[Battle Scars]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 4 ([#00FF33]6[]) [[Vigor]].
-thevacant:Wounded: Gain 2(3) [[Strength]].
-[[Exhaust]].
+|Gain 4 ([#7FFF00]6[]) [[Vigor]].
+thevacant:Hollow: Gain 2(3) [[Strength]].
+|-
+|[[Brass Magnet]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|0
+|[[thevacant:Ricochet]].
+Deal 14(18) damage. Whenever you draw this card, discard it.
 |-
 |[[Cower]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 6(8) [[Block]].
-thevacant:Wounded: Gain 6(8) [[Block]] again.
-|-
-|[[Cursed Blast]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|[[thevacant:Unnate]].
-Deal 10(14) damage to ALL enemies.
+|Gain 7(9) [[Block]].
+thevacant:Hollow: Gain 7(9) [[Block]] again.
 |-
 |[[Dig]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 6(8) [[Block]].
+|Gain 8(10) [[Block]].
 [[thevacant:Mill]] 3(5).
+|-
+|[[Doomed]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 14(18) damage.
+Gain 2 [[thevacant:Doom]] this turn.
 |-
 |[[Eye Poke]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
-|1
+|1(0)
 |Deal 2 damage 2 times.
-Apply 1(2) [[Weak]].
+Apply 2 [[Weak]].
 |-
 |[[Fling]]
 |[[File:|thumb|289x289px]]
@@ -102,40 +103,50 @@ Apply 1(2) [[Weak]].
 |Common
 |[[Attack]]
 |2
-|Deal 12(16) damage.
-thevacant:Wounded: Deal 12(16) damage again.
-|-
-|[[Grave Digger]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|[[thevacant:Rebound]].
-Deal damage equal to the number of cards in your discard pile (+3).
+|Deal 14(17) damage.
+thevacant:Hollow: Deal 14(17) damage again.
 |-
 |[[Grave Wave]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 7(10) damage.
-thevacant:Wounded: Apply 2 [[Weak]] and 2 [[Vulnerable]].
+|Deal 8(12) damage.
+thevacant:Hollow:
+Apply 2 [[Weak]]
+and 2 [[Vulnerable]].
 |-
 |[[Jab]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |0
-|[[thevacant:Rebound]].
-Deal 6(8) damage.
+|[[thevacant:Ricochet]].
+Deal 5(7) damage.
 Shuffle this card into your draw pile.
+|-
+|[[Partake]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|0
+|Gain 8(10) [[Block]].
+Lose 4 [[thevacant:Temperance]].
+|-
+|[[Pickaxe]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 4(6) damage twice.
+[[thevacant:Chip]] your next [[thevacant:Gem]].
 |-
 |[[Ruby Rage]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|[[thevacant:Mine]] two size 3(4) [[thevacant:Rubies]].
+|[[thevacant:Mine]] 2 size 2(3) [[thevacant:Rubies]].
 |-
 |[[Sapphire Strike]]
 |[[File:|thumb|289x289px]]
@@ -149,117 +160,125 @@ Shuffle this card into your draw pile.
 |Common
 |[[Attack]]
 |1
-|Deal 2(3) damage to ALL enemies 3 times.
+|Deal 3 damage to ALL enemies 2 times.
 |-
 |[[Thoughtseize]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8(10) damage.
+|Deal 10(12) damage.
 [[thevacant:Return]] 1(2) card(s).
 |-
 |[[Treasure]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|0
-|[[thevacant:Mine]] a size 1(2) [[thevacant:Emerald]] and a size 1 [[thevacant:Opal]].
-[[Exhaust]].
+|1(0)
+|[[thevacant:Mine]] a size 1 [[thevacant:Emerald]] and a size 1 [[thevacant:Opal]].
 |-
-|[[Absorb Amethyst]]
+|[[Vlaze]]
 |[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1
-|[[thevacant:Mine]] a size 4(6) [[thevacant:Amethyst]] and [[thevacant:Chip]] it.
+|Common
+|[[Attack]]
+|0
+|Deal 4(6) damage.
+Gain 1(2) [#ee82ee]Void[].
+[[Exhaust]].
 |-
 |[[Acceptance]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1
-|Gain 2(3) [[Artifact]].
+|2
+|Gain 3(5) [[Artifact]].
 |-
 |[[Aw Man]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Lose 4(2) HP.
-[[thevacant:Chip]] ALL your [[thevacant:Gems]]. [[Exhaust]].
+|Gain 2(1) [[Frail]].
+[[thevacant:Chip]] ALL your [[thevacant:Gems]].
 |-
-|[[Brass Magnet]]
+|[[Back in the Mine]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
-|0
-|[[thevacant:Rebound]].
-Deal 14(18) damage. Whenever you draw this card, discard it.
+|2
+|Deal 12(17) damage to ALL enemies. [[thevacant:Mine]] a random size 1 [[thevacant:Gem]] for each enemy hit.
 |-
 |[[Burden Break]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Whenever you take damage, gain 3(4) [[Vigor]].
+|Whenever you take damage or gain a debuff, gain 3(4) [[Vigor]].
 |-
 |[[Cleanse Soul]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1
+|0
 |([[Innate]].)
- Whenever you [[thevacant:Mill]] a [[Status]] or [[Curse]], [[Exhaust]] it.
+ Gain 4(5) [[thevacant:Temperance]].
+Whenever you [[thevacant:Mill]] a [[Status]] or [[Curse]], [[Exhaust]] it.
+|-
+|[[Cracked Reflection]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|2
+|Whenever you [[thevacant:Mine]] a [[thevacant:Gem]], [[thevacant:Chip]] it (1(2) times).
+|-
+|[[Cursed Blast]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|[[thevacant:Unnate]].
+Deal 10 damage to ALL enemies.
+Gain 2 [#ee82ee]Void[].
+|-
+|[[Desperation]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1(0)
+|Choose a card. Add a copy to your hand.
+thevacant:Hollow: It costs 0 this turn.
 |-
 |[[Embrace Darkness]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|2
-|Gain 6(9) [[thevacant:Shroud]].
-Apply 2 [[thevacant:Doom]] to EVERYONE.
+|1
+|Gain 4(6) [[thevacant:Shroud]].
+Apply 2 ([#7FFF00]3[]) [[thevacant:Doom]] to EVERYONE.
 [[Exhaust]].
 |-
 |[[Emerald Splash]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
-|1
-|Deal 9(13) damage to ALL enemies.
-[[thevacant:Mine]] a size 2(3) [[thevacant:Emerald]].
+|0
+|Deal 4(7) damage to ALL enemies.
+[[thevacant:Mine]] a size 2 [[thevacant:Emerald]].
 |-
 |[[Expand]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Gain 2(3) Max HP.
-Lose 6 HP.
-[[Exhaust]].
-|-
-|[[Fortify]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|2
-|Gain 10(18) [[Block]].
-thevacant:Wounded: Prevent the next time you would lose HP.
-[[Exhaust]].
+|([[thevacant:Ricochet]].) Lose 4(2) HP.
+Gain [[Temporary_HP]] equal to the number of cards in your discard pile. [[Exhaust]].
 |-
 |[[Gloom]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1
-|[[thevacant:Mill]] 3(5) at the start of your turn.
-|-
-|[[Got Our Pickaxe]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Power]]
-|1
-|At the start of your turn, [[thevacant:Chip]] your next [[thevacant:Gem]] (1(2) times).
+|2
+|Gain 4(6) [[thevacant:Shroud]].
 |-
 |[[Hex]]
 |[[File:|thumb|289x289px]]
@@ -281,8 +300,8 @@ thevacant:Wounded: Prevent the next time you would lose HP.
 |Uncommon
 |[[Power]]
 |2
-|Gain 6(9) [[thevacant:Shroud]].
-At the start of your turn, apply 2 [[thevacant:Doom]] to EVERYONE.
+|Next turn, gain 2(3) [[thevacant:Doom]].
+At the start of your turn, apply 2(3) [[thevacant:Doom]] to ALL enemies.
 |-
 |[[Lash Out]]
 |[[File:|thumb|289x289px]]
@@ -292,45 +311,47 @@ At the start of your turn, apply 2 [[thevacant:Doom]] to EVERYONE.
 |Deal damage equal to your missing HP.
 [[Exhaust]].
 |-
-|[[On Second Thought]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|0
-|[[thevacant:Rebound]].
-[[thevacant:Return]] 1(2) card(s).
-[[Exhaust]].
-|-
 |[[Onyx Blaster]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 12(14) damage.
+|Deal 8(10) damage.
 [[thevacant:Mine]] a size 2(3) [[thevacant:Onyx]].
-[[Exhaust]].
 |-
 |[[Opal Fracture]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 16(22) damage.
+|Gain 7(9) [[Block]].
+Deal 7(9) damage.
 [[thevacant:Mine]] a size 2(3) [[thevacant:Opal]].
 |-
-|[[Opal Shine]]
+|[[Polish]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|[[thevacant:Mine]] a size 3(4) [[thevacant:Opal]].
+|Gain 8 [[Block]].
+Increase the size of ALL of your [[thevacant:Gems]] by 1.
+[[Exhaust]]. (not
+Exhaust.)
+|-
+|[[Reach Through]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1(0)
+|At the end of your turn, increase the size of your first 2 [[thevacant:Gems]].
+Gain 2 [[thevacant:Antifact]].
 |-
 |[[Reaper Blast]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|2
-|Apply 2(3) [[thevacant:Reap]] (, 2(3) [[Vulnerable]],) and 2(3) [[Weak]] to ALL enemies.
+|0
+|Apply 2(3) [[thevacant:Reap]], 2(3) [[Vulnerable]], and 2(3) [[Weak]] to EVERYONE.
 [[Exhaust]].
 |-
 |[[Reaper Strike]]
@@ -338,7 +359,9 @@ At the start of your turn, apply 2 [[thevacant:Doom]] to EVERYONE.
 |Uncommon
 |[[Attack]]
 |2
-|Apply 2(3) [[thevacant:Reap]] and deal 14(18) damage to ALL enemies.
+|Deal 15(20) damage
+and apply 2(3) [[thevacant:Reap]]
+to ALL enemies.
 [[Exhaust]].
 |-
 |[[Recover]]
@@ -346,14 +369,17 @@ At the start of your turn, apply 2 [[thevacant:Doom]] to EVERYONE.
 |Uncommon
 |[[Power]]
 |1
-|At the end of battle, if you are [[thevacant:Wounded]], heal 10(14) HP.
+|At the end of battle,
+if you are [[thevacant:Hollow]],
+heal 10(14) HP.
 |-
-|[[Reflection]]
+|[[Shatter Amethyst]]
 |[[File:|thumb|289x289px]]
 |Uncommon
-|[[Power]]
-|1(0)
-|Gain 1 [[Block]] each time you [[thevacant:Mill]] a card.
+|[[Skill]]
+|1
+|[[thevacant:Ricochet]].
+[[thevacant:Mine]] a size 5(7) [[thevacant:Amethyst]] and [[thevacant:Chip]] it (twice).
 |-
 |[[Sneeze]]
 |[[File:|thumb|289x289px]]
@@ -361,18 +387,7 @@ At the start of your turn, apply 2 [[thevacant:Doom]] to EVERYONE.
 |[[Skill]]
 |0
 |([[Innate]].) [[Retain]].
-[[thevacant:Mill]] 4. When [[Retained]], increase this card's [[thevacant:Mill]] by 2.
-[[Exhaust]].
-|-
-|[[Snowball]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|1
-|[[thevacant:Rebound]].
-([[thevacant:Unnate]]. [[thevacant:Heavy]].)
- Deal 4(5) damage.
-When this card is [[thevacant:Milled]], double its damage this combat.
+[[thevacant:Mill]] 5(8). When [[Retained]], increase this card's [[thevacant:Mill]] by 2. [[Exhaust]].
 |-
 |[[Soul Barrage]]
 |[[File:|thumb|289x289px]]
@@ -385,23 +400,23 @@ When this card is [[thevacant:Milled]], double its damage this combat.
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1
-|Gain 5(8) [[Block]].
-Choose a random [[thevacant:Gem]] to [[thevacant:Mine]] out of 3(4).
+|2
+|Gain 10(14) [[Block]].
+Choose a [[thevacant:Gem]] to [[thevacant:Mine]] out of 3(4).
 |-
 |[[Spinshield]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |2
-|Gain 3(5) [[Block]] 3 times.
+|Gain 5(7) [[Block]] 3 times.
 |-
 |[[Surprise Attack]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |0
-|[[thevacant:Unnate]]. [[thevacant:Rebound]].
+|[[thevacant:Unnate]]. [[thevacant:Ricochet]].
 Deal 14(18) damage.
 [[Exhaust]].
 |-
@@ -410,7 +425,8 @@ Deal 14(18) damage.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 0 damage 5(7) times.
+|Deal 0 damage
+5(7) times.
 [[Exhaust]].
 |-
 |[[Topaz Frenzy]]
@@ -419,40 +435,42 @@ Deal 14(18) damage.
 |[[Attack]]
 |2
 |Deal 3(5) damage 3 times.
-[[thevacant:Mine]] a size 6(8) [[thevacant:Ruby]].
+[[thevacant:Mine]] a size 2(3) [[thevacant:Topaz]].
 [[Exhaust]].
 |-
 |[[Unearth]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|0
-|Draw 1(2) card(s) from the bottom of your draw pile.
-[[Exhaust]].
+|1
+|[[thevacant:Unnate]]. [[thevacant:Ricochet]].
+[[thevacant:Return]] 3(4) cards.
 |-
 |[[Void Embrace]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|([[Innate]].)
- Whenever a card you play [[Exhausts]], gain 1 [#ee82ee]Void[].
+|[[thevacant:Unnate]] ([[Innate]]).
+Whenever a card you play [[Exhausts]], gain 1 [#ee82ee]Void[].
 |-
 |[[Dark Strike]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|4(3)
+|4
 |Deal 6 damage
 6 times.
 Apply 6 [[thevacant:Doom]].
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Diamond Is Unbreakable]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |X
-|[[thevacant:Mine]] a size X (X+1) [[thevacant:Diamond]].
+|[[thevacant:Mine]] X (X+1) size 1 [[thevacant:Diamonds]].
 [[Exhaust]].
 |-
 |[[Dimension Tear]]
@@ -460,7 +478,7 @@ Apply 6 [[thevacant:Doom]].
 |Rare
 |[[Attack]]
 |2
-|Deal 12(18) damage.
+|Deal 6(8) damage thrice.
 Add your [[Exhaust]] pile to your hand.
 [[Exhaust]].
 |-
@@ -468,50 +486,44 @@ Add your [[Exhaust]] pile to your hand.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|2
-|Gain [[Block]] equal to your missing HP.
-[[Exhaust]]. (not
-Exhaust.)
+|2(1)
+|([[thevacant:Ricochet]].)
+ Gain [[Block]] equal to your missing HP.
+[[Exhaust]].
 |-
 |[[Essence Of Bismuth]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
-|Double debuffs on ALL enemies.
+|1
+|[[thevacant:Unnate]].
+Double debuffs
+on ALL enemies.
 [[Exhaust]].
 |-
 |[[Exorcise]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|2
-|Cleanse all your Debuffs (and apply them to ALL enemies).
-[[Exhaust]].
-|-
-|[[Fiend Frost]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Attack]]
-|2
-|Deal 3(4) damage for each card in your discard pile. [[Exhaust]] your discard pile.
+|1
+|Remove all your Debuffs (and apply them to ALL enemies).
 [[Exhaust]].
 |-
 |[[Forge Soul]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1
-|([[Innate]].)
- Whenever you [[thevacant:Mill]] a card, [[upgrade]] it for the rest of combat.
+|1(0)
+|[[Innate]].
+Whenever you [[thevacant:Mill]] a card, [[Upgrade]] it for the rest of combat.
 |-
 |[[From Nothing]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|2
-|([[Innate]].)
- [[thevacant:Mill]] your draw pile.
+|2(1)
+|[[Innate]].
+[[thevacant:Mill]] your draw pile.
 [[Exhaust]].
 |-
 |[[Gilded Pickaxe]]
@@ -526,63 +538,55 @@ Exhaust.)
 |Rare
 |[[Skill]]
 |1
-|The next (2) time(s) you play a card that [[Exhausts]], play it twice.
-|-
-|[[Reap Soul]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Attack]]
-|2
-|Deal 10(14) damage.
-Gain [[Temporary_HP]] equal to unblocked damage.
-[[Exhaust]].
+|[[thevacant:Ricochet]].
+The next (2) time(s) you play a card that [[Exhausts]] this turn, play it twice.
 |-
 |[[Rejection]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1
-|Gain 2 [[Vulnerable]], 2 [[Weak]], and 4(6) [[Strength]].
+|2
+|Gain 5(7) [[Strength]], 2 [[Frail]], and 2 [[thevacant:Antifact]].
 |-
 |[[Requiem]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |3(2)
-|Whenever you gain HP, a buff, or a debuff, double it.
+|Whenever you gain
+a buff or a debuff,
+double it.
 |-
 |[[Runic Thoughts]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1
-|([[thevacant:Rebound]].)
- Powers [[thevacant:Rebound]].
-When you [[thevacant:Mill]] a Power, it costs 0 that turn.
-|-
-|[[Shatter]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Skill]]
-|3(2)
-|Chip ALL your Gems until they are gone. [[Exhaust]].
+|1(0)
+|([[thevacant:Ricochet]].)
+ Cards that cost less than 1 [[thevacant:Ricochet]].
 |-
 |[[Showdown]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |2
-|Deal 10(14) damage 2 times to ALL enemies.
-Apply 2 [[thevacant:Doom]] to
-EVERYONE.
+|Deal 16(22) damage to ALL enemies. Play your next attack twice. Apply 4 [[thevacant:Doom]] to EVERYONE.
+|-
+|[[Steal Soul]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Attack]]
+|2
+|Deal 20(25) damage.
+Remove (Steal) [[Artifact]] and [[Strength]].
+[[Exhaust]].
 |-
 |[[The Anvil]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |
-|[[Unplayable]]. [[thevacant:Unnate]]. [[thevacant:Heavy]].
-When this card is [[thevacant:Milled]], deal 24(32) damage to ALL enemies.
+|[[Unplayable]]. [[thevacant:Unnate]]. [[thevacant:Heavy]]. When this card is [[thevacant:Milled]], deal 24(32) damage to ALL enemies.
 |-
 |[[Time Skip]]
 |[[File:|thumb|289x289px]]
@@ -590,7 +594,7 @@ When this card is [[thevacant:Milled]], deal 24(32) damage to ALL enemies.
 |[[Skill]]
 |3
 |(Draw 2 cards.)
- All cards in your hand (to) cost 0 and [[Exhaust]].
+ All cards in your hand cost 0 and [[Exhaust]].
 [[Exhaust]].
 |-
 |[[Void Form]]
@@ -598,5 +602,15 @@ When this card is [[thevacant:Milled]], deal 24(32) damage to ALL enemies.
 |Rare
 |[[Power]]
 |3
-|Gain 5(8) [#ee82ee]Void[].
+|Gain 6(8) [#ee82ee]Void[].
+At the start of your turn, [[thevacant:Mill]] 6(8).
+|-
+|[[Voidstone]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1
+|Gain 6 [[Block]] twice.
+Choose a (ALL) card(s) to (in your hand) become [#ee82ee]Voidbound[].
+[[Exhaust]].
 |-

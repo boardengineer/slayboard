@@ -17,4 +17,5 @@
 | Parasite | ![](../../slay-the-spire/small-card-images/Parasite.png) | ![]() | Curse | Curse |  | Unplayable. If transformed or removed from your deck, lose 3 Max HP. |
 | Regret | ![](../../slay-the-spire/small-card-images/Regret.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, lose HP equal to the number of cards in your hand. |
 | Shame | ![](../../slay-the-spire/small-card-images/Shame.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, gain 1 Frail. |
+| Stone | ![](../../fishing/small-card-images/Stone.png) | ![]() | Curse | Curse |  | Unplayable. If this card is Exhausted, deal 9 damage to a random enemy. |
 | Writhe | ![](../../slay-the-spire/small-card-images/Writhe.png) | ![]() | Curse | Curse |  | Unplayable. Innate. |
